@@ -150,7 +150,7 @@
     "name": "星星🆚影視",
     "type": 3,
     "api": "./TV/drpy2.min.js",
-    "ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/摘星.js"
+    "ext": "./TV/摘星.js"
 },
 {
     "key": "hipy_js_一个g影视",
