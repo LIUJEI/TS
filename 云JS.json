@@ -27,13 +27,6 @@
 },
         
 {
-    "key": "布蕾",
-    "name": "影視🆘布蕾",
-    "type": 3,
-    "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
-    "ext": "./TV/bulei.js"
-},	
-{
     "key": "悠悠弹幕",
     "name": "影視🆘悠悠",
     "type": 3,
@@ -134,7 +127,7 @@
     "key": "hipy_js_荐片",
     "name": "影視🆚荐片",
     "type": 3,
-    "api": "http://kxrj.site:55/lib/drpy2.min.js",
+    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
     "order_num": 0,
     "ext": "./TV/荐片.js"
 },
@@ -142,28 +135,28 @@
     "key": "hipy_js_fxztg",
     "name": "糖果🆚影視",
     "type": 3,
-    "api": "http://kxrj.site:55/lib/drpy2.min.js",
+    "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
     "ext": "./TV/糖果.js"
 },
 {
     "key": "hipy_js_sd",
     "name": "閃電🆚影視",
     "type": 3,
-    "api": "http://kxrj.site:55/lib/drpy2.min.js",
+   "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/闪电.js"
 },
 {
     "key": "hipy_js_摘星",
     "name": "星星🆚影視",
     "type": 3,
-   "api": "http://kxrj.site:55/lib/drpy2.min.js",
+   "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/摘星.js"
 },
 {
     "key": "hipy_js_一个g影视",
     "name": "壹個🆚影視",
     "type": 3,
-    "api": "http://kxrj.site:55/lib/drpy2.min.js",
+   "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/一个g影视.js"
 },
 {
@@ -418,14 +411,14 @@
     "key": "hipy_js_云电影网",
     "name": "云电🆚影网",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/云电影网.js"
 },
 {
    "key": "hipy_js_一起看",
    "name": "壹起🆚影視",
    "type": 3,
-   "api": "./TV/drpy2.min.js",
+   "api": "https://weixine.net/js/lib/drpy2.min.js",
    "ext": "./TV/一起看.js"
 },
 {
@@ -439,21 +432,21 @@
     "key": "hipy_js_西瓜影院",
     "name": "西瓜🆚影視",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/西瓜影院.js"
 },
 {
     "key": "hipy_js_豆角网",
     "name": "🍥豆角网🍥",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/豆角网.js"
 },
 {
     "key": "hipy_js_热片网",
     "name": "🍥热片网🍥",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/热片网.js"
 },
 {
@@ -467,21 +460,21 @@
     "key": "hipy_js_星芽短剧",
     "name": "♨️星芽☪短劇",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/xingya.js"
 },
 {
     "key": "hipy_js_短剧天堂",
     "name": "♨️短剧☪天堂",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/短剧天堂.js"
 },
 {
     "key": "hipy_js_短剧TV网",
     "name": "♨️短剧☪TV网",
     "type": 3,
-    "api": "./TV/drpy2.min.js",
+    "api": "https://weixine.net/js/lib/drpy2.min.js",
     "ext": "./TV/短剧TV网.js"
 },
 {
