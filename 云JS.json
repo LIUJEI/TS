@@ -143,21 +143,21 @@
     "name": "閃電🆚影視",
     "type": 3,
    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/闪电.js"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/%E9%97%AA%E7%94%B5.js"
 },
 {
     "key": "hipy_js_摘星",
     "name": "星星🆚影視",
     "type": 3,
    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/摘星.js"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/摘星.js"
 },
 {
     "key": "hipy_js_一个g影视",
     "name": "壹個🆚影視",
     "type": 3,
    "api": "https://weixine.net/js/lib/drpy2.min.js",
-    "ext": "./TV/一个g影视.js"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/一个g影视.js"
 },
 {
     "key": "hipy_js_饺子影院",
@@ -165,35 +165,35 @@
     "type": 3,
     "api": "http://kxrj.site:55/lib/drpy2.min.js",
     "order_num": 0,
-    "ext": "./TV/饺子影院.js"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/饺子影院.js"
 },
 {
     "key": "hipy_js_8号影院",
     "name": "捌號🆚影院",
     "type": 3,
     "api": "http://kxrj.site:55/lib/drpy2.min.js",
-    "ext": "./TV/8号影院.js"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/8号影院.js"
 },
 {
     "key": "可可影视[优]_js",
     "name": "‍可可🆚影视",
     "type": 3,
     "api": "http://kxrj.site:55/lib/drpy2.min.js",
-    "ext": "./TV/可可影视[优].js"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/可可影视[优].js"
 },
 {
     "key": "熊猫TV_js",
     "name": "熊猫🆚TV",
     "type": 3,
     "api": "http://kxrj.site:55/lib/drpy2.min.js",
-    "ext": "./TV/熊猫TV.js"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/熊猫TV.js"
 },
 {
     "key": "宝片视频_js",
     "name": "宝片🆚視頻",
     "type": 3,
     "api": "http://kxrj.site:55/lib/drpy2.min.js",
-    "ext": "./TV/宝片视频.js"
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/TV/宝片视频.js"
 },
 {
     "key": "七新电影网_js",
