@@ -16,45 +16,33 @@
     "searchable": 0
 },
 {
-      "key": "config",
-      "name": "⚙️配置┃核心设置 接口免费公益 闲鱼购买都是傻子",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0
-    },
-    {
-      "key": "csp_Netfixtv",
-      "name": "🚀臻臻┃高峰不卡*网盘4K",
-      "type": 3,
-      "changeable": "0",
-      "quickSearch": 1,
-      "timeout": 15,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cuemhpemhlbjguY2xpY2siLAogICAgImh0dHBzOi8vcGFuLm1paGRyLnRvcCIsCiAgICAiaHR0cHM6Ly93d3cuemhpemhlbjEudG9wIiwKICAgICJodHRwczovL3d3dy5taWhkci50b3AiLAogICAgImh0dHBzOi8vd3d3Lm1pcWsuY2MiCiAgXSwKICAidXJsX2tleSI6ICJOZXRmaXh0diIsCiAgInRva2VuIjogIiIsCiAgInVjQ29va2llIjogIiIsCiAgInF1YXJrQ29va2llIjogIiIKfQ=="
-    },
-    {
-      "key": "csp_Wogg",
-      "name": "🧸玩偶┃高峰不卡*网盘4K",
-      "type": 3,
-      "api": "csp_Gege",
-      "timeout": 15,
-      "changeable": "0",
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "ewogICzaXRlX3VybHMiOiBbCiAgICAiaHR0cHM6Ly93d3cud29nZy5saXZlIiwKICAgICJodHRwOi8vd29nZ3Bhbi54eG9vby5jZiIsCiAgICAiaHR0cHM6Ly93d3cud29nZy5uZXQiCiAgXSwKICAidG9rZW4iOiAiIiwKICAidWNDb29raWUiOiAiIiwKICAicXVhcmtDb29raWUiOiAiIgp9"
-    },
-    {
-      "key": "csp_Duopan",
-      "name": "☁️蜡笔┃高峰不卡*网盘4K",
-      "type": 3,
-      "quickSearch": 1,
-      "changeable": "0",
-      "timeout": 15,
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "ext": "ewogICJzaXRlX3VybHMiOiBbCiAgICAiaHR0cDovL3R2cGFucGFuLnNpdGUiLAogICAgImh0dHA6Ly9mZWltby5mdW4iLAogICAgImh0dHA6Ly94aWFvY2dlZ2Uuc2hvcCIsCiAgICAiaHR0cHM6Ly93d3cubW1wYW5wYW4uc2l0ZSIsCiAgICAiaHR0cDovL3d3dy54aWFvY2dlZ2Uuc2hvcCIKICBdLAogICJ1cmxfa2V5IjogIkR1b3BhbjQiCn0="
-    },
+    "key": "爱营",
+    "name": "💥爱影┃热门4K",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
+},
+{
+    "key": "新首发",
+    "name": "🏵️首发┃热门4K",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+},
+{
+    "key": "csp_lanying",
+    "name": "🦉┃朗吟┃ APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext":  "http://154.219.117.157:6688|ca94b06ca359d80e"
+},
+{
+    "key": "csp_hulu",
+    "name": "🍇┃阑珊┃ APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": "http://v12-1-hulucms.nmgzxrl.com|8R33VQSxzmCaHpEX"
+},
     {
       "key": "天天",
       "name": "🚀秒播┃高清影视",
@@ -96,22 +84,7 @@
       "type": 3,
       "api": "csp_PianKu8"
     },
-    {
-      "key": "爱营",
-      "name": "💥爱影┃热门4K",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
-    },
-    {
-      "key": "新首发",
-      "name": "🏵️首发┃热门4K",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
-    },
+    
     {
       "key": "枫叶影视",
       "name": "🍁枫叶┃热门4K",
