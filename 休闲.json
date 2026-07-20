@@ -1,6 +1,6 @@
 {
   "warningText": "",
-  "spider": "/JAR/MX.jar",
+  "spider": "./JAR/MX.jar",
   "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
   "sites": [
     {
