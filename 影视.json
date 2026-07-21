@@ -1,7 +1,7 @@
 {
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   
-  "spider": "https://img2.gelonghui.com/library/e2693-9aa941a0-f96a-40c2-ac23-e6af358d19a7.png;md5;e2693c58ebc58abecc7282b721db79ca",
+  "spider": "./JAR/xm.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://hello.xn--z7x900a.com/fm.gif",
   
@@ -15,41 +15,7 @@
     "api": "csp_Douban",
     "searchable": 0
 },
-{
-      "key": "肥猫",
-      "name": "🐼┃肥猫┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://cms140.yhg.one|bM7iC9eA3oZ1nB7z"
-    },
-    {
-      "key": "干饭",
-      "name": "🍚┃干饭┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://mk1080.top/get.txt|c60d88b2eep53za8"
-    },
-    {
-      "key": "光盘",
-      "name": "📀┃光盘┃APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M"
-    },
-    {
-      "key": "行动",
-      "name": "😌┃行动┃APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk"
-    },
-    {
-      "key": "再来",
-      "name": "✌️┃再来┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://vv.229d.cn|8888888888888888"
-    },
+
     {
       "key": "一碗",
       "name": "🥣┃一碗┃APP",
@@ -64,13 +30,7 @@
       "api": "csp_AppGet",
       "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
     },
-    {
-      "key": "永永",
-      "name": "♾️┃永永┃APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://444421.xyz|#getapp@TMD@2025|120"
-    },
+    
 {
     "key": "爱营",
     "name": "💥爱影┃热门4K",
