@@ -1,5 +1,5 @@
 {
-  "spider": "https://d.kstore.dev/download/12194/%E8%87%AA%E7%94%A8/mao.jar;md5;1c7945c2012c4aa513fd4a43de256f56",
+  "spider": "./JAR/mao.jar;md5;1c7945c2012c4aa513fd4a43de256f56",
   "wallpaper": "proxy://do=wallpaper",
   "sites": [
     {
