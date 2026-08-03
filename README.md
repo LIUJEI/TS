@@ -18,19 +18,19 @@
 
 #    ⚙️GitHub加速站
 
-*  https://gh-proxy.com/
+*  https://raw.githubusercontent.com/LIUJEI/TB/master/YS.jpg
 
-*  https://mirror.ghproxy.com/
+*  https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/YS.jpg
 
-*  https://github.moeyy.xyz/
+*  https://gcore.jsdelivr.net/gh/LIUJEI/TB@master/YS.jpg
 
-*  https://gh.xxooo.cf/
+*  https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/YS.jpg
+  
+*  https://fastly.jsdelivr.net/gh/LIUJEI/TB@master/YS.jpg
 
-*  https://gh.llkk.cc/
+*  https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/master/YS.jpg
 
-*  https://github.ednovas.xyz/
-
-*  https://gitdl.cn/
+*  https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/YS.jpg
 
 *  https://cf.ghproxy.cc/
 
