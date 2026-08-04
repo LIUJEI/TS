@@ -18,7 +18,6 @@
 {"name": "🚸《集多》VOX","url": "http://rihou.cc:88/demo.php"},
 {"name": "🚸《自用》TYY","url": "http://825826.xyz:666/tvbox/TYY2/SS.txt"},
 {"name": "🚸《自用》EasyTV","url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"},
-{"name": "🚸《自用》天神","url": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/%E5%A4%A9%E7%A5%9EIY.png"},
 {"name": "🚸《自用》南风","url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
 {"name": "🚸《自用》福利","url": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TS/main/休闲.json"}
 ]}
