@@ -1,14 +1,14 @@
 {"storeHouse": [
 {
     "sourceName": "①🍱稳定仓🍭长期有效🍭",
-    "sourceUrl": "https://fastly.jsdelivr.net/gh/LIUJEI/TS@master/drpy/AB.php"
+    "sourceUrl": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/drpy/AB.php"
 },
 {
     "sourceName": "②🎎测试仓🍭短期有效🍭",
-    "sourceUrl": "https://fastly.jsdelivr.net/gh/LIUJEI/TS@master/drpy/AC.php"
+    "sourceUrl": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/drpy/AC.php"
 },
 {
     "sourceName": "③🎎网友仓🍭短期有效🍭",
-    "sourceUrl": "https://fastly.jsdelivr.net/gh/LIUJEI/TS@master/drpy/CC.php"
+    "sourceUrl": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/drpy/CC.php"
 }
 ]}
