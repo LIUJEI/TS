@@ -2,15 +2,15 @@
 "urls": [
 {
     "name": "🚸《影视》",
-    "url": "https://raw.githubusercontent.com/LIUJEI/TS/main/影视.php"
+    "url": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@/main/MH.php"
 },
 {
     "name": "🚸《魔盒》",
-    "url": "https://raw.githubusercontent.com/LIUJEI/TS/main/魔盒.php"
+    "url": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@/main/MX.php"
 },
 {
     "name": "🚸《休闲》",
-    "url": "https://raw.githubusercontent.com/LIUJEI/TS/main/休闲.php"
+    "url": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@/main/XX.php"
 }
 ]
 }
