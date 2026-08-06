@@ -39,6 +39,13 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/星辰.php"
 },
 {
+    "key": "csp_4K电影网",
+    "name": "💞┃枫叶┃4K",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/咕咚.php"
+}, 
+{
     "key": "csp_xBPQ_MTYY",
     "name": "💞┃麥田┃影院",
     "type": 3,
@@ -346,13 +353,6 @@
     "api": "csp_XBPQ",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/枫叶.php"
 },
-{
-    "key": "csp_咕咚电影网",
-    "name": "💞┃咕咚┃电影",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/咕咚.php"
-}, 
 {
     "key": "csp_XBPQ_起看",
     "name": "💞┃起看┃影院",
