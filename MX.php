@@ -25,25 +25,11 @@
     "jar" : "http://rihou.cc:88/jar/xbpq.jar"
 },
 {
-    "key": "csp_咕咚电影网",
-    "name": "💞┃咕咚┃电影",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/咕咚.php"
-}, 
-{
     "key": "csp_xBPQ_饭团",
     "name": "💞┃饭团┃影院",
     "type":3,
     "api": "csp_XBPQ",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/饭团.php"
-},
-{
-    "key": "csp_XBPQ_起看",
-    "name": "💞┃起看┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/起看.php"
 },
 {
     "key": "csp_xBPQ_星辰影视",
@@ -359,6 +345,20 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/枫叶.php"
+},
+{
+    "key": "csp_咕咚电影网",
+    "name": "💞┃咕咚┃电影",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/咕咚.php"
+}, 
+{
+    "key": "csp_XBPQ_起看",
+    "name": "💞┃起看┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/起看.php"
 },
 {
     "key": "相声",
