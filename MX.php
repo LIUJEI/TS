@@ -43,7 +43,7 @@
     "name": "💞┃枫叶┃4K",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/咕咚.php"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/枫叶.php"
 }, 
 {
     "key": "csp_xBPQ_MTYY",
