@@ -39,8 +39,8 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/星辰.php"
 },
 {
-    "key": "csp_4K电影网",
-    "name": "💞┃枫叶┃4K",
+    "key": "csp_枫叶电影网",
+    "name": "💞┃枫叶┃影院",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/枫叶.php"
