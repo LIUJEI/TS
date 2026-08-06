@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
   "warningText":"💕永久完全免费，切勿付费购买💕",  
-  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
+  "spider": "./JAR/MX.jar",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
 
@@ -13,7 +13,7 @@
     "key": "csp_DouBan",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/douban.js",
+    "api" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/douban.php",
     "searchable": 0
 },
 {
@@ -21,365 +21,344 @@
     "name": "🎬┣热门┫预告",
     "type": 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/wang.json",
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/wang.php",
     "jar" : "http://rihou.cc:88/jar/xbpq.jar"
+},
+{
+    "key": "csp_咕咚电影网",
+    "name": "💞┃咕咚┃电影",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/咕咚.php"
+}, 
+{
+    "key": "csp_xBPQ_饭团",
+    "name": "💞┃饭团┃影院",
+    "type":3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/饭团.php"
+},
+{
+    "key": "csp_XBPQ_起看",
+    "name": "💞┃起看┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/起看.png"
+},
+{
+    "key": "csp_xBPQ_星辰影视",
+    "name": "💞┃星辰┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/星辰.php"
+},
+{
+    "key": "csp_xBPQ_MTYY",
+    "name": "💞┃麥田┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/麥田.php"
+},
+{
+    "key": "鹊桥影院",
+    "name": "💞┃鹊桥┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/鹊桥.php"
 },
 {
     "key" : "csp_岚猫",
     "name" : "💞┃影視┃岚猫",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/岚猫.json"
-},
-{
-    "key": "csp_枫叶4k",
-    "name": "💞┃影視┃枫叶",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/枫叶.json"
-},
-{
-    "key": "csp_晓米",
-    "name": "💞┃影視┃晓米",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/晓米.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/岚猫.php"
 },
 {
     "key": "csp_扁豆",
     "name": "💞┃影視┃扁豆",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/扁豆.json"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/扁豆.php"
 },
 {
     "key" : "csp_优兔",
     "name" : "💞┃影視┃优兔",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/优兔.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/优兔.php"
 },
 {
     "key" : "csp_菲特",
     "name" : "💞┃影視┃菲特",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/菲特.json"
-},
-{
-    "key": "csp_菜菜",
-    "name": "💞┃影視┃菜菜",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/菜菜.json"
-},
-{
-    "key": "csp_金鹰",
-    "name": "💞┃影視┃金鹰",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/金鹰.json"
-},
-{
-    "key": "csp_水牛",
-    "name": "💞┃影視┃水牛",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/水牛.json"
-},
-{
-    "key" : "csp_侠客",
-    "name" : "💞┃影視┃侠客",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/侠客.json"
-}, 
-{
-    "key" : "csp_观威",
-    "name" : "💞┃影視┃观影",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/观影.json"
-},
-{
-    "key" : "csp_西岐",
-    "name" : "💞┃影視┃西岐",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/西岐.json"
-},
-{
-    "key": "csp_禾嘉",
-    "name": "💞┃影視┃嘉禾",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/禾嘉.json"
-},
-{
-    "key": "csp_蜂鸟",
-    "name": "💞┃影視┃蜂鸟",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/蜂鸟.json"
-},
-{
-    "key": "csp_123",
-    "name": "💞┃影視┃数字",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/XP/123.json"
-},
-{
-    "key" : "csp_飞鱼",
-    "name" : "💞┃影視┃飞鱼",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/飞鱼.json"
-},
-{
-    "key" : "csp_白羊",
-    "name" : "💞┃影視┃白羊",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/白羊.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/菲特.php"
 },
 {
     "key" : "csp_独播库",
     "name" : "💞┃影視┃独播",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/独播.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/独播.php"
 },
 {
     "key" : "csp_青禾",
     "name" : "💞┃影視┃青禾",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/青禾.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/青禾.php"
 }, 
+{
+    "key": "csp_菜菜",
+    "name": "💞┃影視┃菜菜",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/菜菜.php"
+},
+{
+    "key": "csp_金鹰",
+    "name": "💞┃影視┃金鹰",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/金鹰.php"
+},
+{
+    "key": "csp_禾嘉",
+    "name": "💞┃影視┃嘉禾",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/禾嘉.php"
+},
+{
+    "key": "csp_蜂鸟",
+    "name": "💞┃影視┃蜂鸟",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/蜂鸟.php"
+},
+{
+    "key": "csp_123",
+    "name": "💞┃影視┃数字",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/123.php"
+},
+{
+    "key" : "csp_侠客",
+    "name" : "💞┃影視┃侠客",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/侠客.php"
+}, 
+{
+    "key" : "csp_观威",
+    "name" : "💞┃影視┃观影",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/观影.php"
+},
+{
+    "key" : "csp_西岐",
+    "name" : "💞┃影視┃西岐",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/西岐.php"
+},
+{
+    "key" : "csp_飞鱼",
+    "name" : "💞┃影視┃飞鱼",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/飞鱼.php"
+},
+{
+    "key" : "csp_白羊",
+    "name" : "💞┃影視┃白羊",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/白羊.php"
+},
 {
     "key" : "csp_初战",
     "name" : "💞┃影視┃初战",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/初战.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/初战.php"
+},
+{
+    "key": "csp_水牛",
+    "name": "💞┃影視┃水牛",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/水牛.php"
 },
 {
     "key" : "csp_电影港",
     "name" : "💞┃影視┃港影",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/港影.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/港影.php"
 },
-{
-    "key" : "csp_猷酷",
-    "name" : "💞┃影視┃猷酷",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/猷酷.json"
-}, 
 {
     "key" : "csp_云播",
     "name" : "💞┃影視┃云播",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/云播.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/云播.php"
 },
 {
     "key" : "csp_闪电影院",
     "name" : "💞┃影視┃闪电",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/闪电.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/闪电.php"
 },
 {
     "key" : "csp_蘑菇",
     "name" : "💞┃影視┃蘑菇",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/蘑菇.json"
-},
-{
-    "key" : "csp_漪澜",
-    "name" : "💞┃影視┃漪澜",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/漪澜.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/蘑菇.php"
 },
 {
     "key" : "csp_飞马",
     "name" : "💞┃影視┃飞马",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/飞马.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/飞马.php"
 },
 {
     "key" : "csp_极光",
     "name" : "💞┃影視┃极光",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/极光.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/极光.php"
 },
 {
     "key" : "csp_白菜",
     "name" : "💞┃影視┃白菜",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/白菜.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/白菜.php"
 },
 {
     "key" : "csp_东篱",
     "name" : "💞┃影視┃东篱",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/东篱.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/东篱.php"
 },
 {
     "key" : "csp_享乐",
     "name" : "💞┃影視┃享乐",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/享乐.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/享乐.php"
 },
 {
     "key" : "csp_小米",
     "name" : "💞┃影視┃小米",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/小米.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/小米.php"
 },
 {
     "key" : "csp_三星",
     "name" : "💞┃影視┃三星",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/三星.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/三星.php"
 },
 {
     "key" : "csp_永乐",
     "name" : "💞┃影視┃永乐",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/乐永.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/乐永.php"
 },
 {
     "key" : "csp_光棍",
     "name" : "💞┃影視┃光棍",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/光棍.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/光棍.php"
 },
 {
     "key" : "csp_悠悠",
     "name" : "💞┃影視┃悠悠",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/悠悠.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/悠悠.php"
 }, 
 {
     "key" : "csp_青蛙",
     "name" : "💞┃影視┃青蛙",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/青蛙.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/青蛙.php"
 },
 {
     "key" : "csp_华视",
     "name" : "💞┃影視┃华视",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/华视.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/华视.php"
 }, 
 {
     "key" : "csp_豪格",
     "name" : "💞┃影視┃豪格",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/豪格.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/豪格.php"
 },
 {
     "key" : "csp_香君",
     "name" : "💞┃影視┃香君",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/香君.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/香君.php"
 },
 {
     "key" : "csp_人人",
     "name" : "💞┃影視┃人人",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/人人.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/人人.php"
 },
 {
     "key" : "csp_零零七",
     "name" : "💞┃影視┃零七",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/零七.json"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/零七.php"
 },
 {
     "key" : "csp_稀饭",
     "name" : "💞┃影視┃稀饭",
     "type" : 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://gitee.com/lyun_1_0/tb/raw/master/XP/稀饭.json"
-},      
-{
-    "key": "csp_咕咚电影网",
-    "name": "🍁┃咕咚┃电影",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/咕咚.png",
-    "类型": "影视"
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/稀饭.php"
 }, 
 {
-    "key": "csp_XBPQ_起看",
-    "name": "🍁┃起看┃影院",
+    "key" : "csp_猷酷",
+    "name" : "💞┃影視┃猷酷",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/猷酷.php"
+}, 
+{
+    "key": "csp_晓米",
+    "name": "💞┃影視┃晓米",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/起看.png",
-    "类型": "影视"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/晓米.php"
 },
 {
-    "key": "Aries-全民影院",
-    "name": "🍁┃全民┃影院",
+    "key": "csp_枫叶4k",
+    "name": "💞┃影視┃枫叶",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/全民.png",
-    "类型": "影视"
-},
-{
-    "key": "csp_xBPQ_星辰影视",
-    "name": "🍁┃星辰┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/星辰.png",
-    "类型": "影视"
-},
-{
-    "key": "csp_xBPQ_MTYY",
-    "name": "🍁┃麥田┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/麥田.png",
-    "类型": "影视"
-},
-{
-    "key": "csp_xBPQ_饭团",
-    "name": "🍁┃饭团┃影院",
-    "type":3,
-    "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/饭团.png",
-    "类型": "影视"
-},
-{
-    "key": "鹊桥影院",
-    "name": "🍁┃鹊桥┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/鹊桥.png",
-    "类型": "影视"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/枫叶.php"
 },
 {
     "key": "奇异",
