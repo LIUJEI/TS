@@ -1,9 +1,10 @@
 {
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
   "warningText":"💕永久完全免费，切勿付费购买💕",  
+  "spider": "./JAR/MH.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "spider": "https://pan.szfx.top/down.php/160c67492b103594de3ddc27888e62ea.jar",
-  "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+  "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
+  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
 //数据接口====================================网站===============================================
   "sites": [
 {
@@ -461,6 +462,22 @@
     "type": 3,
     "api": "csp_HaokanDJ",
     "genre": "shortdrama"
+},
+{ 
+    "key":"csp_红果短剧",
+    "name":"♨️┃短劇┃红果",
+    "type":4,
+    "api":"https://api.uumnet.com/tvbox/php/nxduanju_xxy.php?token=nxyyds",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+},
+{
+    "key": "pipixa",
+    "name": "♨️┃皮虾┃秒播",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
+    "ext": "http://43.248.117.123:4680"
 },
 {
     "key": "dr_腾迅",
