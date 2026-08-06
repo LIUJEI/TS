@@ -14,7 +14,7 @@
 {"name": "🚸《绿豆》蓝光","url": "https://ry.90sr.com/lg.json"},
 {"name": "🚸《自用》牛马","url": "http://nn.4688888.xyz/common.json"},
 {"name": "🚸《自用》陆城","url": "https://jianhancloud.cn/lcys/lcjk.json"},
-{"name": "🚸《自用》XBP","url": "https://wp.kayyw.com/f/OLb3cd/XBP.json"}, 
+{"name": "🚸《自用》XBP","url": "http://47.96.82.41:5188/rose/18/xgg.json"}, 
 {"name": "🚸《集多》VOX","url": "http://rihou.cc:88/demo.php"},
 {"name": "🚸《自用》TYY","url": "http://825826.xyz:666/tvbox/TYY2/SS.txt"},
 {"name": "🚸《自用》EasyTV","url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"},
