@@ -4,17 +4,255 @@
   "sites": [
     {
       "key": "🈲",
-      "name": "箐箐🏡庄园",
+      "name": "📛TH┃少儿不宜",
       "type": 1,
       "api": "csp"
     },
     {
       "key": "色播",
-      "name": "青青🏡草原",
+      "name": "📛TH┃直播",
       "type": 3,
-      "api": "https://gitee.com/lyun_1_0/tb/raw/master/TS/色播.js",
+      "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/色播.php",
       "searchable": 1,
       "changeable": 0
+    },
+    {
+      "key": "pornhub.llc",
+      "name": "撸铁🥥直播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/続行直播.php"
+    },
+    {
+      "key": "直播平台二级",
+      "name": "撸铁🥥直播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/卡哇依直播.php"
+    },
+    {
+      "key": "😍V-HUB",
+      "name": "撸铁🥥三藏",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/中东地区.php"
+    },
+    {
+      "key": "猪八戒p",
+      "name": "撸铁🥥八戒",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/猪八戒.php"
+    },
+    {
+      "key": "窜天猴",
+      "name": "撸铁🥥悟空",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/窜天猴.php"
+    },
+    {
+      "key": "色花堂",
+      "name": "撸铁🥥色堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/色花堂.php"
+    },
+    {
+      "key": "七色谷",
+      "name": "撸铁🥥色谷",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/七色谷.php"
+    },
+    {
+      "key": "激动网",
+      "name": "撸铁🥥激动",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/激动网.php"
+    },
+    {
+      "key": "桃花浪",
+      "name": "撸铁🥥花浪",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/桃花浪.php"
+    },
+    {
+      "key": "野鸡🐔TV",
+      "name": "撸铁🥥野鸡",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/野鸡TV.php"
+    },
+    {
+      "key": "成鸡思汉",
+      "name": "撸铁🥥思汉",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/成鸡思汉.php"
+    },
+    {
+      "key": "自排偷拍",
+      "name": "撸铁🥥偷拍",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/自排偷拍.php"
+    },
+    {
+      "key": "桃花",
+      "name": "撸铁🥥桃花",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/桃花.php"
+    },
+    {
+      "key": "樱樱女子",
+      "name": "撸铁🥥女子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/樱樱女子.php"
+    },
+    {
+      "key": "美人吹箫",
+      "name": "撸铁🥥吹箫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/美人吹箫.php"
+    },
+    {
+      "key": "公子别走",
+      "name": "公子🥥别走",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/公子别走.php"
+    },
+    {
+      "key": "撸铁汉",
+      "name": "金陵🥥撸铁",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/金陵撸铁汉.php"
+    },
+    {
+      "key": "超级精品",
+      "name": "超级🥥精品",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/超级精品.php"
+    },
+    {
+      "key": "Free",
+      "name": "撸铁🥥Free",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/Free.php"
+    },
+    {
+      "key": "一个纯粹的x站",
+      "name": "撸铁🥥xx站",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/xx网站.php"
+    },
+    {
+      "key": "csp_XYQHiker_javffm",
+      "name": "撸铁🥥FFM",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/続行直播.php"
+    },
+    {
+      "key": "csp_XYQHiker_日日撸",
+      "name": "撸铁🥥日撸",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/日日撸.php"
+    },
+    {
+      "key": "csp_XYQHiker_黄色仓库la",
+      "name": "撸铁🥥黄仓",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/黄色仓库.php"
+    },
+    {
+      "key": "榨汁",
+      "name": "撸铁🥥榨汁",
+      "type": 3,
+      "api": "csp_XBPQ",
+     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/榨汁姐.php"
+    },
+    {
+      "key": "魔法少女2",
+      "name": "撸铁🥥少女",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/魔法少女.php"
+    },
+    {
+      "key": "段老师",
+      "name": "撸铁🥥段老",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/続行直播.php"
+    },
+    {
+      "key": "csp_香蕉视频",
+      "name": "撸铁🥥香蕉",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/KHYY.php"
+    },
+    {
+      "key": "sehuatang",
+      "name": "撸铁🥥华堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/色华堂.php"
+    },
+    {
+      "key": "csp_黑料福利社",
+      "name": "撸铁🥥黑料",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/閨密.php"
+    },
+    {
+      "key": "csp_乱伦群视频",
+      "name": "撸铁🥥乱伦 ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/乱伦群.php"
+    },
+    {
+      "key": "55视频",
+      "name": "撸铁🥥55视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/55视频.php"
+    },
+    {
+      "key": "83视频",
+      "name": "撸铁🥥83视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/83视频.php"
+    },
+    {
+      "key": "GDD视频",
+      "name": "撸铁🥥GD视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/GD视频.php"
+    },
+    {
+      "key": "18XXX",
+      "name": "撸铁🥥18视频",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/18XX.php"
     },
     {
       "key": "采集G(辣椒)",
