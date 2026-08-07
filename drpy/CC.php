@@ -19,7 +19,7 @@
 {"name": "🚸《自用》TYY","url": "http://825826.xyz:666/tvbox/TYY2/SS.txt"},
 {"name": "🚸《自用》EasyTV","url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"},
 {"name": "🚸《自用》南风","url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
-{"name": "🚸《自用》福利","url": "https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TS/main/休闲.json"}
+{"name": "🚸《自用》福利","url": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XX.php"}
 ]}
 
  //https://bjq.catvod.site/肥猫AI干货
