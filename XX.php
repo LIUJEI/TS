@@ -182,7 +182,7 @@
       "name": "撸铁🥥少女",
       "type": 3,
       "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/魔法少女.php"
+      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/探花.php"
     },
     {
       "key": "csp_香蕉视频",
