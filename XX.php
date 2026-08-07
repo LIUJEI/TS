@@ -157,13 +157,6 @@
       "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/xx网站.php"
     },
     {
-      "key": "csp_XYQHiker_javffm",
-      "name": "撸铁🥥FFM",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/続行直播.php"
-    },
-    {
       "key": "csp_XYQHiker_日日撸",
       "name": "撸铁🥥日撸",
       "type": 3,
@@ -190,13 +183,6 @@
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/魔法少女.php"
-    },
-    {
-      "key": "段老师",
-      "name": "撸铁🥥段老",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/続行直播.php"
     },
     {
       "key": "csp_香蕉视频",
