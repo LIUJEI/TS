@@ -1,6 +1,6 @@
 {
-  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MH.jar",
-  "wallpaper": "http://api.btstu.cn/sjbz/?lx=meizi",
+  "spider": "./JAR/MX.jar",
+  "wallpaper": "proxy://do=wallpaper",
   "sites": [
     {
       "key": "🈲",
