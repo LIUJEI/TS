@@ -2,7 +2,7 @@
 "urls": [
 {
     "name": "🚸《影视》",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/MH.php"
+    "url": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/MH.php"
 },
 {
     "name": "🚸《魔盒》",
