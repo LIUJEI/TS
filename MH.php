@@ -261,7 +261,8 @@
     "key": "csp_BuBu",
     "name": "🥂┃影視┃ 布布",
     "type": 3,
-    "api": "csp_App3Q",
+    "api": "csp_AppYd",
+    "jar": "https://nos.netease.com/ysf/f26f89c9230d39276e715f7283e1fa67.jpg",
     "ext": {
     "host": "https://asd123sx23xdacsx.top",
     "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
@@ -276,7 +277,8 @@
     "key": "csp_云朵影视",
     "name": "☁┃影視┃云朵",
     "type": 3,
-    "api": "csp_App3Q",
+    "api": "csp_AppYd",
+    "jar": "https://nos.netease.com/ysf/f26f89c9230d39276e715f7283e1fa67.jpg",
     "ext": {
     "host": "https://ds3xy2yunsa.xyz",
     "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
@@ -288,19 +290,11 @@
     "ver": "1"}
 },
 {
-    "key": "csp_马猴影视",
-    "name": "🦓┃影視┃马猴",
+    "key": "csp_世界影视",
+    "name": "🦓┃影視┃世界",
     "type": 3,
-    "api": "csp_App3Q",
-    "ext": {
-    "host": "https://45.150.167.18:8000",
-    "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
-    "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
-    "deviceBrand": "vivo",
-    "deviceModel": "V2309A",
-    "pkg": "com.damahou.tv",
-    "sk": "SK-woniu-thanks",
-    "ver": "1"}
+    "api": "csp_HkybSpider",
+    "jar": "https://nos.netease.com/ysf/f26f89c9230d39276e715f7283e1fa67.jpg"
 },
 {
     "key": "feiyu_video",
