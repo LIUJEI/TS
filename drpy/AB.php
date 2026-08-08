@@ -6,7 +6,7 @@
 },
 {
     "name": "🚸《备用》",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/MX.php"
+    "url": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/MG.php"
 },
 {
     "name": "🚸《魔盒》",
