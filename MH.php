@@ -18,7 +18,7 @@
     "key": "csp_liuyun",
     "name":"🎬┣琉璃┫影視",
     "type": 3,
-    "api": "https://gcore.jsdelivr.net/gh/LIUJEI/TB@master/TS/琉璃.php",
+    "api": "https://gcore.jsdelivr.net/gh/LIUJEI/TS@main/TS/琉璃.js",
     "indexs" : 0
 },
 {
