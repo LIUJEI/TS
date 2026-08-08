@@ -13,7 +13,7 @@
     "key": "csp_DouBan",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/douban.php",
+    "api" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/douban.js",
     "searchable": 0
 },
 {
@@ -21,7 +21,7 @@
     "name": "🎬┣热门┫预告",
     "type": 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/wang.php",
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/wang.json",
     "jar" : "http://rihou.cc:88/jar/xbpq.jar"
 },
 {
