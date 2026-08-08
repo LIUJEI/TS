@@ -2,7 +2,7 @@
 "urls": [
 {
     "name": "🚸《影视》",
-    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/MX.php"
+    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/MH.php"
 },
 {
     "name": "🚸《备用》",
