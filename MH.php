@@ -1,6 +1,6 @@
 {
   /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
-  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MG.jar;md5;1c7945c2012c4aa513fd4a43de256f56",
+  "spider": "./JAR/MG.jar",
   "wallpaper": "proxy://do=wallpaper",
   //数据接口====================================网站===============================================
 "sites": [
@@ -17,14 +17,6 @@
     "type": 3,
     "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/琉璃.js",
     "indexs": 0
-},
-{
-    "key": "csp_fengyei",
-    "name": "🍁┃枫叶┃秒播",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/枫叶.php"
 },
 {
     "key": "csp_huayi",
@@ -296,6 +288,14 @@
     "type": 3,
     "api": "csp_BiliYS",
     "indexs": 0
+},
+{
+    "key": "csp_fengyei",
+    "name": "🍁┃枫叶┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/枫叶.php"
 },
 {
     "key": "央视栏目",
