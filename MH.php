@@ -158,6 +158,55 @@
     "ext": "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"
 },
 {
+    "key": "csp_BuBu",
+    "name": "🥂┃影視┃ 布布",
+    "type": 3,
+    "api": "csp_AppYd",
+    "jar": "https://gitee.com/lyun_1_0/TS/raw/master/JAR/MH.jar",
+    "ext": {
+    "host": "https://bubutv.top",
+    "finger": "SF-C3B2B41F6EFFFF9869176CF68F6790E8F07506FC88632C94B4F5F0430D5498CA",
+    "updateId": "38b0ddfd-9aa3-8e42-5c92-a7fddd3d36e7",
+    "deviceBrand": "vivo",
+    "deviceModel": "V2309A",
+    "pkg": "com.sunshine.tv",
+    "sk": "SK-thanks",
+    "ver": "6"}
+},
+{
+    "key": "csp_云朵影视",
+    "name": "☁┃影視┃云朵",
+    "type": 3,
+    "api": "csp_AppYd",
+    "jar": "https://gitee.com/lyun_1_0/TS/raw/master/JAR/MH.jar",
+    "ext": {
+    "host": "https://ds3xy2yunsa.xyz",
+    "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
+    "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
+    "deviceBrand": "vivo",
+    "deviceModel": "V2309A",
+    "pkg": "com.tvcloud.io",
+    "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
+    "ver": "1"}
+},
+{
+    "key": "YunZhenXiang",
+    "name": "🎊┃帧享┃秒播",
+    "type": 3,
+    "api": "csp_YunZhenXiang",
+    "jar": "https://gitee.com/lyun_1_0/TS/raw/master/JAR/MH.jar",
+    "ext": {
+    "index_url": "https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json",
+    "key_api": "https://www.tangsan.fun/zx.php"}
+},
+{
+    "key": "AiKan_Spider",
+    "name": "🚀秒播┃爱看剧场",
+    "type": 3,
+    "api": "csp_AiKan",
+    "ext": "http://43.248.117.123:4680"
+},
+{
     "key": "麦田",
     "name": "🌾┃麦田┃秒播",
     "type": 3,
@@ -165,7 +214,7 @@
     "ext": "http://172.247.227.203:25321/mtys.php"
 },
 {
-    "key": "爱影",
+    "key": "aiying",
     "name": "💝┃爱影┃影视",
     "type": 3,
     "api": "csp_AppQi",
@@ -228,43 +277,10 @@
     "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/枫叶.php"
 },
 {
-      "key": "云播影视",
-      "name": "云播 • 影视",
-      "type": 3,
-      "api": "csp_Tvyb"
-    },
-{
-      "key": "山楂影视",
-      "name": "山楂 • 影视",
-      "type": 3,
-      "api": "csp_PianKu8"
-    },
-    {
-      "key": "飞娱影视",
-      "name": "飞娱 • 影视",
-      "type": 3,
-      "api": "csp_Feiyu"
-    },
-{
-      "key": "修罗影视",
-      "name": "修罗 • 影视",
-      "api": "csp_Xlys",
-      "type": 3,
-      "ext": "https://www.xlysw.ggff.net"
-    },
-{
-      "key": "农民影视",
-      "name": "农民 • 影视",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200"
-    },
-{
-    "key": "山楂",
-    "name": "🍬┃山楂┃影视",
+    "key": "飞娱影视",
+    "name": "🍬┃飞娱┃影视",
     "type": 3,
-    "api": "csp_PianKu8",
-    "indexs": 0
+    "api": "csp_Feiyu"
 },
 {
     "key": "马猴影视",
