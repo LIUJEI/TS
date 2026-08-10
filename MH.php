@@ -384,11 +384,13 @@
     "indexs": 0
 },
 {
-    "key": "飞猫KTV",
-    "name": "🎻┃飞猫┃音乐",
+    "key": "csp_BiliMV",
+    "name": "🎺┃哔哩┃音乐",
     "type": 3,
-    "api": "csp_FeimaoKtv",
-    "ext": "{\"host\":\"https://ktv.catvod.site\",\"key\":\"ktv_jIO7myCOGTEYCLByS9ABrBXGOmxK6D8_\"}"
+    "api": "csp_Bili",
+    "ext": {
+    "json": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/TS/音乐.json",
+    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}
 },
 {
     "key": "双星99",
@@ -722,6 +724,48 @@
     "type": 3,
     "api": "csp_FishCloud",
     "ext": {"site": ["http://shandian.blog"]}
+},
+{
+    "key": "dr_腾迅",
+    "name": "🆚┃騰訊┃ TV",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/drpy2.min.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/TS/QQtv.js"
+},
+{
+    "key": "dr_芒果",
+    "name": "🆚┃芒果┃ TV",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/drpy2.min.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/TS/MGtv.js"
+},
+{
+    "key": "dr_奇异",
+    "name": "🆚┃奇藝┃ TV",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/drpy2.min.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/TS/AQItv.js"
+},
+{
+    "key": "dr_优酷",
+    "name": "🆚┃優酷┃ TV",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/drpy2.min.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/TS/yKtv.js"
+},
+{
+    "key": "dr_哔哩视频",
+    "name": "🆚┃嗶哩┃ TV",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/drpy2.min.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/TS/bili.js"
+ },
+ {
+    "key": "dr_搜狗",
+    "name": "🆚┃搜狗┃ TV",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/drpy2.min.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/TS/SGtv.js"
 },
 {
     "key": "push_agent",
