@@ -19,31 +19,12 @@
     "indexs": 0
 },
 {
-    "key": "星河",
-    "name": "💫┃星河┃影视",
+    "key": "csp_fengyei",
+    "name": "🍁┃枫叶┃秒播",
     "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-    "dataKey": "kj37zs29q22jk96t",
-    "dataIv": "kj37zs29q22jk96t",
-    "init": "initV122",
-    "playname": "星河",
-    "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "剧圈99",
-    "name": "💞┃剧圈┃影视",
-    "type": 3,
-    "api": "csp_App99",
-    "ext": {
-    "host": "http://124.221.3.182:19987/app/bn",
-    "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-    "versionName": "1.2.0",
-    "name": "剧圈圈",
-    "package": "com.qingtangxiaozhuan.xyz",
-    "buildNumber": "2002",
-    "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
+    "api": "csp_XBPQ",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/枫叶.php"
 },
 {
     "key": "csp_huayi",
@@ -76,6 +57,20 @@
     "version": "3.0.2.1",
     "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
     "decrypt": "1"}
+},
+{
+    "key": "剧圈99",
+    "name": "💞┃剧圈┃影视",
+    "type": 3,
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://124.221.3.182:19987/app/bn",
+    "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+    "versionName": "1.2.0",
+    "name": "剧圈圈",
+    "package": "com.qingtangxiaozhuan.xyz",
+    "buildNumber": "2002",
+    "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
 },
 {
     "key": "csp_苹果",
@@ -149,14 +144,6 @@
     "ext": "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"
 },
 {
-    "key": "csp_fengyei",
-    "name": "🍁┃枫叶┃秒播",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/枫叶.php"
-},
-{
     "key": "NB012绿豆",
     "name": "🏝┃绿豆┃秒播",
     "type": 3,
@@ -167,18 +154,78 @@
     "https://niubi.69mini.com/api/?key=de8570d02b2e5181978a6c47a8eb4d91&url="]}
 },
 {
-    "key": "爱营",
-    "name": "💝┃爱影┃秒播",
-    "type": 3,
-    "api": "csp_AiYing",
-    "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|V122|okhttp/3.10.0"
-},
-{
     "key": "麦田",
     "name": "🌾┃麦田┃秒播",
     "type": 3,
     "api": "csp_AppV6",
     "ext": "http://172.247.227.203:25321/mtys.php"
+},
+{
+    "key": "怀桑",
+    "name": "💫┃怀桑┃影视",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
+    "dataKey": "kj37zs29q22jk96t",
+    "dataIv": "kj37zs29q22jk96t",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "爱影",
+    "name": "💝┃爱影┃影视",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt",
+    "dataKey": "0UKM8jkasM8tdzgW",
+    "dataIv": "0UKM8jkasM8tdzgW",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "csp_蓝鹰",
+    "name": "🦅┃蓝鹰┃影视",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+    "dataKey": "ca94b06ca359d80e",
+    "dataIv": "ca94b06ca359d80e",
+    "init": "initV120",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "csp_不戳",
+    "name": "🎠┃不戳┃影视",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://appcmszbc.zbc4k.app",
+    "dataKey": "pYrEkiWRYhBLTUTC",
+    "dataIv": "pYrEkiWRYhBLTUTC"}
+},
+{
+    "key": "小鹿",
+    "name": "🦌┃小鹿┃影视",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "site": "https://xiaolu-1319209748.cos.ap-beijing.myqcloud.com/xiaolu.txt",
+    "dataKey": "x5Bep6Q78VCeYnPS",
+    "dataIv": "x5Bep6Q78VCeYnPS",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "csp_王子",
+    "name": "🤵┃王子┃影视",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://app.95112475.xyz",
+    "dataKey": "5a9w6x58dsq6z3a6",
+    "dataIv": "5a9w6x58dsq6z3a6"}
 },
 {
     "key": "山楂",
