@@ -228,6 +228,38 @@
     "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/枫叶.php"
 },
 {
+      "key": "云播影视",
+      "name": "云播 • 影视",
+      "type": 3,
+      "api": "csp_Tvyb"
+    },
+{
+      "key": "山楂影视",
+      "name": "山楂 • 影视",
+      "type": 3,
+      "api": "csp_PianKu8"
+    },
+    {
+      "key": "飞娱影视",
+      "name": "飞娱 • 影视",
+      "type": 3,
+      "api": "csp_Feiyu"
+    },
+{
+      "key": "修罗影视",
+      "name": "修罗 • 影视",
+      "api": "csp_Xlys",
+      "type": 3,
+      "ext": "https://www.xlysw.ggff.net"
+    },
+{
+      "key": "农民影视",
+      "name": "农民 • 影视",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+{
     "key": "山楂",
     "name": "🍬┃山楂┃影视",
     "type": 3,
