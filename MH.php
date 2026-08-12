@@ -1,7 +1,8 @@
 {
   /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
-  "spider": "./JAR/MG.jar",
-  "wallpaper": "proxy://do=wallpaper",
+  "spider": "./JAR/MY.jar;md5;e59b88f36887b0fb212ae117a3126a56",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
   //数据接口====================================网站===============================================
 "sites": [
 {
@@ -9,7 +10,7 @@
     "name": "🎬┣豆瓣┫导航",
     "type": 3,
     "api": "csp_Douban",
-    "ext": "https://jk.catvod.site/jk/t4/douban.json"
+    "indexs": 0
 },
 {
     "key": "bandxx",
