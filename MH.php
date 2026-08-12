@@ -357,13 +357,6 @@
     "indexs": 0
 },
 {
-    "key": "csp_SP360",
-    "name": "🌈┃三六┃ 视频",
-    "type": 3,
-    "api": "csp_SP360",
-    "indexs" : 0
-},
-{
     "key": "Web1905",
     "name": "🎞┃影視┃ 老片",
     "type": 3,
