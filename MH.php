@@ -198,16 +198,6 @@
     "ver": "1"}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
-    "key": "YunZhenXiang",
-    "name": "🎊┃帧享┃秒播",
-    "type": 3,
-    "api": "csp_YunZhenXiang",
-    "ext": {
-    "index_url": "https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json",
-    "key_api": "https://www.tangsan.fun/zx.php"}
-},
-{
     "key": "aiying",
     "name": "💝┃爱影┃影视",
     "type": 3,
@@ -267,7 +257,7 @@
     "name": "🍁┃枫叶┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
+    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MX.jar",
     "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/枫叶.php"
 },
 {
@@ -397,72 +387,36 @@
     "key": "HHkkAmns",
     "name": "♨️┃短劇┃豪堪",
     "type": 3,
-    "api": "csp_HHkkAmns",
-    "genre": "shortdrama",
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar"
-},
-{
-    "key": "BddjAmns",
-    "name": "♨️┃短劇┃拜拜",
-    "type": 3,
-    "api": "csp_BddjAmns",
-    "genre": "shortdrama",
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar"
+    "api": "csp_HaokanDJ",
+    "genre": "shortdrama"
 },
 {
     "key": "WgdjAmns",
     "name": "♨️┃短劇┃围观",
     "type": 3,
-    "api": "csp_WgdjAmns",
-    "genre": "shortdrama",
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar"
-},
-{
-    "key": "QmdjAmns",
-    "name": "♨️┃短劇┃喵喵",
-    "type": 3,
-    "api": "csp_QmdjAmns",
-    "genre": "shortdrama",
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar"
+    "api": "csp_WeiguanDJ",
+    "genre": "shortdrama"
 },
 {
     "key": "XydjAmns",
     "name": "♨️┃短劇┃星星",
     "type": 3,
-    "api": "csp_XydjAmns",
-    "genre": "shortdrama",
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar"
+    "api": "csp_XingyaDJ",
+    "genre": "shortdrama"
 },
 {
     "key": "QimaoDJ",
     "name": "♨️┃短劇┃七猫",
     "type": 3,
     "api": "csp_QimaoDJ",
-    "genre": "shortdrama",
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar"
-},
-{
-    "key": "WeiguanDJ",
-    "name": "♨️┃短劇┃河马",
-    "type": 3,
-    "api": "csp_WeiguanDJ",
-    "genre": "shortdrama",
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar"
-},
-{
-    "key": "HaokanDJ",
-    "name": "♨️┃短劇┃好看",
-    "type": 3,
-    "api": "csp_HaokanDJ",
-    "genre": "shortdrama",
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar"
+    "genre": "shortdrama"
 },
 {
     "key" : "csp_kuwoyy",
     "name" : "🪕┃酷我┃音乐",
     "type" : 3,
     "api": "csp_KuKuMusic",
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar"
+    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MG.jar"
 },
 {
     "key": "csp_Kugouyy",
@@ -549,8 +503,7 @@
     "key": "csp_MoDu",
     "name": "💮┃魔都┃动漫",
     "type": 3,
-    "api": "csp_MoDu",
-    "jar": "https://qist.ugigc.dpdns.org/xiaosa/spider.jar"
+    "api": "csp_MoDu"
 },
 {
     "key": "csp_番薯",
@@ -735,20 +688,19 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/TS/SGtv.js"
 },
 {
-    "key": "push_agent",
-    "name": "💼┃推送┃配置",
+    "key": "Local",
+    "name": "💼┃文件┃配置",
     "type": 3,
-    "api": "csp_Push",
-    "indexs": 0,
-    "timeout": 60
+    "api": "csp_Local",
+    "ext": "https://jk.catvod.site/jk/t4/share.json",
+    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MG.jar"
 },
 {
-    "key": "WpLib",
-    "name": "💼┃图库┃配置",
+    "key": "ResMgr",
+    "name": "💼┃资源┃配置]",
     "type": 3,
-    "api": "csp_WpLib",
-    "indexs": 0,
-    "timeout": 60
+    "api": "csp_ResMgr",
+    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MG.jar"
 },
 {
     "key": "csp_Notice",
