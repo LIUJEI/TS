@@ -13,7 +13,7 @@
     "key": "csp_DouBan",
     "name": "🎬┣豆瓣┫推荐",
     "type": 3,
-    "api" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/douban.js",
+    "api" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/douban.js",
     "searchable": 0
 },
 {
@@ -59,6 +59,48 @@
     "api": "csp_XBPQ",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/鹊桥.php"
 },
+{
+      "key": "爱意影视",
+      "name": "爱意影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://xn--oev29b.top/files/json/爱意影视.json"
+    },
+ {
+      "key": "初见影视",
+      "name": "初见影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://xn--oev29b.top/files/json/初见影视.json"
+    },
+{
+      "key": "2兄师影视风",
+      "name": "兄师影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://xn--oev29b.top/files/json/兄师影视.json"
+    },
+{
+      "key": "2橘猫风",
+      "name": "橘猫影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://xn--oev29b.top/files/json/橘猫影视.json"
+    },
+{
+      "key": "2医德风",
+      "name": "壹帆影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://xn--oev29b.top/files/json/壹帆影视.json"
+    },
+ {
+      "key": "2嘎0风",
+      "name": "皮皮影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "http://xn--oev29b.top/files/json/皮皮影视.json"
+    },
 {
     "key" : "csp_岚猫",
     "name" : "💞┃影視┃岚猫",
