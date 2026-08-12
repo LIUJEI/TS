@@ -53,54 +53,54 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/麥田.php"
 },
 {
-    "key": "鹊桥影院",
+    "key": "csp_鹊桥影院",
     "name": "💞┃鹊桥┃影院",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/鹊桥.php"
 },
 {
-      "key": "爱意影视",
-      "name": "爱意影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xn--oev29b.top/files/json/爱意影视.json"
-    },
- {
-      "key": "初见影视",
-      "name": "初见影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xn--oev29b.top/files/json/初见影视.json"
-    },
+    "key": "csp_爱意",
+    "name": "💞┃爱意┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/爱意.php"
+},
 {
-      "key": "2兄师影视风",
-      "name": "兄师影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xn--oev29b.top/files/json/兄师影视.json"
-    },
+    "key": "csp_初见",
+    "name": "💞┃初见┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/初见.php"
+},
 {
-      "key": "2橘猫风",
-      "name": "橘猫影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xn--oev29b.top/files/json/橘猫影视.json"
-    },
+    "key": "csp_兄师",
+    "name": "💞┃兄师┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/兄师.php"
+},
 {
-      "key": "2医德风",
-      "name": "壹帆影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xn--oev29b.top/files/json/壹帆影视.json"
-    },
- {
-      "key": "2嘎0风",
-      "name": "皮皮影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "http://xn--oev29b.top/files/json/皮皮影视.json"
-    },
+    "key": "csp_橘猫",
+    "name": "💞┃橘猫┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/橘猫.php"
+},
+{
+    "key": "csp_壹帆",
+    "name": "💞┃壹帆┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/壹帆.php"
+},
+{
+    "key": "csp_皮皮",
+    "name": "💞┃皮皮┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/皮皮.php"
+},
 {
     "key" : "csp_岚猫",
     "name" : "💞┃影視┃岚猫",
