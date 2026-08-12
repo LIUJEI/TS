@@ -9,7 +9,7 @@
     "key": "Douban",
     "name": "🎬┣豆瓣┫导航",
     "type": 3,
-    "api": "csp_Douban",
+    "api": "csp_PianDan",
     "indexs": 0
 },
 {
