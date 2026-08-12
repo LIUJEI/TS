@@ -31,7 +31,6 @@
     "https://niubi.69mini.com/api/?key=de8570d02b2e5181978a6c47a8eb4d91&url="]}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "怀桑",
     "name": "💫┃怀桑┃影视",
     "type": 3,
@@ -44,7 +43,6 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "csp_huayi",
     "name": "🏵┃華誼┃影视",
     "type": 3,
@@ -61,7 +59,6 @@
     "decrypt": "1"}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "csp_juzi",
     "name": "🥭┃橘子┃影视",
     "type": 3,
@@ -78,7 +75,6 @@
     "decrypt": "1"}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "剧圈99",
     "name": "💞┃剧圈┃影视",
     "type": 3,
@@ -93,7 +89,6 @@
     "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "csp_苹果",
     "name": "🍏┃苹果┃影视",
     "type": 3,
@@ -173,7 +168,6 @@
     "ext": "AIBOX1/cXJzdHV2d3h5ent8fX5/gJSHXACxiaOhlDsHGFhMei7MZHNa0m7E8FavXgxybNTrUQPwhWCT2vo93nOHnDebN4UtsTURu2l7yTzralt+6bvx0O/OSZwE6DxKPMs9upNvTuSlDfjGCCyIgKnIIVhwvI/G1iIj6Fw/OT5idbgMjBpRvtKfsBL6Q6wsLcrA855u9GzZ/u0cptz9Ghzatu8kyoV5GR6ms+RLL3HtX8TPqQ8CxQfVGzcCR0J5/A6v+PuGSJM0RlWsHS70xH9kox0V+q/cJhrf7sVIRGgX4sRodeoxsAQivg2JjGXf1/f6AjIHFSULUHNQS5cy83bRF1QPjYcu0Qv0medV3NKK/CIe/tS7J6FinxWEW/yPL2LQINrHruw3zU4mFw66wLZtZtutp70ASPrrPk6oKQ1w5X14Fn6qIX2lOvfTeraLCPFUSNwidRF/tJ3rtIEilG9LWvBxrh4pUW3v1UNKSxPkDUtj0wAd8BH6yppJIEj7GS6TqzzmVVqbQJ0bZ4mUKBZOFGSwpUnVxAN9N2q+rvvTRZm5SLMJxvdkSiDY6v4dNaxwpZdXEsxG8/UusDpewEkj88X7LEqIjsXn7K6R+DYYfycqZL+9s+2qa1aipEy0DInSjD+AmwFpLBtT51Z6A057RW37KIw+mWa5Fk8UU81glHsD6rRVkONEgiIStm21OO51NKGGbzfRKCIIOmGZp/qhjtksMVR3LWf9UzWpRTLuYEAzx6/0B+90M5jly/zCZOw0RBtlTvX5OQNPm1fqirR0K+F8jJHwFGDONNxBcz7hFvHeZ2SdxpDNXx0mw99PpikJ6YRwzj76UnBcWHCAzZLbedmb0DJ7G3ttFtvFDJ3Fx2dQX0NtvJM7n2ph+KwJsyxbGNDd21ahCTwoZc4y4uM0jw8NgFJFEZ7F/AWuLzPIJtOl6h8/HeAFwLbBqoH8kMiZgZLAXrS88pDTMEJxuKeFmrY4iax0j72JcDvXynT6ND9/pJuKzUXQlFH3ib6S5WXHB7ufNlVgaGLbXzGJ7WJ/dMvWzKCzwrVKvPw/DUPM2xcbK0cLsZcWeHYnG7iA3mePwVigevAphNegv5YLAzZ2xHzAZjHBxsVVLl4tTeboYfrtWMeMayHgz31MAMbwPS1wD93KzXYF/n+njgPzyZLG4qeSzOQWTo87ntOf+/5OKf0Iawkdbbgom7KJbkxL/rc76DC4IYbhiuREZxIRWwMgIcOsBytw9xCWcGr2tFy2Z87+kA4P5o1Sp/CY6Gk8drs9BSuk+1pBXZCgQTl4Lyb2Ci9I8hKtSZrA3Z7o/lhfotsORP1ggmvZOKJCxf/3wm+hirJKBITbn+buJ0SYGjO/RsKhihoZ3SOxGT0hnqhDOYcAHuIRU6Im3Pcjt3r7D1BwPUSd/09ZbkspNEK2gvYIHAeYInN538Jkv1Zi2ubf1n9kcXpoZe4UlRyj3Zs4eeTLJ0vlgJC2s6y4N8+D10OWcMoTjRMxMcLaBsbx4gFtp++faO+EQ/AeRSVETAV4baZZZG6kETnzWvPeLZpx0X+f2kskMFscu59Qkz+MlX04FVV1neM3Zb1VfINWyCXRltEOt2jzJNfSwKchwdL3BAQS/9Vo1pdkPHYEsO2bNBHosPyjnl0MU0peyY6I/DMgDaZvbJvYbTOD4FUJhX4SzEJ0rNXUaG4uJ/XVrORzTuaobKlOgMlChYZJdSCMwulqEQ8N2wCt5gutDoH6RDhCSwhSNr3ZjZgQ8r06TSR4nUV4JBpfBS2S2SXnMo1MyNhpoZbFaA78T0u2wnj/6EsXVQcsO21wtKH9jl/ca6ZKpJ83qmqFXA/by9/QUNlymerYIrBEVMa3e5jEFl5AONGdX9VfU7dj1KXU/rgCQi+K6z72+SrzCdsCpBsyI4KY8BZATwu/hIzYOJNc4EDXsatLqTdQS14Yzk8a9UW2UV31EyhE6oiVIcd6wAGmTk420KvUyrdxQ4gmt88Ubp/kvOu3dvKHXZkOwRsswRkjSwat5VHxCUu+Ua2TsK/fkyNWHbbMITeQDP2vpvFlbybifygl5drmFjIbRm2NQ5eDdFIYVOXvWEgoc478Da9F4HO+IUq+Tex10LytPazR3AtIbDuzKv25Cos0ueT+TbVQ+6g3roERsgwrcainRff71mprbY92TQiQGeUpR+Ffp0mkxXaTA8PBNhdSDsfhouS9JYsqTQRjPEjWl8V9+BD++qzREr6EgfTNZyC80VHLHJ2TxqBMaRgrJY8SDUZwQp8AN252gaqIq5J6PFqSglVw6VW4zCSMI3JeNlFrgOvnzybhwEnQNKvE+mNfC/Wk0APrZ4yz7W8eYWNGjYZjCSDOehEhlqgCQtSbqzKCs3CwNhTN0gldvWpUSgg5awZfgBvAof8xyw5p6zc/mLGDbv2uoyszOlQLMfwzq37CoC2GCQ5VT3FLs4fA3J/SmpQ0EwWLY6CTUz63s3b4kO+0gzNZVpwkDm0eYb18xr4QXeuSruqNWAal2tKUEdHbkcGVLUOjyvEzjMeYykkNljo+kZb2MqyZlgiXYtKzya8WF/9PqFGwYNwig/M6OS6ICUSHGYsQGOe55gjw6vNwY5Xn0uE5AobW/qcVsVlUbnXI1KytKJ8J7w5MUk10wAxqZ6aIUGEiaBnmYzlez3XbdNevF+TJL+8Bl4PSRWpdfrgi"
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "csp_BuBu",
     "name": "🥂┃影視┃ 布布",
     "type": 3,
@@ -189,7 +183,6 @@
     "ver": "6"}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "csp_云朵影视",
     "name": "☁┃影視┃云朵",
     "type": 3,
@@ -215,7 +208,6 @@
     "key_api": "https://www.tangsan.fun/zx.php"}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "aiying",
     "name": "💝┃爱影┃影视",
     "type": 3,
@@ -228,7 +220,6 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "csp_蓝鹰",
     "name": "🦅┃蓝鹰┃影视",
     "type": 3,
@@ -241,7 +232,6 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "csp_不戳",
     "name": "🎠┃不戳┃影视",
     "type": 3,
@@ -252,7 +242,6 @@
     "dataIv": "pYrEkiWRYhBLTUTC"}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "小鹿",
     "name": "🦌┃小鹿┃影视",
     "type": 3,
@@ -264,7 +253,6 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "key": "csp_王子",
     "name": "🤵┃王子┃影视",
     "type": 3,
@@ -279,7 +267,7 @@
     "name": "🍁┃枫叶┃影视",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar",
+    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MH.jar",
     "ext": "https://gitee.com/lyun_1_0/TS/raw/main/XB/枫叶.php"
 },
 {
