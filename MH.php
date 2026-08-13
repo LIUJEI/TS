@@ -354,13 +354,6 @@
     "api": "csp_Ikanbot",
     "indexs" : 0
 },
-{
-    "key": "csp_Xlys",
-    "name": "⛪┃影視┃ 天堂",
-    "type": 3,
-    "api": "csp_Xlys",
-    "ext": "https://www.xlysw.ggff.net"
-},
 { 
     "key":"csp_红果短剧",
     "name":"♨️┃红果┃短劇",
