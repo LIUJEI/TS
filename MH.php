@@ -73,7 +73,7 @@
 },
 {
     "key": "csp_js_88影视",
-    "name": "💮┃八八┃影视秒播",
+    "name": "💮┃八八┃影视",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/88影视.js",
     "indexs": 0
