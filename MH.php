@@ -662,77 +662,85 @@
 }
 ],
 "parses": [	
-
 {
     "name" : "YYNB高清",
     "type" : 1,
     "url" : "https://json.cfysoft.cc/api/?key=db40a4b2f15c4078301a068181bb2724&url="
 },
 {
-    "name": "☪豆豆❂",
+    "name": "虾米高清",
+    "type": 0,
+    "url": "https://jx.hls.one/?url="
+},
+{
+    "name": "推荐",
+    "type": 0,
+    "url": "https://pl.a6club.com/player/analysis.php?v="
+},
+{
+    "name": "豆豆",
     "type": 1,
     "url": "https://test1.12321app.com/api.php?url="
 },
 {
-    "name": "☪土豆❂",
+    "name": "土豆",
     "type": 1,
     "url": "https://test1.12321app.com/daoliansiquanjia.php?url="
 },
 {
-    "name": "☪冰豆㊏",
+    "name": "冰豆",
     "type": 0,
-    "url": "https://bd.jx.cn/?url=",
-    "ext": {"header": {
-    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    "url": "https://bd.jx.cn/?url="
 },
 {
-    "name":"☪咸鱼㊎",
+    "name":"咸鱼",
     "type" : 0,
-    "url" : "https://jx.xymp4.cc/?url=",
-    "ext": {"header": {
-    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    "url" : "https://jx.xymp4.cc/?url="
 },
 {
-    "name": "🍍菠萝❂",
+    "name": "菠萝",
     "type": 0,
-    "url": "https://www.playm3u8.cn/jiexi.php?url=",
-    "ext": {"header": {
-    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    "url": "https://www.playm3u8.cn/jiexi.php?url="
 },
 {
-    "name":"🧆狗子❂",
+    "name":"狗子",
     "type":0,
-    "url":"http://www.ckplayer.vip/jiexi/?url=",
-    "ext": {"header": {
-    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    "url":"http://www.ckplayer.vip/jiexi/?url="
 },
 {
-    "name": "☪淘片❂",
+    "name": "淘片",
     "type": 0,
-    "url": "https://jx.yparse.com/index.php?url=",
-    "ext": {"header": {
-    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    "url": "https://jx.yparse.com/index.php?url="
 },
 {
-    "name":"☪云海❂",
+    "name":"云海",
     "type":0,
-    "url": "https://yparse.ik9.cc/index.php?url=",
-    "ext": {"header": {
-    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    "url": "https://yparse.ik9.cc/index.php?url="
 },
 {
-    "name": "☪七七❂",
+    "name": "8090",
     "type": 0,
-    "url": "https://jx.77flv.cc/?url=",
-    "ext": {"header": {
-    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    "url": "https://www.8090g.cn/?url="
 },
+{
+    "name": "七七",
+    "type": 0,
+    "url": "https://jx.77flv.cc/?url="
+},
+{
+    "name": "臻享",
+    "type": 1,
+    "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="
+},
+{
+    "name": "优选",
+    "type": 1,
+    "url": "http://1.94.221.189:88/algorithm.php?url="
+}
 {
     "name": "🏁琉芸★内部嗅探★",
 	"type": 0,
-    "url": "https://jx.xmflv.com/?url=",
-    "ext": {"header": {
-    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}
+    "url": "https://jx.xmflv.com/?url="
 }],
 	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
