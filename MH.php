@@ -93,6 +93,13 @@
     "indexs": 0
 },
 {
+    "key": "csp_json_陈彬",
+    "name": "👾┃资源┃陈彬",
+    "type": 1,
+    "api": "http://cms.cpolar.cn/api.php/provide/vod/",
+    "indexs": 0
+},
+{
     "key": "NB012绿豆",
     "name": "🏝┃绿豆┃秒播",
     "type": 3,
