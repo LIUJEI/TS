@@ -349,38 +349,45 @@
     "ext": {"quality": "720p","signHost": "https://jk.catvod.site/jk/hg"}
 },
 {
-    "key": "HHkkAmns",
+    "key": "ShortHaokan",
     "name": "♨️┃短劇┃豪堪",
     "type": 3,
-    "api": "csp_HaokanDJ",
+    "api": "csp_ShortHaokan",
     "genre": "shortdrama"
 },
 {
-    "key": "WgdjAmns",
+    "key": "ShortWeiguan",
     "name": "♨️┃短劇┃围观",
     "type": 3,
-    "api": "csp_WeiguanDJ",
+    "api": "csp_ShortWeiguan",
     "genre": "shortdrama"
 },
 {
-    "key": "XydjAmns",
+    "key": "ShortXingya",
     "name": "♨️┃短劇┃星星",
     "type": 3,
-    "api": "csp_XingyaDJ",
+    "api": "csp_ShortXingya",
     "genre": "shortdrama"
 },
 {
-    "key": "QimaoDJ",
+    "key": "ShortQimao",
     "name": "♨️┃短劇┃七猫",
     "type": 3,
-    "api": "csp_QimaoDJ",
+    "api": "csp_ShortQimao",
     "genre": "shortdrama"
 },
 {
     "key" : "csp_kuwoyy",
-    "name" : "🪕┃酷我┃音乐",
+    "name" : "🪕┃酷酷┃音乐",
     "type" : 3,
     "api": "csp_KuKuMusic",
+    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MG.jar"
+},
+{
+    "key": "酷我音乐",
+    "name": "🎸┃酷我┃音乐",
+    "type": 3,
+    "api": "csp_KuWo",
     "jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MG.jar"
 },
 {
@@ -399,13 +406,6 @@
     "ext": {
     "json": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/音乐.json",
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}
-},
-{
-    "key": "csp_yunyy",
-    "name": "🎸┃芸芸┃音乐",
-    "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/芸音乐.js",
-    "indexs" : 0
 },
 {
     "key": "csp_Djlh",
