@@ -1,320 +1,505 @@
-/*
-title: '星辰影院', author: '小可乐/v6.1.1'
-说明：可以不写ext，也可以写ext，ext支持的参数和格式参数如下
-"ext": {
-    "host": "xxxx", //站点网址
-    "timeout": 6000,  //请求超时，单位毫秒
-    "catesSet": "电视剧&电影&综艺",  //指定分类和顺序
-    "tabsSet": "土星&下载线1"  //指定线路和顺序
-}
-*/
+import cheerio from 'assets://js/lib/cheerio.min.js';
 
-const MOBILE_UA = 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36';
-const DefHeader = {'User-Agent': MOBILE_UA};
-var HOST;
-var KParams = {
-    headers: {'User-Agent': MOBILE_UA},
-    timeout: 5000
+const appConfig = {
+    siteName: "星辰影视",
+    siteUrl: "https://www.xyys798.com"
 };
+const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36";
 
-async function init(cfg) {
-    try {
-        HOST = (cfg.ext?.host?.trim() || 'https://www.xcyycn.com').replace(/\/$/, '');
-        KParams.headers['Referer'] = HOST;
-        let parseTimeout = parseInt(cfg.ext?.timeout?.trim(), 10);
-        if (parseTimeout > 0) {KParams.timeout = parseTimeout;}
-        KParams.catesSet = cfg.ext?.catesSet?.trim() || '';
-        KParams.tabsSet = cfg.ext?.tabsSet?.trim() || '';
-        KParams.resHtml = await request(HOST);
-    } catch (e) {
-        console.error('初始化参数失败：', e.message);
-    }
+async function init(ext) {
+    console.log("初始化爬虫:", appConfig.siteName);
 }
+
+const classList = [
+    { type_id: "6", type_name: "动作片" },
+    { type_id: "7", type_name: "喜剧片" },
+    { type_id: "8", type_name: "爱情片" },
+    { type_id: "9", type_name: "科幻片" },
+    { type_id: "10", type_name: "恐怖片" },
+    { type_id: "11", type_name: "剧情片" },
+    { type_id: "12", type_name: "战争片" },
+    { type_id: "13", type_name: "纪录片" },
+    { type_id: "17", type_name: "国产剧" },
+    { type_id: "18", type_name: "港台剧" },
+    { type_id: "20", type_name: "日韩剧" },
+    { type_id: "21", type_name: "欧美剧" },
+    { type_id: "22", type_name: "海外剧" },
+    { type_id: "23", type_name: "大陆综艺" },
+    { type_id: "24", type_name: "港台综艺" },
+    { type_id: "25", type_name: "日韩综艺" },
+    { type_id: "26", type_name: "欧美综艺" },
+    { type_id: "27", type_name: "国产动漫" },
+    { type_id: "28", type_name: "日韩动漫" },
+    { type_id: "29", type_name: "欧美动漫" },
+    { type_id: "30", type_name: "其他动漫" },
+    { type_id: "5", type_name: "短剧" }
+];
+
+function getAreaFilter() {
+    return {
+        "key": "area", "name": "地区", "value": [
+            { "n": "全部", "v": "" },
+            { "n": "大陆", "v": "大陆" },
+            { "n": "香港", "v": "香港" },
+            { "n": "台湾", "v": "台湾" },
+            { "n": "美国", "v": "美国" },
+            { "n": "日本", "v": "日本" },
+            { "n": "韩国", "v": "韩国" },
+            { "n": "英国", "v": "英国" },
+            { "n": "法国", "v": "法国" },
+            { "n": "德国", "v": "德国" },
+            { "n": "泰国", "v": "泰国" },
+            { "n": "印度", "v": "印度" },
+            { "n": "其他", "v": "其他" }
+        ]
+    };
+}
+
+function getYearFilter() {
+    let years = [{ "n": "全部", "v": "" }];
+    const currentYear = new Date().getFullYear();
+    for (let y = currentYear; y >= 2010; y--) {
+        years.push({ "n": String(y), "v": String(y) });
+    }
+    return { "key": "year", "name": "年份", "value": years };
+}
+
+function getLangFilter() {
+    return {
+        "key": "lang", "name": "语言", "value": [
+            { "n": "全部", "v": "" },
+            { "n": "国语", "v": "国语" },
+            { "n": "粤语", "v": "粤语" },
+            { "n": "英语", "v": "英语" },
+            { "n": "日语", "v": "日语" },
+            { "n": "韩语", "v": "韩语" },
+            { "n": "其他", "v": "其他" }
+        ]
+    };
+}
+
+function getTypeFilter() {
+    return {
+        "key": "type", "name": "类型", "value": [
+            { "n": "全部", "v": "" },
+            { "n": "动作", "v": "动作" },
+            { "n": "喜剧", "v": "喜剧" },
+            { "n": "爱情", "v": "爱情" },
+            { "n": "科幻", "v": "科幻" },
+            { "n": "恐怖", "v": "恐怖" },
+            { "n": "剧情", "v": "剧情" },
+            { "n": "战争", "v": "战争" },
+            { "n": "悬疑", "v": "悬疑" },
+            { "n": "犯罪", "v": "犯罪" },
+            { "n": "动画", "v": "动画" },
+            { "n": "纪录", "v": "纪录" }
+        ]
+    };
+}
+
+const commonFilters = [getAreaFilter(), getYearFilter(), getLangFilter(), getTypeFilter()];
+
+const myFilters = {};
+classList.forEach(item => {
+    myFilters[item.type_id] = commonFilters;
+});
 
 async function home(filter) {
+    let list = [];
     try {
-        let resHtml = KParams.resHtml;
-        if (!resHtml) {throw new Error('源码为空');}
-        let typeArr = cutStr(resHtml, 'hl-nav-item£>', '</li>', '', false, 0, true).filter(flt => flt.includes('/v/'));
-        let classes = typeArr.map((it,idx) => {
-            let cName = cutStr(it, '>', '<', `分类${idx+1}`);
-            let cId = cutStr(it, '/v/', '.', `值${idx+1}`);
-            return {type_name: cName, type_id: cId};
-        });
-        if (KParams.catesSet) {classes = ctSet(classes, KParams.catesSet);}
-        let filters = {};
-        try {
-            const nameObj = {class: 'class,剧情', area: 'area,地区', lang: 'lang,语言', year: 'year,年份', letter: 'letter,字母', by: 'by,排序'};
-            const regObj = {class: /\d+---([^-]+)-/, area: /\/\d+-([^-]+)-/, lang: /\d+----([^-]+)-/, year: /-([^-]+)\./, letter: /\d+-----([^-]+)-/, by: /\d+--([^-]+)-/};
-            let resHtmlList = await Promise.all(
-                classes.map(async (it) => {
-                    try {return await request(`${HOST}/vs/${it.type_id}-----------.html`);} catch (sErr) {return '';}
-                })
-            );
-            classes.forEach((it,idx) => {
-                let resfHtml = resHtmlList[idx];
-                if (resfHtml) {
-                    let flValArr = cutStr(resfHtml, 'hl-filter-list', '</ul>', '', false, 0, true).slice(1);
-                    filters[it.type_id] = Object.entries(nameObj).map(([nObjk, nObjv]) => {
-                        let [kkey, kname] = nObjv.split(',');
-                        let tgVal = flValArr.find(fv => regObj[kkey].test(fv)) ?? '';
-                        if (kkey === 'by') {tgVal = cutStr(resfHtml, 'hl-rb-title', '</div>', '', false);}
-                        let tgValArr = cutStr(tgVal, '<a', '/a>', '', false, 0, true);
-                        let tValArr = kkey !== 'by' ? tgValArr.slice(1) : tgValArr;                        
-                        let kvalue = tValArr.map(el => {
-                            let n = cutStr(el, '>', '<', '空白');
-                            let v = n;
-                            if (kkey === 'by') {v = el.match(regObj[kkey])?.[1] ?? '';}
-                            return {n: n, v: v}; 
-                        });
-                        if (kkey !== 'by') {kvalue.unshift({n: '全部', v: ''});}
-                        return {key: kkey, name: kname, value: kvalue};
-                    }).filter(flt => flt.key && flt.value.length > 1);
+        const html = (await req(appConfig.siteUrl, {
+            method: "GET",
+            headers: {
+                "User-Agent": UA,
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+            }
+        })).content;
+        const $ = cheerio.load(html);
+        let seen = {};
+
+        // 遍历所有 .img-list，但排除 swiper-wrapper（轮播）
+        $(".img-list:not(.swiper-wrapper)").each(function () {
+            $(this).find("li[class*='col-md-']").each(function () {
+                let $a = $(this).find("a[href*='/xcsydetail/']").first();
+                let vod_id = $a.attr("href");
+                if (!vod_id || seen[vod_id]) return;
+
+                let vod_name = $a.attr("title") || "";
+                let vod_pic = fixUrl($a.attr("data-original") || $a.attr("data-background") || $a.find("img").attr("data-original") || $a.find("img").attr("src") || "");
+                let vod_remarks = ($a.find(".vtitle").text() || $a.find(".vname").text() || "").trim();
+
+                if (vod_name && vod_id) {
+                    seen[vod_id] = true;
+                    list.push({ vod_id, vod_name, vod_pic, vod_remarks });
                 }
             });
-        } catch (e) {
-            filters = {}
-        }
-        return JSON.stringify({class: classes, filters: filters});
+        });
     } catch (e) {
-        console.error('获取分类失败：', e.message);
-        return JSON.stringify({class: [], filters: {}});
+        console.error("首页推荐获取失败:", e.message);
+    }
+
+    return JSON.stringify({
+        class: classList,
+        filters: myFilters,
+        list: list.slice(0, 30)
+    });
+}
+
+function buildCategoryUrl(tid, pg, extend) {
+    extend = extend || {};
+    let area = extend.area || '';
+    let year = extend.year || '';
+    let lang = extend.lang || '';
+    let type = extend.type || '';
+
+    if (area || year || lang || type) {
+        let url = `/xcsyshow/${tid}-${area || ''}-${lang || ''}--${type || ''}---${year || ''}---${pg}---.html`;
+        return appConfig.siteUrl + url;
+    } else {
+        return `${appConfig.siteUrl}/xcsytype/${tid}${pg > 1 ? '-' + pg : ''}.html`;
     }
 }
 
-async function homeVod() {
-    try {
-        let resHtml = KParams.resHtml;
-        let VODS = getVodList(resHtml);
-        return JSON.stringify({list: VODS});
-    } catch (e) {
-        console.error('推荐页获取失败：', e.message);
-        return JSON.stringify({list: []});
-    }
+function fixUrl(u) {
+    if (!u) return '';
+    if (u.startsWith('http')) return u;
+    if (u.startsWith('//')) return 'https:' + u;
+    if (u.startsWith('/')) return appConfig.siteUrl + u;
+    return u;
+}
+
+function parseListHtml(html) {
+    const $ = cheerio.load(html);
+    let list = [];
+    let vodIds = {};
+
+    // 只取第一个主分类内容区域（排除 swiper-wrapper 轮播），不包含子分类推荐
+    let $mainList = $(".img-list:not(.swiper-wrapper)").first();
+    
+    $mainList.find("li[class*='col-md-']").each(function () {
+        let $a = $(this).find("a[href*='/xcsydetail/']").first();
+        let vod_id = $a.attr("href");
+        if (!vod_id || vodIds[vod_id]) return;
+
+        let vod_name = $a.attr("title") || "";
+        let vod_pic = fixUrl($a.attr("data-original") || $a.find("img").first().attr("data-original") || $a.find("img").first().attr("src") || $a.attr("data-background") || "");
+        
+        let vod_remarks = "";
+        $a.contents().each(function () {
+            if (this.type === 'text') {
+                let t = $(this).text().trim();
+                if (t) vod_remarks = t;
+            }
+        });
+        if (!vod_remarks) {
+            vod_remarks = $a.find(".vtitle").text().trim() || $a.find(".vname").text().trim();
+        }
+
+        if (vod_name && vod_id) {
+            vodIds[vod_id] = true;
+            list.push({ vod_id, vod_name, vod_pic, vod_remarks });
+        }
+    });
+
+    let pagecount = 1;
+    $("a[href*='/xcsytype/'], a[href*='/xcsyshow/']").each(function () {
+        let href = $(this).attr("href") || '';
+        let m = href.match(/-(\d+)\.html$/);
+        if (m) {
+            let p = parseInt(m[1]);
+            if (p > pagecount) pagecount = p;
+        }
+    });
+
+    return { list, pagecount };
 }
 
 async function category(tid, pg, filter, extend) {
-    try {
-        pg = parseInt(pg, 10), pg = pg > 0 ? pg : 1;
-        let fl = extend || {};
-        let cateUrl = `${HOST}/vs/${fl.cateId || tid}-${fl.area ?? ''}-${fl.by ?? ''}-${fl.class ?? ''}-${fl.lang ?? ''}-${fl.letter ?? ''}---${pg}---${fl.year ?? ''}.html`;        
-        let resHtml = await request(cateUrl);
-        let VODS = getVodList(resHtml);
-        let limit = VODS.length;
-        let pagecount = cutStr(resHtml, 'hl-page-total£/', '页', '1');
-        pagecount = Number(pagecount);
-        return JSON.stringify({list: VODS, page: pg, pagecount: pagecount, limit: limit, total: limit*pagecount});
-    } catch (e) {
-        console.error('类别页获取失败：', e.message);
-        return JSON.stringify({list: [], page: 1, pagecount: 0, limit: 30, total: 0});
-    }
-}
+    pg = pg || 1;
+    extend = extend || {};
 
-async function search(wd, quick, pg) {
-    try {
-        pg = parseInt(pg, 10), pg = pg > 0 ? pg : 1;
-        let searchUrl = `${HOST}/s${wd}/page/${pg}.html`;
-        let resHtml = await request(searchUrl);
-        let VODS = getVodList(resHtml);
-        return JSON.stringify({list: VODS, page: pg, pagecount: 10, limit: 30, total: 300});
-    } catch (e) {
-        console.error('搜索页获取失败：', e.message);
-        return JSON.stringify({list: [], page: 1, pagecount: 0, limit: 30, total: 0});
-    }
-}
+    let url = buildCategoryUrl(tid, pg, extend);
 
-function getVodList(khtml) {
     try {
-        if (!khtml) {throw new Error('源码为空');}  
-        let kvods = [];
-        let listArr = cutStr(khtml, 'hl-lazy', '</a>', '', false, 0, true).filter(flt => flt.includes('remarks'));
-        for (let it of listArr) {
-            let kname = cutStr(it, 'title="', '"', '名称');
-            let kpic = cutStr(it, 'data-original="', '"', '图片');
-            let kremarks = cutStr(it, 'remarks">', '</', '状态');
-            let kid = cutStr(it, 'href="', '"');
-            if (kid) {
-                kvods.push({
-                    vod_name: kname,
-                    vod_pic: kpic,
-                    vod_remarks: kremarks,
-                    vod_id: `${kid}@${kname}@${kpic}@${kremarks}`
-                });
+        const html = (await req(url, {
+            method: "GET",
+            headers: {
+                "User-Agent": UA,
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Referer": appConfig.siteUrl
             }
-        }
-        return kvods;
+        })).content;
+        const result = parseListHtml(html);
+        return JSON.stringify(result);
     } catch (e) {
-        console.error(`生成视频列表失败：`, e.message);
-        return [];
+        console.error("分类列表获取失败:", e.message);
+        return JSON.stringify({ list: [], pagecount: 0 });
     }
 }
 
-async function detail(ids) {
+async function search(wd, quick, page) {
+    page = page || 1;
     try {
-        let [id, kname, kpic, kremarks] = ids.split('@');
-        let detailUrl = !/^http/.test(id) ? `${HOST}${id}` : id;
-        let resHtml = await request(detailUrl);
-        if (!resHtml) {throw new Error('源码为空');}  
-        let intros = cutStr(resHtml, '"clearfix">', '</ul>', '', false);
-        let [ktabs, kurls] = [[], []];
-        let zx_tabs = cutStr(resHtml, '<span class="hl-from', '/span>', '', false, 0, true).map((it,idx) => cutStr(it, '>', '<', `在线${idx+1}`) );
-        ktabs.push(...zx_tabs);
-        let zx_urls = cutStr(resHtml, 'hl-plays-list">', '</ul>', '', false, 0, true).map((item,idx) => cutStr(item, '<li', '</li>', '', false, 0, true).map(it => { return cutStr(it, '>', '</a>', 'noEpi')  + '$' + HOST + cutStr(it, 'href="', '"', 'noUrl'); }).join('#') );
-        kurls.push(...zx_urls);
-        let xzArr = cutStr(resHtml, 'hl-downs-list hl', '</ul>', '', false, 0, true);
-        if (xzArr[0]) {
-            xzArr.forEach((item,idx) => {
-                let siglUrl = cutStr(item, 'down_url', '>', '', false, 0, true).map(it => `${cutStr(it, 'file_name="', '"', 'noEpi')}$${cutStr(it, 'value="', '"', 'noUrl')}` ).join('#');
-                ktabs.push(`下载线${idx+1}`);
-                kurls.push(siglUrl);
+        const url = `${appConfig.siteUrl}/xcsysearch/-------------.html?wd=${encodeURIComponent(wd)}&page=${page}`;
+        const html = (await req(url, {
+            method: "GET",
+            headers: {
+                "User-Agent": UA,
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Referer": appConfig.siteUrl
+            }
+        })).content;
+        const result = parseListHtml(html);
+        return JSON.stringify(result);
+    } catch (e) {
+        console.error("搜索失败:", e.message);
+        return JSON.stringify({ list: [], pagecount: 0 });
+    }
+}
+
+async function detail(id) {
+    try {
+        const html = (await req(appConfig.siteUrl + id, {
+            method: "GET",
+            headers: {
+                "User-Agent": UA,
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Referer": appConfig.siteUrl
+            }
+        })).content;
+        const $ = cheerio.load(html);
+
+        let vod_name = $("h1").first().text().trim() || $(".details-title").first().text().trim();
+
+        let vod_pic = "";
+        let $pic = $(".details-pic img, .video-pic img, img[src*='upload']").first();
+        if ($pic.length > 0) {
+            vod_pic = fixUrl($pic.attr("src") || $pic.attr("data-original") || "");
+        }
+        if (!vod_pic) {
+            $("img").each(function () {
+                let src = $(this).attr("src") || $(this).attr("data-original") || "";
+                if (src.includes('upload') && !vod_pic) {
+                    vod_pic = fixUrl(src);
+                }
             });
         }
-        if (KParams.tabsSet) {
-            let ktus = ktabs.map((it, idx) => { return {type_name: it, type_value: kurls[idx]} });
-            ktus = ctSet(ktus, KParams.tabsSet);
-            ktabs = ktus.map(it => it.type_name);
-            kurls = ktus.map(it => it.type_value);
-        }
-        let VOD = {
-            vod_id: detailUrl,
-            vod_name: kname,
-            vod_pic: kpic,
-            vod_remarks: kremarks,
-            type_name: cutStr(intros, '类型：', '</li>', '类型'),
-            vod_year: cutStr(intros, '年份：', '</li>', '1000'),
-            vod_area: cutStr(intros, '地区：', '</li>', '地区'),
-            vod_lang: cutStr(intros, '语言：', '</li>', '语言'),
-            vod_director: cutStr(intros, '导演：', '</li>', '导演'),
-            vod_actor: cutStr(intros, '主演：', '</li>', '主演'),
-            vod_content: '【琉🔹芸❤广告勿信👉剧情】 '+cutStr(intros, '简介：', '</li>', kname),
-            vod_play_from: ktabs.join('$$$💕琉芸👉'),
-            vod_play_url: kurls.join('$$$')
-        };
-        return JSON.stringify({list: [VOD]});
-    } catch (e) {
-        console.error('详情页获取失败：', e.message);
-        return JSON.stringify({list: []});
-    }
-}
 
-async function play(flag, ids, flags) {
-    try {
-        let kp = 0, kurl = '';
-        if (/下载/.test(flag)) {
-            kurl = ids;
-        } else {
-            let resHtml = await request(ids);
-            let codeObj = safeParseJSON(cutStr(resHtml, 'var player_£=', '<', '', false));       
-            kurl = codeObj?.url ?? '';
-            if (!/^http/.test(kurl)) {
-                kurl = ids;
-                kp = 1;
+        let vod_director = "";
+        let vod_actor = "";
+        let vod_area = "";
+        let vod_year = "";
+        let vod_content = "";
+        let vod_class = "";
+        let vod_remarks = "";
+
+        $("li").each(function () {
+            let text = $(this).text();
+            if (text.includes("导演：") && !vod_director) {
+                vod_director = $(this).text().replace("导演：", "").trim();
             }
+            if (text.includes("主演：") && !vod_actor) {
+                vod_actor = $(this).find("a").map(function () { return $(this).text().trim(); }).get().filter(Boolean).join(',');
+                if (!vod_actor) vod_actor = $(this).text().replace("主演：", "").trim();
+            }
+            if (text.includes("类型：") && !vod_class) {
+                vod_class = $(this).find("a").map(function () { return $(this).text().trim(); }).get().filter(Boolean).join(',');
+                if (!vod_class) vod_class = $(this).text().replace("类型：", "").trim();
+            }
+            if (text.includes("地区：") && !vod_area) {
+                vod_area = $(this).text().replace("地区：", "").trim();
+            }
+        });
+
+        let $intro = $(".txt-hidden, .content, .video-info-content, .details-content");
+        if ($intro.length > 0) {
+            vod_content = $intro.first().text().replace("简介：", "").trim();
         }
-        return JSON.stringify({jx: 0, parse: kp, url: kurl, header: DefHeader});
-    } catch (e) {
-        console.error('播放失败：', e.message);
-        return JSON.stringify({jx: 0, parse: 0, url: '', header: {}});
-    }
-}
 
-function ctSet(kArr, setStr) {
-    try {
-        if (!Array.isArray(kArr) || kArr.length === 0 || typeof setStr !== 'string' || !setStr) { throw new Error('第一参数需为非空数组，第二参数需为非空字符串'); }
-        const set_arr = [...kArr];
-        const arrNames = setStr.split('&');
-        const filtered_arr = arrNames.map(item => set_arr.find(it => it.type_name === item)).filter(Boolean);
-        return filtered_arr.length? filtered_arr : [set_arr[0]];
-    } catch (e) {
-        console.error('ctSet 执行异常：', e.message);
-        return kArr;
-    }
-}
+        let lines = [];
+        let playlists = [];
+        let seenEpisodes = new Set();
 
-function safeParseJSON(jStr){
-    try {return JSON.parse(jStr);} catch(e) {return null;}
-}
+        $(".play-list-toggle").each(function (panelIndex) {
+            let lineName = $(this).find("a").text().trim() || "默认";
 
-function cutStr(str, prefix = '', suffix = '', defVal = '', clean = true, i = 0, all = false) {
-    try {
-        if (typeof str !== 'string') {throw new Error('被截取对象必须为字符串');}
-        const cleanStr = cs => String(cs).replace(/<[^>]*?>/g, ' ').replace(/(&nbsp;|[\u0020\u00A0\u3000\s])+/g, ' ').trim().replace(/\s+/g, ' ');
-        const esc = s => String(s).replace(/[.*+?${}()|[\]\\/^]/g, '\\$&');
-        let pre = esc(prefix).replace(/£/g, '[^]*?'), end = esc(suffix);
-        const regex = new RegExp(`${pre || '^'}([^]*?)${end || '$'}`, 'g');
-        const matchIter = str.matchAll(regex);
-        if (all) {
-            let matchArr = [...matchIter];
-            if (!matchArr.length) {return [defVal];}
-            return matchArr.map(ela => ela[1] !== undefined ? (clean ? cleanStr(ela[1]) : ela[1]) : defVal);
-        }
-        const idx = parseInt(i, 10);
-        if (isNaN(idx)) {throw new Error('序号必须为整数');}
-        let tgResult, matchIdx = 0;
-        if (idx >= 0) {
-            for (let elt of matchIter) {
-                if (matchIdx++ === idx) {
-                    tgResult = elt[1];
-                    break;
+            let $playList = $(".play-list").eq(panelIndex);
+            let episodes = [];
+            let epArray = [];
+
+            $playList.find("a[href*='/xcsyplay/']").each(function () {
+                let name = $(this).text().trim();
+                let href = $(this).attr('href') || '';
+                if (name && href) {
+                    let episodeKey = `${name}_${href}`;
+                    if (!seenEpisodes.has(episodeKey)) {
+                        seenEpisodes.add(episodeKey);
+                        epArray.push({ name, href });
+                    }
                 }
+            });
+
+            // 改成正序：按集数号排序
+            epArray.sort((a, b) => {
+                let numA = parseInt(a.name.match(/第(\d+)/)?.[1] || 0);
+                let numB = parseInt(b.name.match(/第(\d+)/)?.[1] || 0);
+                return numA - numB;
+            });
+
+            epArray.forEach(ep => {
+                episodes.push(`${ep.name}$${ep.href}`);
+            });
+
+            if (episodes.length > 0) {
+                lines.push(lineName);
+                playlists.push(episodes);
             }
-        } else {
-            let absI = Math.abs(idx), ringBuf = new Array(absI), ringPtr = 0, ringCnt = 0;
-            for (let elt of matchIter) {
-                ringBuf[ringPtr] = elt[1];
-                ringPtr = (ringPtr + 1) % absI;
-                ringCnt = Math.min(ringCnt + 1, absI);
-                matchIdx++;
+        });
+
+        // 如果没有找到线路，尝试其他选择器
+        if (lines.length === 0) {
+            let episodes = [];
+            let epArray = [];
+
+            $("a[href*='/xcsyplay/']").each(function () {
+                let name = $(this).text().trim();
+                let href = $(this).attr('href') || '';
+                if (name && href) {
+                    let episodeKey = `${name}_${href}`;
+                    if (!seenEpisodes.has(episodeKey)) {
+                        seenEpisodes.add(episodeKey);
+                        epArray.push({ name, href });
+                    }
+                }
+            });
+
+            // 正序排序
+            epArray.sort((a, b) => {
+                let numA = parseInt(a.name.match(/第(\d+)/)?.[1] || 0);
+                let numB = parseInt(b.name.match(/第(\d+)/)?.[1] || 0);
+                return numA - numB;
+            });
+
+            epArray.forEach(ep => {
+                episodes.push(`${ep.name}$${ep.href}`);
+            });
+
+            if (episodes.length > 0) {
+                lines.push("默认");
+                playlists.push(episodes);
             }
-            tgResult = (matchIdx >= absI && ringCnt > 0) ? ringBuf[ringPtr % ringCnt] : undefined;
         }
-        return tgResult !== undefined ? (clean ? (cleanStr(tgResult) || defVal) : tgResult) : defVal;
-    } catch (e) {
-        console.error(`字符串截取错误：`, e.message);
-        return all ? ['cutErr'] : 'cutErr';
+
+        if (lines.length === 0) {
+            lines.push("默认");
+            playlists.push([`暂无播放地址$${id}`]);
+        }
+
+        const { vod_play_from, vod_play_url } = buildVodPlayData(lines, playlists);
+
+        return JSON.stringify({
+            list: [{
+                vod_id: id,
+                vod_name,
+                vod_pic,
+                vod_actor,
+                vod_director,
+                vod_remarks,
+                vod_year,
+                vod_area,
+                vod_content,
+                vod_class,
+                vod_play_from,
+                vod_play_url
+            }]
+        });
+    } catch (error) {
+        console.error(`解析详情页异常 [ID: ${id}]:`, error);
+        return JSON.stringify({ list: [] });
     }
 }
 
-async function request(reqUrl, options = {}) {
-    try {
-        if (typeof reqUrl !== 'string' || !reqUrl.trim()) { throw new Error('reqUrl需为字符串且非空'); }
-        if (typeof options !== 'object' || Array.isArray(options) || options === null) { throw new Error('options类型需为非null对象'); }
-        options.method = options.method?.toUpperCase() || 'GET';
-        if (['GET', 'HEAD'].includes(options.method)) {
-            delete options.body;
-            delete options.data;
-            delete options.postType;
-        }
-        let {headers, timeout, ...restOpts} = options;
-        const optObj = {
-            headers: (typeof headers === 'object' && !Array.isArray(headers) && headers) ? headers : KParams.headers,
-            timeout: parseInt(timeout, 10) > 0 ? parseInt(timeout, 10) : KParams.timeout,
-            ...restOpts
-        };
-        const res = await req(reqUrl, optObj);
-        if (options.withHeaders) {
-            const resHeaders = typeof res.headers === 'object' && !Array.isArray(res.headers) && res.headers ? res.headers : {};
-            const resWithHeaders = { ...resHeaders, body: res?.content ?? '' };
-            return JSON.stringify(resWithHeaders);
-        }
-        return res?.content ?? '';
-    } catch (e) {
-        console.error(`${reqUrl}→请求失败：`, e.message);
-        return options?.withHeaders ? JSON.stringify({ body: '' }) : '';
-    }
-}
-
-export function __jsEvalReturn() {
+function buildVodPlayData(lines, playlists) {
+    const processedPlaylists = playlists.map(eps => eps.join('#'));
     return {
-        init,
-        home,
-        homeVod,
-        category,
-        search,
-        detail,
-        play,
-        proxy: null
+        vod_play_from: lines.filter(Boolean).join('$$$'),
+        vod_play_url: processedPlaylists.join('$$$')
     };
-
 }
 
+async function play(flag, id, flags) {
+    try {
+        if (id.startsWith("http")) {
+            return JSON.stringify({
+                parse: 0,
+                Header: { "User-Agent": UA, "Referer": appConfig.siteUrl },
+                url: id
+            });
+        }
+
+        const html = (await req(`${appConfig.siteUrl}${id}`, {
+            method: "GET",
+            headers: {
+                "User-Agent": UA,
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Referer": appConfig.siteUrl
+            }
+        })).content;
+
+        // 解析 player_aaaa
+        let playerMatch = html.match(/var player_aaaa\s*=\s*(\{.+?\});/);
+        if (playerMatch) {
+            try {
+                let playerData = JSON.parse(playerMatch[1]);
+                if (playerData.url) {
+                    return JSON.stringify({
+                        parse: 0,
+                        Header: { "User-Agent": UA, "Referer": appConfig.siteUrl },
+                        url: playerData.url
+                    });
+                }
+            } catch (e) {
+                console.error("解析player_aaaa失败:", e.message);
+            }
+        }
+
+        // 尝试匹配 m3u8 URL
+        let urlMatch = html.match(/"url"\s*[:=]\s*"([^"]+\.m3u8[^"]*)"/);
+        if (urlMatch) {
+            return JSON.stringify({
+                parse: 0,
+                Header: { "User-Agent": UA, "Referer": appConfig.siteUrl },
+                url: urlMatch[1].replace(/\\/g, '')
+            });
+        }
+
+        // 尝试 iframe
+        const $ = cheerio.load(html);
+        let iframeSrc = $("iframe").attr("src");
+        if (iframeSrc) {
+            return JSON.stringify({
+                parse: 1,
+                Header: { "User-Agent": UA, "Referer": appConfig.siteUrl },
+                url: fixUrl(iframeSrc)
+            });
+        }
+
+        return JSON.stringify({
+            parse: 1,
+            Header: { "User-Agent": UA, "Referer": appConfig.siteUrl },
+            url: appConfig.siteUrl + id
+        });
+    } catch (e) {
+        console.error("播放失败:", e);
+        return JSON.stringify({ parse: 0, url: "" });
+    }
+}
+
+export default {
+    init,
+    home,
+    category,
+    detail,
+    search,
+    play
+};
