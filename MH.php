@@ -100,6 +100,39 @@
     "indexs": 0
 },
 {
+    "key": "csp_AppYsV2_影探",
+    "name": "┃影探┃秒播",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "playUrl": "",
+    "ext": "http://cmszy.9513tv.vip/api.php/app/"
+},
+{
+    "key": "csp_XBPQ_素白白",
+    "name": "素白┃秒播",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "http://xg3.mingapi.top/tvbox/lib/素白白.json"
+},
+{
+      "key": "csp_py_瓜子",
+      "name": "[PY]┃瓜子",
+      "type": 3,
+      "api": "http://xg3.mingapi.top/tvbox/py/瓜子.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+},
+{
+      "key": "csp_py_歪比影视",
+      "name": "[PY]┃歪比影视",
+      "type": 3,
+      "api": "http://xg3.mingapi.top/tvbox/py/歪比影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
     "key": "NB012绿豆",
     "name": "🏝┃绿豆┃秒播",
     "type": 3,
