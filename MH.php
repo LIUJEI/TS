@@ -736,7 +736,7 @@
     "name": "优选",
     "type": 1,
     "url": "http://1.94.221.189:88/algorithm.php?url="
-}
+},
 {
     "name": "🏁琉芸★内部嗅探★",
 	"type": 0,
