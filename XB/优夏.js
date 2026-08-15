@@ -275,7 +275,7 @@ async function detail(id) {
         let vod_actor = "";
         let vod_area = "";
         let vod_year = "";
-        let vod_content = "";
+        let vod_content = "【琉🔹芸❤广告勿信👉剧情】📢 ";
         let vod_class = "";
         let vod_remarks = "";
 
@@ -300,7 +300,7 @@ async function detail(id) {
 
         let $intro = $(".detail-intro");
         if ($intro.length > 0) {
-            vod_content = $intro.first().text().replace("简介：", "").trim();
+            vod_content = $intro.first().text().replace("简介：", "【琉🔹芸❤广告勿信👉剧情】📢 ").trim();
         }
         if (!vod_content) {
             $intro = $(".article-text");
@@ -330,18 +330,18 @@ async function detail(id) {
         let episodes = epArray.map(ep => `${ep.name}$${ep.href}`);
 
         if (episodes.length > 0) {
-            lines.push("默认");
+            lines.push("优夏");
             playlists.push(episodes);
         } else {
             let playHref = $(".detail-actions a.btn-primary").attr("href") || "";
             if (playHref) {
-                lines.push("默认");
+                lines.push("优夏");
                 playlists.push([`正片$${playHref}`]);
             }
         }
 
         if (lines.length === 0) {
-            lines.push("默认");
+            lines.push("优夏");
             playlists.push([`暂无播放地址$${id}`]);
         }
 
@@ -357,7 +357,7 @@ async function detail(id) {
                 vod_remarks,
                 vod_year,
                 vod_area,
-                vod_content,
+                vod_content'【琉🔹芸❤广告勿信👉剧情】📢'+ ,
                 vod_class,
                 vod_play_from,
                 vod_play_url
