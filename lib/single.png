@@ -63,28 +63,10 @@
     "version": "支持语音换台"
 },
 {
-    "name": "宝宝巴士儿歌",
-    "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/baobaobashi.apk",
-    "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1865742332872704000.jpg",
-    "version": "儿歌动画"
-},
-{
-    "name": "淘知学堂",
-    "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/taozhixuetang.apk",
-    "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1863157714193592320.jpg",
-    "version": "儿童学习"
-},
-{
     "name": "小苹果音乐TV版",
     "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/music.apk",
     "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/2061648416357756928.jpg",
     "version": "TV听歌"
-},
-{
-    "name": "小白浏览器",
-    "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/xiaobai.apk",
-    "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1879549331154513920.jpg",
-    "version": "软件管家"
 },
 {
     "name": "小红帽管家",
