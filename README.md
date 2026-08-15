@@ -4,9 +4,9 @@
 
 * 潇洒线路："https://qist.ugigc.dpdns.org/xiaosa/api.json"
 
-* 小米线路："http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/DEMO.json"
+* 小米线路："https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json"
 
-* 王二线路："https://d.kstore.dev/download/9280/wex.json"
+* 嗷呜线路："https://9763.kstore.space/aowu.json"
 
 * 多多线路："https://yydsys.netlify.app/config.json"
 
@@ -14,7 +14,7 @@
 
 * 巧技线路："http://cdn.qiaoji8.com/tvbox.json"
 
-* 圥忈仓库："https://gitlab.com/dokiss1/tvbox/"
+* 肥猫线路："https://jk.catvod.site/"
 
 #    ⚙️GitHub加速站
 
