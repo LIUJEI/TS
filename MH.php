@@ -747,7 +747,7 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/single.png"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/lib/single.png"
 }
 ],
 "parses": [	
