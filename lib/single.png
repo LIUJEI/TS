@@ -21,18 +21,6 @@
     "name": "应用中心",
     "list": [
 {
-    "name": "影视仓",
-    "url": "https://13868.kstore.space/ysj/app/%E5%BD%B1%E8%A7%86%E4%BB%936.2.0.apk",
-    "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
-    "version": "6.2.0"
-},
-{
-    "name": "黑盒TVBOX",
-    "url": "https://13868.kstore.space/ysj/app/TVBox_%E9%BB%91%E7%9B%92_20260227.apk",
-    "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
-    "version": "Fongmi"
-},
-{
     "name": "NewTv",
     "url": "http://80.251.211.5:7777/NewTV_44140_358770.apk",
     "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/1.png",
