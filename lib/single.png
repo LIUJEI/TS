@@ -1,5 +1,5 @@
-[
-{
+
+[{
     "name": "推荐",
     "list": [{"name": "推荐","url": "","icon": "","version": " "}]},
 {
@@ -16,9 +16,7 @@
     "url": "https://d.kstore.dev/download/12194/%E5%BD%B1%E8%A7%86.json",
     "icon": "https://gitee.com/lyun_1_0/tb/raw/master/lib/danx.png",
     "version": "26.07.30"
-}
-]
-},
+}]},
 {
     "name": "应用中心",
     "list": [
@@ -135,7 +133,4 @@
     "url": "https://v6.gh-proxy.org/https://github.com/redscarful/xpg/releases/download/123/dangbei.apk",
     "icon": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/p/1933053327264808960.jpg",
     "version": "软件管家"
-}
-]
-}
-]
+}]}]
