@@ -79,59 +79,12 @@
     "indexs": 0
 },
 {
-    "key": "csp_js_AGE动漫",
-    "name": "🥨┃AGEY┃动漫",
-    "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/AGE动漫.js",
-    "indexs": 0
-},
-{
     "key": "csp_js_牛牛短剧",
     "name": "🐂┃牛牛┃短剧",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/牛牛.js",
     "indexs": 0
 },
-{
-    "key": "csp_json_陈彬",
-    "name": "👾┃资源┃陈彬",
-    "type": 1,
-    "api": "http://cms.cpolar.cn/api.php/provide/vod/",
-    "indexs": 0
-},
-{
-    "key": "csp_AppYsV2_影探",
-    "name": "┃影探┃秒播",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "playUrl": "",
-    "ext": "http://cmszy.9513tv.vip/api.php/app/"
-},
-{
-    "key": "csp_XBPQ_素白白",
-    "name": "素白┃秒播",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "http://xg3.mingapi.top/tvbox/lib/素白白.json"
-},
-{
-      "key": "csp_py_瓜子",
-      "name": "[PY]┃瓜子",
-      "type": 3,
-      "api": "http://xg3.mingapi.top/tvbox/py/瓜子.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-},
-{
-      "key": "csp_py_歪比影视",
-      "name": "[PY]┃歪比影视",
-      "type": 3,
-      "api": "http://xg3.mingapi.top/tvbox/py/歪比影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 {
     "key": "NB012绿豆",
     "name": "🏝┃绿豆┃秒播",
@@ -153,6 +106,16 @@
     "dataIv": "kj37zs29q22jk96t",
     "init": "initV122",
     "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "世界",
+    "name": "🗺┃世界┃秒播",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://appcms.4ksj.app",
+    "dataKey": "O3K6rYx75Q4xtiIE",
+    "dataIv": "O3K6rYx75Q4xtiIE"}
 },
 {
     "key": "csp_huayi",
