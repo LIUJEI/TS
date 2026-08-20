@@ -47,35 +47,35 @@
     "key": "csp_js_红桃",
     "name": "💔┃红桃┃秒播",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/红桃.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/红桃.js",
     "indexs": 0
 },
 {
     "key": "csp_js_优夏",
     "name": "🚩┃优夏┃秒播",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/优夏.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/优夏.js",
     "indexs": 0
 },
 {
     "key": "csp_js_毒舌",
     "name": "🐍┃毒舌┃秒播",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/毒舌.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/毒舌.js",
     "indexs": 0
 },
 {
     "key": "csp_js_星辰",
     "name": "💢┃星辰┃秒播",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/星辰.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/星辰.js",
     "indexs": 0
 },
 {
     "key": "csp_js_牛牛短剧",
     "name": "🐂┃牛牛┃短剧",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/牛牛.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/牛牛.js",
     "indexs": 0
 },
 {
