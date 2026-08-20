@@ -72,38 +72,38 @@
     "indexs": 0
 },
 {
-    "key": "csp_js_牛牛短剧",
-    "name": "🐂┃牛牛┃短剧",
+    "key": "csp_js_妲己短剧",
+    "name": "🧚🏻‍♀️┃妲己┃秒播",
     "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/牛牛.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/妲己.py",
     "indexs": 0
 },
 {
     "key": "豆花影视",
-    "name": "豆花 | 影视",
+    "name": "🌷┃豆花┃秒播",
     "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/豆花.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/豆花.py",
     "indexs": 0
 },
 {
     "key": "好剧影视",
-    "name": "好剧 | 影视",
+    "name": "🏠┃剧屋┃秒播",
     "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/好剧.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/剧屋.py",
     "indexs": 0
 },
 {
     "key": "可可影视",
-    "name": "可可 | 影视1",
+    "name": "🌉┃可可┃秒播",
     "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/可可.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/可可.py",
     "indexs": 0
 },
 {
     "key": "FreeOK",
-    "name": "FreeOK | 影视",
+    "name": "🚛┃追剧┃秒播",
     "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/FreeOK.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/FreeOK.py",
     "indexs": 0
 },
 {
