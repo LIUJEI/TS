@@ -79,6 +79,34 @@
     "indexs": 0
 },
 {
+    "key": "豆花影视",
+    "name": "豆花 | 影视",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/豆花.js",
+    "indexs": 0
+},
+{
+    "key": "好剧影视",
+    "name": "好剧 | 影视",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/好剧.js",
+    "indexs": 0
+},
+{
+    "key": "可可影视",
+    "name": "可可 | 影视1",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/可可.js",
+    "indexs": 0
+},
+{
+    "key": "FreeOK",
+    "name": "FreeOK | 影视",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/FreeOK.js",
+    "indexs": 0
+},
+{
     "key": "NB012绿豆",
     "name": "🏝┃绿豆┃秒播",
     "type": 3,
