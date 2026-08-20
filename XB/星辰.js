@@ -11,6 +11,7 @@ async function init(ext) {
 }
 
 const classList = [
+    { type_id: "17", type_name: "国产剧" },
     { type_id: "6", type_name: "动作片" },
     { type_id: "7", type_name: "喜剧片" },
     { type_id: "8", type_name: "爱情片" },
@@ -19,7 +20,6 @@ const classList = [
     { type_id: "11", type_name: "剧情片" },
     { type_id: "12", type_name: "战争片" },
     { type_id: "13", type_name: "纪录片" },
-    { type_id: "17", type_name: "国产剧" },
     { type_id: "18", type_name: "港台剧" },
     { type_id: "20", type_name: "日韩剧" },
     { type_id: "21", type_name: "欧美剧" },
