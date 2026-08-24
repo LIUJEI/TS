@@ -10,11 +10,11 @@
 
 "sites": [
 {
-    "key": "csp_DouBan",
-    "name": "🎬┣豆瓣┫推荐",
+    "key": "Douban",
+    "name": "🎬┣豆瓣┫首页",
     "type": 3,
-    "api" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/douban.js",
-    "searchable": 0
+    "api": "csp_Douban",
+    "indexs": 0
 },
 {
     "key": "csp_reboys",
