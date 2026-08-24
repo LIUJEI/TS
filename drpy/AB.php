@@ -4,6 +4,6 @@
 {"name": "🚸《备用》","url": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/MG.php"},
 {"name": "🚸《魔盒》","url": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/MX.php"},
 {"name": "🚸《饭佬》","url": "http://www.饭太硬.cc/tv"},
-{"name": "🚸《集多》","url": "http://rihou.cc:88/demo.php"}
+{"name": "🚸《米多》","url": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/XM.json"}
 ]
 }
