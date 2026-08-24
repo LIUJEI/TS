@@ -19,7 +19,6 @@
 {"name": "🚸《自用》XPG","url": "https://gh-proxy.org/https://raw.githubusercontent.com/redscarful/xpg/refs/heads/main/tbs.json"},
 {"name": "🚸《绿豆》白猫","url": "https://wp.v6x8.com/down.php/686212a83cc05575a2cb4da72791ad1d.json"},
 {"name": "🚸《绿豆》小米","url": "https://gh-proxy.org/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/main/json/demo.json"},
-{"name": "🚸《自用》肥猫","url": "http://肥猫.net"},
 {"name": "🚸《自用》EasyTV","url": "https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"},
 {"name": "🚸《自用》南风","url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
 {"name": "🚸《自用》福利","url": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XX.php"}
