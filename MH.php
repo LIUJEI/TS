@@ -19,7 +19,7 @@
     "type": 3,
     "api": "csp_Notice",
     "jar": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/liuli.php",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/公告.php"
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/libs/公告.php"
 },
 {
     "key": "maitian",
@@ -467,7 +467,7 @@
 },
 {
     "key": "Wogg",
-    "name": "💯┃玩偶┃4K臻享",
+    "name": "💯┃玩偶┃4K",
     "type": 3,
     "api": "csp_Wogg",
     "ext": {
@@ -478,7 +478,7 @@
 },
 {
     "key": "至臻",
-    "name": "💯┃至臻┃4K臻享",
+    "name": "💯┃至臻┃4K",
     "type": 3,
     "api": "csp_PanWebShare",
     "ext": {
@@ -489,7 +489,7 @@
 },
 {
     "key": "木偶",
-    "name": "💯┃木偶┃4K臻享",
+    "name": "💯┃木偶┃4K",
     "type": 3,
     "api": "csp_PanWebShare",
     "ext": {
@@ -501,7 +501,7 @@
 },
 {
     "key": "蜡笔",
-    "name": "💯┃蜡笔┃4K臻享",
+    "name": "💯┃蜡笔┃4K",
     "type": 3,
     "api": "csp_PanWebShare",
     "ext": {
@@ -513,7 +513,7 @@
 },
 {
     "key": "多多",
-    "name": "💯┃多多┃4K臻享",
+    "name": "💯┃多多┃4K",
     "type": 3,
     "api": "csp_PanWebShare",
     "ext": {
@@ -524,7 +524,7 @@
 },
 {
     "key": "二小",
-    "name": "💯┃二小┃4K臻享",
+    "name": "💯┃二小┃4K",
     "type": 3,
     "api": "csp_PanWebShare",
     "ext": {
@@ -537,7 +537,7 @@
 },
 {
     "key": "虎斑",
-    "name": "💯┃虎斑┃4K臻享",
+    "name": "💯┃虎斑┃4K",
     "type": 3,
     "api": "csp_PanWebShare",
     "ext": {
@@ -545,7 +545,7 @@
 },
 {
     "key": "移动",
-    "name": "💯┃移动┃4K臻享",
+    "name": "💯┃移动┃4K",
     "type": 3,
     "api": "csp_Yidong4K",
     "indexs": 0
