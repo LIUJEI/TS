@@ -18,8 +18,8 @@
     "name": "🎬┣更新┫公告",
     "type": 3,
     "api": "csp_Notice",
-    "jar": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/libs/liuli.php",
-    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/libs/公告.php"
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/liuli.php",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/公告.php"
 },
 {
     "key": "maitian",
@@ -596,7 +596,7 @@
     "key": "liuliys",
     "name": "🇨🇳┣☪琉✿璃┫专用",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/琉璃.js",
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/琉璃.js",
     "indexs": 0
 },
 {
@@ -605,7 +605,7 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/lib/single.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.png"
 }
 ],
 "parses": [	
@@ -696,7 +696,7 @@
 {
     "name": "📺芸芸直播",
     "type": 0,
-    "url": "https://d.kstore.dev/download/12194/芸直播.txt",
+    "url": "https://gitee.com/lyun_1_0/tb/raw/master/芸直播.txt",
     "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
     "logo": "https://epg.112114.eu.org/logo/{name},png"
 }],
