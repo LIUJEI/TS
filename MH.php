@@ -78,10 +78,11 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
+    "site": "https://jk.catvod.site/jk/t4/mqxhqj.txt",
     "dataKey": "kj37zs29q22jk96t",
     "dataIv": "kj37zs29q22jk96t",
     "init": "initV122",
+    "playname": "怀桑",
     "ua": "okhttp/3.10.0"}
 },
 {
