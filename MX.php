@@ -11,9 +11,9 @@
 "sites": [
 {
     "key": "Douban",
-    "name": "🎬┣豆瓣┫首页",
+    "name": "🎬┣魔盒┫首页",
     "type": 3,
-    "api": "csp_Douban",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/main/XB/%E6%AF%92%E8%88%8C.js",
     "indexs": 0
 },
 {
