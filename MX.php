@@ -13,7 +13,7 @@
     "key": "Douban",
     "name": "🎬┣魔盒┫首页",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/main/XB/%E6%AF%92%E8%88%8C.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XB/%E6%AF%92%E8%88%8C.js",
     "indexs": 0
 },
 {
