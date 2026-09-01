@@ -1,6 +1,6 @@
 {
   /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
-  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MS_planB_v2.jar;md5;f4c705a7cae6111def02d805e906a70b",
+  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MS_planB_v3.jar;md5;f7b8dc903847b9984e2c1437d4f3c460",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
@@ -15,7 +15,7 @@
 },
 {
     "key": "csp_Notice",
-    "name": "🎬┣公告┫09.04",
+    "name": "🎬┣公告┫09.02",
     "type": 3,
     "api": "csp_Notice",
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/liuli.php",
