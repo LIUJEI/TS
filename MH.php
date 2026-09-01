@@ -1,6 +1,6 @@
 {
   /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
-  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MS.jar;md5;565bb39190f304bfd73a52e986235de3",
+  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/spider.jar;md5;565bb39190f304bfd73a52e986235de3",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
@@ -432,13 +432,33 @@
     "key": "喵呜动漫",
     "name": "💮┃喵呜┃动漫",
     "type": 3,
-    "api": "csp_MiaoWu"
+    "api": "csp_App99",
+    "ext": {
+    "host": "http://111.180.139.119:19987/app/bn",
+    "LoginPath": "/app/log",
+    "appkey": "f66f65db127e48449f073c2c6eb0f993",
+    "versionName": "6.4.9",
+    "name": "双子星动漫",
+    "package": "com.haiwang.liangxia.my.ym",
+    "buildNumber": "2001",
+    "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"}
 },    
 {
     "key": "csp_MoDu",
     "name": "💮┃魔都┃动漫",
     "type": 3,
-    "api": "csp_MoDu"
+    "api": "csp_XBPQ",
+    "ext": {
+    "请求头": "User-Agent$MOBILE_UA#Accept$text/html#accept-language$zh-CN,zh;q=0.8",
+    "分类url": "https://dmbus.cc/show-{cateId}--{by}-{class}--{year}-{catePg}.html",
+    "分类": "国漫$1#日漫$2#欧美动漫$3#电影$4",
+    "数组": "class=\"item\"\u003E&&\u003C/li\u003E",
+    "简介": "剧情：&&\u003C/p\u003E",
+    "标题": "title=\"&&在线观看\"",
+    "副标题": "desc\"\u003E&&\u003C/span\u003E",
+    "图片": "data-bg=\"&&\"",
+    "搜索url": "https://dmbus.cc/s----------.html?wd={wd}",
+    "倒序": "1"}
 },
 {
     "key": "csp_番薯",
