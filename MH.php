@@ -1,6 +1,6 @@
 {
   /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
-  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/spider.jar;md5;565bb39190f304bfd73a52e986235de3",
+  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MS.jar;md5;565bb39190f304bfd73a52e986235de3",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
@@ -65,7 +65,7 @@
 }, 
 {
     "key": "csp_一起看",
-    "name": "🏵┃影視┃一起",
+    "name": "🏵┃影視┃奈菲",
     "type": 3,
     "api": "csp_AppYQK",
     "indexs": 0
@@ -100,7 +100,7 @@
 },
 {
     "key": "csp_骚火",
-    "name": "♨┃影視┃骚火",
+    "name": "🌋┃影視┃骚火",
     "type": 3,
     "api": "csp_SaoHuo",
     "ext": "https://shdy5.us"
@@ -124,13 +124,6 @@
     "name": "☂┃影視┃爱看 ",
     "type": 3,
     "api": "csp_Ikanbot",
-    "indexs" : 0
-},
-{
-    "key": "csp_山楂",
-    "name": "🌰┃影視┃山楂",
-    "type": 3,
-    "api": "csp_PianKu8",
     "indexs" : 0
 },
 {
@@ -173,21 +166,6 @@
     "sign": "ddtvf65f3a83d6d9ad6f"}
 },
 {
-    "key": "csp_马猴影视",
-    "name": "🦓┃影視┃马猴",
-    "type": 3,
-    "api": "csp_App3Q",
-    "ext": {
-    "host": "https://45.150.167.18:8000",
-    "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
-    "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
-    "deviceBrand": "vivo",
-    "deviceModel": "V2309A",
-    "pkg": "com.damahou.tv",
-    "sk": "SK-woniu-thanks",
-    "ver": "1"}
-},
-{
     "key": "蓝鸟",
     "name": "🐦┃蓝鸟┃APP",
     "type": 3,
@@ -221,18 +199,6 @@
     "url": "http://110.42.67.130:1226",
     "dataKey": "kj37zs29q22jk96t",
     "dataIv": "kj37zs29q22jk96t",
-    "init": "initV122",
-    "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "aiying",
-    "name": "💝┃爱影┃APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt",
-    "dataKey": "0UKM8jkasM8tdzgW",
-    "dataIv": "0UKM8jkasM8tdzgW",
     "init": "initV122",
     "ua": "okhttp/3.10.0"}
 },
