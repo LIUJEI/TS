@@ -127,6 +127,13 @@
     "indexs" : 0
 },
 {
+    "key": "糯米",
+    "name": "🍙┃糯米┃秒播",
+    "type": 3,
+    "api": "csp_Wwys",
+    "ext": "https://vip.wwgz.cn:5200"
+},
+{
     "key": "maitian",
     "name": "🌾┃麥田┃秒播",
     "type": 3,
