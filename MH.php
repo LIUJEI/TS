@@ -178,19 +178,6 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "奇奇",
-    "name": "🪂┃奇奇┃APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt",
-    "dataKey": "FTgP4Gq8zPiqbt7M",
-    "dataIv": "FTgP4Gq8zPiqbt7M",
-    "init": "initV122",
-    "ua": "okhttp/3.10.0",
-    "search": "searchList8"}
-},
-{
     "key": "怀桑",
     "name": "💫┃怀桑┃APP",
     "type": 3,
