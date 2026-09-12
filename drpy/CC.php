@@ -3,7 +3,7 @@
 {"name": "🚸《自用》嗷呜","url": "https://9763.kstore.space/aowu.json"}, 
 {"name": "🚸《自用》肥猫","url": "https://jk.catvod.site/"}, 
 {"name": "🐠《自用》摸鱼","url": "http://www.小不点.com"},
-{"name": "🚸《自用》潇洒","url": "https://9877.kstore.space/one.json"},
+{"name": "🚸《自用》潇洒","url": "https://9877.kstore.space/sun.json"},
 {"name": "🚸《自用》潇洒1","url": "https://qist.ugigc.dpdns.org/xiaosa/api.json"},	
 {"name": "🚸《自用》基米","url": "https://17264.kstore.space/哈基米.png"}, 
 {"name": "🚸《自用》宝盒","url": "http://宝盒接口.top"},
