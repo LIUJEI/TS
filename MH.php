@@ -309,6 +309,20 @@
     "indexs": 0
 },
 {
+    "key": "csp_皮皮",
+    "name": "💞┃皮皮┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/皮皮.php"
+},
+{
+    "key" : "csp_岚猫",
+    "name" : "💞┃影視┃岚猫",
+    "type" : 3,
+    "api" : "csp_XBPQ",
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/岚猫.php"
+},
+{
     "key": "cyings",
     "name": "🧿┃奔驰┃秒播",
     "type": 3,
