@@ -576,6 +576,7 @@
     "name": "♨️┃短劇┃秒映",
     "type": 3,
     "api": "csp_XBPQ",
+	"jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MX.jar",
     "ext": {
     "作者": "冰水",
     "站名": "秒映短剧260529",
