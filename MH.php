@@ -573,10 +573,9 @@
 },
 {
     "key": "秒映短剧",
-    "name": "🍁┃秒映┃短剧",
+    "name": "♨️┃短劇┃秒映",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/BPQ.jar",
     "ext": {
     "作者": "冰水",
     "站名": "秒映短剧260529",
@@ -599,7 +598,7 @@
     "状态": "状态：&&\u003C/p",
     "导演": "👨‍🎤+导演：&&\u003C/p",
     "主演": "👩🏻‍🎤+主演：&&\u003C/p",
-    "简介": "【琉🔹芸❤广告勿信👉剧情】📢简介：&&\u003C/p",
+    "简介": "简介：&&\u003C/p",
     "线路二次截取": "",
     "线路数组": "p:.nav-tabs.active li",
     "线路标题": "p:-\u003Etext",
@@ -616,43 +615,6 @@
     "排序值": "time&hit&commend&score",
     "筛选": "1"}
 }, 
-{
-    "key": "看球直播",
-    "name": "😍┃看球┃直播",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/JAR/BPQ.jar",
-    "ext": {
-    "数组": "j:data.list",
-    "标题": "j:title",
-    "图片": "j:cover",
-    "副标题": "j:pnavName",
-    "链接": "https://aapi2.xbncs.com/api/room/detail?roomId=+j:roomId",
-    "线路数组": "j:data",
-    "线路标题": "j:nickName",
-    "播放数组": "&&",
-    "播放列表": "j:data",
-    "播放标题": "j:title",
-    "播放链接": "j:pushUrl",
-    "分类": "足球$1#篮球$2#原声$4#回放$13#电竟$11#其他$9#",
-    "分类url": "https://aapi2.xbncs.com/api/room/page?navId={cateId}&page={catePg}&pageSize=30"}
-},
-{
-    "key": "😍企鹅体育t",
-    "name": "😍┃企鹅┃体育",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "数组": "video_content\"&&</a>",
-    "标题": "video_text\">&&</p>",
-    "图片": "src=\"&&\"",
-    "副标题": "video_time\">&&</p>",
-    "链接": "data-src=\"&&\"",
-    "分类url": "https://m.live.qq.com/video/data?page={catePg}&id={cateId}&nomore=false;;z",
-    "分类": "赛事集锦$1001#小视频$999#NBA$1#CBA$2#排球$103#足球$32#综合$50#专题$special"}
-},
 {
     "key": "河马短剧",
     "name": "♨️┃短劇┃河马",
