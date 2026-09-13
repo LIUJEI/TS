@@ -389,23 +389,21 @@
 },
 {
     "key": "ConfigCenter",
-    "name": "🇨🇳┣☪配✿置┫辅助",
+    "name": "🇨🇳┣☪公✿告┫信息",
     "type": 3,
-    "api": "csp_Config",
-    "searchable": 0,
-    "changeable": 0,
-    "indexs": 0,
-    "style": {"type": "rect", "ratio": 1.597}
+    "api": "csp_Notice",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/liuli.php",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/公告.php"
 },
 {
-    "key": "版本信息",
+    "key": "csp_Market",
     "name": "🇨🇳┣☪版✿本┫信息",
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/single.png"
-}],
-
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.png"
+}
+],
 "parses": [	
 {
     "name" : "NSYS官网",
@@ -488,10 +486,11 @@
 	
 "lives": [
 {
-    "name": "📺咪咕",
+    "name": "📺芸芸直播",
     "type": 0,
-    "url": "https://d.kstore.dev/download/12194/直播.txt",
-    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+    "url": "https://gitee.com/lyun_1_0/tb/raw/master/芸直播.txt",
+    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+    "logo": "https://epg.112114.eu.org/logo/{name},png"
 }],
 
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
