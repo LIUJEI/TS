@@ -324,7 +324,7 @@
 },
 {
     "key": "cyings",
-    "name": "🚗┃奔驰┃秒播",
+    "name": "🚓┃奔驰┃秒播",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -335,27 +335,23 @@
     "分类值": "dianying&lianxuju&zongyi&dongman&shuangwenduanju&lunlipian"}
 },
 {
-    "key": "liuba",
-    "name": "🥥┃石榴┃秒播",
+    "key": "柠檬视频",
+    "name": "🍁┃柠檬┃视频",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
-    "主页url": "https://m.yncmfs.com/",
-    "数组": "class=\"module-item-pic\"&&</div>",
-    "链接": "href=\"&&\"",
-    "图片": "data-src=\"&&\"",
+    "主页url": "https://nmsp5.cc/",
+    "数组": "/video/&&</a>",
     "标题": "title=\"&&\"",
-    "播放数组": "class=\"scroll-content\"&&</div>",
-    "播放列表": "<a&&a>[不包含:дрр滈凊]",
-    "播放链接": "href=\"&&\"",
-    "播放标题": ">&&</",
-    "线路数组": "class=\"module-tab-item&&</div>",
-    "线路标题": "<span>&&</span>",
-    "跳转播放链接": "var player_*\"url\":\"&&\"",
-    "分类url": "https://m.yncmfs.com/vssysw/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$31"}
+    "图片": "data-src=\"&&\"",
+    "副标题": "🌲+item-note\">&&<",
+    "链接": "/video/+&&\"",
+    "跳转播放链接": "urlDecode(var player_*\"url\":\"&&%26)",
+    "分类": "电影$dianying#电视剧$juji#短剧$duanju#综艺$zongyi#动漫$dongman#纪录片$jilupian",
+    "分类url": "https://nmsp5.cc/show-{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
+    "简介": "introduction-content\">&&</div>"}
 },
 {
     "key": "ShortHaokan",
