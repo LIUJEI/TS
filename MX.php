@@ -401,7 +401,8 @@
     "type": 3,
     "api": "csp_Market",
     "indexs": 0,
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.png"
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.png",
+    "jar" : "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MS.jar"
 }
 ],
 "parses": [	
