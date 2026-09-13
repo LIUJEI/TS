@@ -60,102 +60,18 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/咕咚.php"
 }, 
 {
-    "key": "csp_XBPQ_起看",
-    "name": "🍁┃起看┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/起看.php"
-},
-{
-    "key": "Aries-全民影院",
-    "name": "🍁┃全民┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/全民.php"
-},
-{
-    "key": "Aries大象",
-    "name": "🍁┃大象┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/大象.php"
-},
-{
-    "key": "河马影视",
-    "name": "🍁┃河马┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/河马.php"
-},
-{
-    "key": "电影先生1",
-    "name": "🍁┃电影┃先生",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/先生.php"
-},
-{
-    "key": "鹊桥影院",
-    "name": "🍁┃鹊桥┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/鹊桥.php"
-},
-{
-    "key": "七味影院",
-    "name": "🍁┃七味┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-   "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/七味.php"
-},
-{
-    "key": "永乐视频",
-    "name": "🍁┃永乐┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/永乐.php"
-},
-{
     "key": "csp_xBPQ_天狗追剧",
-    "name": "🍁┃天狗┃追剧",
+    "name": "💞┃天狗┃追剧",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/天狗.php"
 },
 {
-    "key": "速影",
-    "name": "🍁┃速影┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/速影.php"
-},	
-{
-    "key": "csp_XBPQ_云飞",
-    "name": "🍁┃云飞┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/云飞.php"
-},
-{
     "key": "csp_XBPQ_六八",
-    "name": "🍁┃六八┃影院",
+    "name": "💞┃石榴┃影院",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/六八.php"
-},
-{
-    "key": "csp_XBPQ_海瑞影院",
-    "name": "🍁┃海瑞┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/海瑞.php"
-},
-{
-    "key": "csp_XBPQ_维思",
-    "name": "🍁┃维思┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/vs.php"
 },
 {
     "key": "csp_爱意",
