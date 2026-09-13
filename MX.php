@@ -481,10 +481,7 @@
 	"type": 0,
     "url": "https://jx.xmflv.com/?url="
 }],
-	
-	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
-	
 "lives": [
 {
     "name": "📺芸芸直播",
