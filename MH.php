@@ -309,18 +309,18 @@
     "indexs": 0
 },
 {
-    "key": "csp_皮皮",
-    "name": "💞┃皮皮┃影视",
-    "type": 3,
+    "key": "csp_xBPQ_饭团",
+    "name": "🍙┃饭团┃影院",
+    "type":3,
     "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/皮皮.php"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/饭团.php"
 },
 {
-    "key" : "csp_岚猫",
-    "name" : "💞┃影視┃岚猫",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/岚猫.php"
+    "key": "csp_xBPQ_星辰影视",
+    "name": "💢┃星辰┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/星辰.php"
 },
 {
     "key": "cyings",
@@ -340,21 +340,22 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
-    "二次截取": "class=\"row video-list video-film-list clearfix&&</ul>",
-    "数组": "class=\"video-item&&class=\"video-con",
-    "标题": "title=\"&&\"",
-    "图片": "data-original=\"&&\"",
-    "副标题": "duration\">&&</div>",
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "主页url": "https://m.yncmfs.com/",
+    "数组": "class=\"module-item-pic\"&&</div>",
     "链接": "href=\"&&\"",
-    "播放数组": "playlist-sort-content&&</ul>",
-    "播放列表": "<a&&a>",
+    "图片": "data-src=\"&&\"",
+    "标题": "title=\"&&\"",
+    "播放数组": "class=\"scroll-content\"&&</div>",
+    "播放列表": "<a&&a>[不包含:дрр滈凊]",
     "播放链接": "href=\"&&\"",
-    "播放标题": "\">&&</",
-    "线路数组": "class=\"swiper-slide ewave-tab&&li>",
-    "线路标题": ">&&</",
+    "播放标题": ">&&</",
+    "线路数组": "class=\"module-tab-item&&</div>",
+    "线路标题": "<span>&&</span>",
     "跳转播放链接": "var player_*\"url\":\"&&\"",
-    "分类url": "https://www.sh-bridge.com/screen/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$33"}
+    "分类url": "https://m.yncmfs.com/vssysw/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$31"}
 },
 {
     "key": "ShortHaokan",
