@@ -53,11 +53,148 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/麥田.php"
 },
 {
-    "key": "csp_鹊桥影院",
-    "name": "💞┃鹊桥┃影院",
+    "key": "csp_咕咚电影网",
+    "name": "🍁┃咕咚┃电影",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/鹊桥.php"
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/咕咚.png",
+    "类型": "影视"
+}, 
+{
+    "key": "csp_XBPQ_起看",
+    "name": "🍁┃起看┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/起看.png",
+    "类型": "影视"
+},
+{
+    "key": "Aries-全民影院",
+    "name": "🍁┃全民┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/全民.png",
+    "类型": "影视"
+},
+{
+    "key": "Aries大象",
+    "name": "🍁┃大象┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/大象.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_xBPQ_星辰影视",
+    "name": "🍁┃星辰┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/星辰.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_xBPQ_MTYY",
+    "name": "🍁┃麥田┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/麥田.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_xBPQ_饭团",
+    "name": "🍁┃饭团┃影院",
+    "type":3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/饭团.png",
+    "类型": "影视"
+},
+{
+    "key": "河马影视",
+    "name": "🍁┃河马┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/河马.png",
+    "类型": "影视"
+},
+{
+    "key": "电影先生1",
+    "name": "🍁┃电影┃先生",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/先生.png",
+    "类型": "影视"
+},
+{
+    "key": "鹊桥影院",
+    "name": "🍁┃鹊桥┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/鹊桥.png",
+    "类型": "影视"
+},
+{
+    "key": "七味影院",
+    "name": "🍁┃七味┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/七味.png",
+    "类型": "影视"
+},
+{
+    "key": "永乐视频",
+    "name": "🍁┃永乐┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/永乐.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_xBPQ_天狗追剧",
+    "name": "🍁┃天狗┃追剧",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/天狗.png",
+    "类型": "影视"
+},
+{
+    "key": "速影",
+    "name": "🍁┃速影┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/速影.png",
+    "类型": "影视"
+},	
+{
+    "key": "csp_XBPQ_云飞",
+    "name": "🍁┃云飞┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/云飞.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_XBPQ_六八",
+    "name": "🍁┃六八┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/六八.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_XBPQ_海瑞影院",
+    "name": "🍁┃海瑞┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/海瑞.png",
+    "类型": "影视"
+},
+{
+    "key": "csp_XBPQ_维思",
+    "name": "🍁┃维思┃影院",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://gh-proxy.com/raw.githubusercontent.com/LIUJEI/TB/master/XYQ/vs.png",
+    "类型": "影视"
 },
 {
     "key": "csp_爱意",
