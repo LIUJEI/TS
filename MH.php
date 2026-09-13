@@ -621,6 +621,7 @@
     "name": "♨️┃短劇┃河马",
     "type": 3,
     "api": "csp_XBPQ",
+	"jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MX.jar",
     "ext": {"简介": "&&",
     "请求头": "User-Agent$MOBILE_UA",
     "编码": "UTF-8",
