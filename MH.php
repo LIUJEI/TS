@@ -57,13 +57,6 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-    "key": "csp_韩剧",
-    "name": "🍩┃影視┃韩圈",
-    "type": 3,
-    "api": "csp_Hxq",
-    "ext": "http://www.小不点.com/api/2026/fishhxq.php"
-}, 
-{
     "key": "csp_一起看",
     "name": "🏵┃影視┃奈菲",
     "type": 3,
@@ -127,32 +120,6 @@
     "indexs" : 0
 },
 {
-    "key": "maitian",
-    "name": "🌾┃麥田┃秒播",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/麥田.php",
-    "indexs": 0
-},
-{
-    "key": "fengyei",
-    "name": "🍀┃枫叶┃秒播",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/枫叶.php",
-    "indexs": 0
-},
-{
-    "key": "NB012绿豆",
-    "name": "🏝┃绿豆┃秒播",
-    "type": 3,
-    "api": "http://app.69mini.com/tvbox/AppYsV2.js",
-    "ext": {
-    "host": "http://ld.69mzf.cn/api.php/app/",
-    "*": [
-    "https://niubi.69mini.com/api/?key=de8570d02b2e5181978a6c47a8eb4d91&url="]}
-},
-{
     "key": "布布",
     "name": "🍘┃布布┃APP",
     "type": 3,
@@ -174,18 +141,6 @@
     "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
     "dataKey": "oW5UxZ5kWVr1DI69",
     "dataIv": "oW5UxZ5kWVr1DI69",
-    "init": "initV122",
-    "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "怀桑",
-    "name": "💫┃怀桑┃APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "url": "http://110.42.67.130:1226",
-    "dataKey": "kj37zs29q22jk96t",
-    "dataIv": "kj37zs29q22jk96t",
     "init": "initV122",
     "ua": "okhttp/3.10.0"}
 },
@@ -309,7 +264,7 @@
     "pkg": "com.mxj.wylcjbxyx",
     "host": "",
     "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-    "version": "3.0.2.3",
+    "version": "3.0.2.4",
     "decrypt": "1"}
 },
 {
@@ -327,12 +282,65 @@
     "version": "1.0.0.3",
     "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB"}
 },
-{ 
-    "key":"csp_红果短剧",
-    "name":"♨️┃红果┃短劇",
-    "type":4,
-    "api":"https://api.uumnet.com/tvbox/php/nxduanju_xxy.php?token=nxyyds",
+{
+    "key": "NB012绿豆",
+    "name": "🏝┃绿豆┃APP",
+    "type": 3,
+    "api": "http://app.69mini.com/tvbox/AppYsV2.js",
+    "ext": {
+    "host": "http://ld.69mzf.cn/api.php/app/",
+    "*": [
+    "https://niubi.69mini.com/api/?key=de8570d02b2e5181978a6c47a8eb4d91&url="]}
+},
+{
+    "key": "maitian",
+    "name": "🌾┃麥田┃秒播",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/麥田.php",
     "indexs": 0
+},
+{
+    "key": "fengyei",
+    "name": "🍀┃枫叶┃秒播",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/枫叶.php",
+    "indexs": 0
+},
+{
+    "key": "cyings",
+    "name": "🧿┃奔驰┃秒播",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "简介": "<p class=\"col-pd\">&&</p>",
+    "跳转播放链接": "var player_*\"url\":\"&&\"",
+    "分类url": "https://www.ccttv1.cc/video/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/",
+    "分类": "电影&连续剧&综艺&动漫&爽文短剧&伦理片",
+    "分类值": "dianying&lianxuju&zongyi&dongman&shuangwenduanju&lunlipian"}
+},
+{
+    "key": "liuba",
+    "name": "🧿┃石榴┃秒播",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+    "二次截取": "class=\"row video-list video-film-list clearfix&&</ul>",
+    "数组": "class=\"video-item&&class=\"video-con",
+    "标题": "title=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "副标题": "duration\">&&</div>",
+    "链接": "href=\"&&\"",
+    "播放数组": "playlist-sort-content&&</ul>",
+    "播放列表": "<a&&a>",
+    "播放链接": "href=\"&&\"",
+    "播放标题": "\">&&</",
+    "线路数组": "class=\"swiper-slide ewave-tab&&li>",
+    "线路标题": ">&&</",
+    "跳转播放链接": "var player_*\"url\":\"&&\"",
+    "分类url": "https://www.sh-bridge.com/screen/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$33"}
 },
 {
     "key": "ShortHaokan",
@@ -360,13 +368,6 @@
     "name": "♨️┃短劇┃七猫",
     "type": 3,
     "api": "csp_ShortQimao",
-    "genre": "shortdrama"
-},
-{
-    "key": "河马短剧",
-    "name": "♨️┃短劇┃河马",
-    "type": 3,
-    "api": "csp_ShortHema",
     "genre": "shortdrama"
 },
 {
