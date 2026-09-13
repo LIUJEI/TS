@@ -30,7 +30,7 @@
 },
 {
     "key": "csp_咕噜",
-    "name": "🕋┃影視┃咕噜",
+    "name": "🍩┃影視┃咕噜",
     "type": 3,
     "api": "csp_Gulu",
     "indexs": 0
@@ -324,7 +324,7 @@
 },
 {
     "key": "cyings",
-    "name": "🧿┃奔驰┃秒播",
+    "name": "🚗┃奔驰┃秒播",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
@@ -336,7 +336,7 @@
 },
 {
     "key": "liuba",
-    "name": "🧿┃石榴┃秒播",
+    "name": "🥥┃石榴┃秒播",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": {
