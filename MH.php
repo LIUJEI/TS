@@ -951,11 +951,6 @@
     "url": "https://jx.hls.one/?url="
 },
 {
-    "name": "豆豆",
-    "type": 1,
-    "url": "https://test1.12321app.com/api.php?url="
-},
-{
     "name": "冰豆",
     "type": 0,
     "url": "https://bd.jx.cn/?url="
