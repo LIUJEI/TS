@@ -4,7 +4,7 @@
   "主页url": "https://www.fantuantva.com",
   "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
   "分类url": "https://www.fantuantva.com/s/{cateId}{area}{by}/page/{catePg}{year}.html",
-  "副标题": "琉芸✨-+class=\"tc_wz\">&&</p>",
+  "副标题": "🌲+class=\"tc_wz\">&&</p>",
   "搜索模式": "1",
   "搜索url": "/vodsearch/-------------.html?wd={wd}",
   "搜索数组": "<div class=\"reusltbox\">&&</ul>",
@@ -18,6 +18,5 @@
   "主演": "主演：&&</p>",
   "简介": "id=\"content\">&&</div>",
   "线路数组": "<li class=\"tab-switch swiper-slide&&</li>",
-  "线路标题": "💕琉芸👉+<a href=*>&&</a>",
-  "播放数组": "<ul class=\"con_c2_list&&</ul>"
-}
+  "线路标题": "<a href=*>&&</a>",
+  "播放数组": "<ul class=\"con_c2_list&&</ul>"}
