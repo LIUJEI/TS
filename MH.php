@@ -946,19 +946,14 @@
 ],
 "parses": [	
 {
-    "name" : "YYNB高清",
-    "type" : 1,
-    "url" : "https://json.cfysoft.cc/api/?key=db40a4b2f15c4078301a068181bb2724&url="
+    "name": "🌐自动解析",
+    "type": 2,
+    "url": "Parallel"
 },
 {
     "name": "虾米高清",
     "type": 0,
     "url": "https://jx.hls.one/?url="
-},
-{
-    "name": "推荐",
-    "type": 0,
-    "url": "https://pl.a6club.com/player/analysis.php?v="
 },
 {
     "name": "豆豆",
@@ -1011,14 +1006,9 @@
     "url": "https://jx.77flv.cc/?url="
 },
 {
-    "name": "臻享",
-    "type": 1,
-    "url": "https://150.138.78.37:4399/api?key=94b07e0b2c0e8244&url="
-},
-{
-    "name": "优选",
-    "type": 1,
-    "url": "http://1.94.221.189:88/algorithm.php?url="
+    "name": "推荐",
+    "type": 0,
+    "url": "https://pl.a6club.com/player/analysis.php?v="
 },
 {
     "name": "🏁琉芸★内部嗅探★",
