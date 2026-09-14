@@ -7,5 +7,5 @@
     "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
     "播放数组": "anthology-list-play size\">&&</ul>",
     "分类url": "https://www.cd-zj.com/label/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-    "分类": "腾讯$qq#B站$bli#优酷$youku#电影$1#电视剧$2#综艺$3#动漫$4#热门短剧$5"
+    "分类": "腾讯VIP精选$qq#B站VIP精选$bli#优酷VIP精选$youku#电影$1#电视剧$2#综艺$3#动漫$4#热门短剧$5"
 }
