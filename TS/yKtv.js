@@ -1,5 +1,5 @@
 var rule = {
-    title: '优酷[官]',
+    title: '优酷',
     host: 'https://www.%79%6f%75%6b%75.com',
     homeUrl: '',
     searchUrl: 'https://search.%79%6f%75%6b%75.com/api/search?pg=fypage&keyword=**',
@@ -114,6 +114,9 @@ var rule = {
             "value": [{
                 "n": "全部年份",
                 "v": ""
+            }, {
+                "n": "2026",
+                "v": "2026"
             }, {
                 "n": "2025",
                 "v": "2025"
@@ -344,6 +347,9 @@ var rule = {
             "value": [{
                 "n": "全部年份",
                 "v": ""
+            }, {
+                "n": "2026",
+                "v": "2026"
             }, {
                 "n": "2025",
                 "v": "2025"
@@ -585,6 +591,9 @@ var rule = {
             "value": [{
                 "n": "全部年份",
                 "v": ""
+            }, {
+                "n": "2026",
+                "v": "2026"
             }, {
                 "n": "2025",
                 "v": "2025"
@@ -890,6 +899,9 @@ var rule = {
             "value": [{
                 "n": "全部年份",
                 "v": ""
+            }, {
+                "n": "2026",
+                "v": "2026"
             }, {
                 "n": "2025",
                 "v": "2025"
@@ -1287,6 +1299,9 @@ var rule = {
                 "n": "全部年份",
                 "v": ""
             }, {
+                "n": "2026",
+                "v": "2026"
+            }, {
                 "n": "2025",
                 "v": "2025"
             }, {
@@ -1439,6 +1454,9 @@ var rule = {
             "value": [{
                 "n": "全部年份",
                 "v": ""
+            }, {
+                "n": "2026",
+                "v": "2026"
             }, {
                 "n": "2025",
                 "v": "2025"
@@ -2111,13 +2129,13 @@ var rule = {
         'Referer': 'https://www.youku.com',
     },
     timeout: 5000,
-    class_name: '4K电视剧&4K电影&4K综艺&4K动漫&4K少儿&4K纪录片&4K音乐',
+    class_name: '电视剧&电影&综艺&动漫&少儿&纪录片&文化&亲子&教育&搞笑&生活&体育&音乐&游戏',
     class_url: '电视剧&电影&综艺&动漫&少儿&纪录片&文化&亲子&教育&搞笑&生活&体育&音乐&游戏',
     limit: 20,
     play_parse: true,
     lazy: $js.toString(() => {
         try {
-            let api = "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url=" + input.split("?")[0];
+            let api = "" + input.split("?")[0];
             console.log(api);
             let response = fetch(api, {
                 method: 'get',
@@ -2126,39 +2144,28 @@ var rule = {
                     'Content-Type': 'application/x-www-form-urlencoded'
                 }
             });
-
             let bata = JSON.parse(response);
-            log(bata)
             if (bata.url.includes("http")) {
                 input = {
-           header: {
-                    'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',
-                   },
                     parse: 0,
                     url: bata.url,
                     jx: 0,
-                    danmaku: 'http://127.0.0.1:9978/proxy?do=danmu&url='+input.split("?")[0]
+                     danmaku: "http://127.0.0.1:9978/proxy?do=danmu&site=js&url="+input.split("?")[0]
                 };
-            }else {
+            } else {
                 input = {
-           header: {
-                  'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',
-                   },
                     parse: 0,
                     url: input.split("?")[0],
                     jx: 1,
-                    danmaku: 'http://127.0.0.1:9978/proxy?do=danmu&url='+input.split("?")[0]
+                    danmaku: "http://127.0.0.1:9978/proxy?do=danmu&site=js&url="+input.split("?")[0]
                 };
             }
         } catch {
             input = {
-           header: {
-                'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1',
-                   },
                 parse: 0,
                 url: input.split("?")[0],
                 jx: 1,
-                danmaku: 'http://127.0.0.1:9978/proxy?do=danmu&url='+input.split("?")[0]
+                 danmaku: "http://127.0.0.1:9978/proxy?do=danmu&site=js&url="+input.split("?")[0]
             };
         }
     }),
@@ -2227,8 +2234,6 @@ var rule = {
             });
             let json = /__INITIAL_DATA__/.test(html) ? html.split("window.__INITIAL_DATA__ =")[1].split(";")[0] : "{}";
             if (json === "{}") {
-                log("触发了优酷人机验证");
-                VOD.vod_remarks = ourl;
                 VOD.vod_pic = _img;
                 VOD.vod_name = video_lists[0].title.replace(/(\d+)/g, "");
                 VOD.vod_content = "触发了优酷人机验证,本次未获取详情,但不影响播放(" + ourl + ")"
@@ -2275,7 +2280,7 @@ var rule = {
                     title: it.title,
                     url: play_url + adhead(url)
                 })
-            } else if (name !== "琉芸专属👉优酷") {
+            } else if (name !== "优酷") {
                 d.push({
                     title: it.displayName ? it.displayName : it.title,
                     url: play_url + adhead(it.url)
@@ -2284,27 +2289,130 @@ var rule = {
         });
         VOD.vod_play_from = name;
         VOD.vod_play_url = d.map(function(it) {
-            return it.title + "$" + it.url
-        })
+                return it.title + "$" + it.url
+            })
             .join("#");
     }),
 
-    搜索: $js.toString(() => {
-        var d = [];
-        let html = request(input);
-        let json = JSON.parse(html);
-        json.pageComponentList.forEach(function(it) {
-            if (it.hasOwnProperty("commonData")) {
-                it = it.commonData;
-                d.push({
-                    title: it.titleDTO.displayName,
-                    img: it.posterDTO.vThumbUrl,
-                    desc: it.stripeBottom,
-                    content: it.updateNotice + " " + it.feature,
-                    url: "https://search.youku.com/api/search?appScene=show_episode&showIds=" + it.showId + "&appCaller=h5"
-                })
+搜索: $js.toString(() => {
+    var d = [];
+    let html = request(input);
+    let json = JSON.parse(html);
+    
+    let searchKeyword = '';
+    if (input.includes('keyword=')) {
+        searchKeyword = input.split('keyword=')[1].split('&')[0];
+        searchKeyword = decodeURIComponent(searchKeyword);
+    }
+    
+    let titleFilterConfig = {
+        enabled: true,
+        keywords: ['精彩', '花絮', '预告', '晚会', '揭秘', '解说', '《', '解读', '动态漫', '9528', '杂谈', '十六部电影实验短片集', '片断', '公益', '音频'],
+        caseSensitive: false,
+        exactMatch: false
+    };
+    
+    let contentFilterConfig = {
+        enabled: true,
+        keywords: ['游戏', '纪录片', '音频'],
+        caseSensitive: false,
+        exactMatch: false
+    };
+    
+    let keywordMatchConfig = {
+        enabled: true,
+        matchType: 'contains',
+        caseSensitive: false
+    };
+    
+    json.pageComponentList.forEach(function(it) {
+        if (it.hasOwnProperty("commonData")) {
+            it = it.commonData;
+            
+            let item = {
+                title: it.titleDTO.displayName || '',
+                img: it.posterDTO.vThumbUrl,
+                desc: it.stripeBottom || '',
+                content: (it.updateNotice || '') + " " + (it.feature || ''),
+                url: "https://search.youku.com/api/search?appScene=show_episode&showIds=" + it.showId + "&appCaller=h5"
+            };
+            
+            let titleFiltered = false;
+            if (titleFilterConfig.enabled && titleFilterConfig.keywords.length > 0) {
+                for (let keyword of titleFilterConfig.keywords) {
+                    let titleText = item.title;
+                    let filterKeyword = keyword;
+                    
+                    if (!titleFilterConfig.caseSensitive) {
+                        titleText = titleText.toLowerCase();
+                        filterKeyword = filterKeyword.toLowerCase();
+                    }
+                    
+                    if (titleFilterConfig.exactMatch) {
+                        if (titleText === filterKeyword) {
+                            titleFiltered = true;
+                            break;
+                        }
+                    } else {
+                        if (titleText.includes(filterKeyword)) {
+                            titleFiltered = true;
+                            break;
+                        }
+                    }
+                }
             }
-        });
-        setResult(d)
-    }),
+            
+            let contentFiltered = false;
+            if (contentFilterConfig.enabled && contentFilterConfig.keywords.length > 0) {
+                for (let keyword of contentFilterConfig.keywords) {
+                    let contentText = item.content;
+                    let filterKeyword = keyword;
+                    
+                    if (!contentFilterConfig.caseSensitive) {
+                        contentText = contentText.toLowerCase();
+                        filterKeyword = filterKeyword.toLowerCase();
+                    }
+                    
+                    if (contentFilterConfig.exactMatch) {
+                        if (contentText === filterKeyword) {
+                            contentFiltered = true;
+                            break;
+                        }
+                    } else {
+                        if (contentText.includes(filterKeyword)) {
+                            contentFiltered = true;
+                            break;
+                        }
+                    }
+                }
+            }
+            
+            let keywordMatched = true;
+            if (keywordMatchConfig.enabled && searchKeyword) {
+                let titleText = item.title;
+                let searchKey = searchKeyword;
+                
+                if (!keywordMatchConfig.caseSensitive) {
+                    titleText = titleText.toLowerCase();
+                    searchKey = searchKey.toLowerCase();
+                }
+                
+                if (keywordMatchConfig.matchType === 'exact') {
+                    keywordMatched = (titleText === searchKey);
+                } else if (keywordMatchConfig.matchType === 'contains') {
+                    keywordMatched = titleText.includes(searchKey);
+                } else if (keywordMatchConfig.matchType === 'any') {
+                    let keywords = searchKey.split(/\s+/);
+                    keywordMatched = keywords.some(keyword => titleText.includes(keyword));
+                }
+            }
+            
+            if (!titleFiltered && !contentFiltered && keywordMatched) {
+                d.push(item);
+            }
+        }
+    });
+    
+    setResult(d);
+}),
 }
