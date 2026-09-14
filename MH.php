@@ -946,12 +946,7 @@
 ],
 "parses": [	
 {
-    "name": "🌐自动解析",
-    "type": 2,
-    "url": "Parallel"
-},
-{
-    "name": "虾米高清",
+    "name": "🌐虾米高清",
     "type": 0,
     "url": "https://jx.hls.one/?url="
 },
@@ -959,11 +954,6 @@
     "name": "豆豆",
     "type": 1,
     "url": "https://test1.12321app.com/api.php?url="
-},
-{
-    "name": "土豆",
-    "type": 1,
-    "url": "https://test1.12321app.com/daoliansiquanjia.php?url="
 },
 {
     "name": "冰豆",
