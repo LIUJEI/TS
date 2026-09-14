@@ -384,7 +384,7 @@ def _detail(host, vid):
         "vod_actor": data.get("actor") or "",
         "vod_director": data.get("director") or "",
         "vod_remarks": data.get("remarks") or "",
-        "vod_content": data.get("content") or "",
+        "vod_content":'【琉🔹璃❤广告勿信👉剧情】📢'+  data.get("content") or "",
         "vod_year": data.get("year") or "",
         "vod_area": data.get("area") or "",
         "vod_play_from": play_from,
