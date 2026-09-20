@@ -36,20 +36,6 @@
     "indexs": 0
 },
 {
-    "key": "csp_界影视",
-    "name": "🗺┃影視┃界影",
-    "type": 3,
-    "api": "csp_HkybSpider",
-    "indexs": 0
-},
-{
-    "key": "csp_壹影视",
-    "name": "🕌┃影視┃壹影",
-    "type": 3,
-    "api": "csp_YiYs",
-    "indexs": 0
-},
-{
     "key": "csp_热播",
     "name": "🎊┃影視┃热播",
     "type": 3,
@@ -113,11 +99,11 @@
     "indexs": 0
 },
 {
-    "key": "csp_Ikanbot",
-    "name": "☂┃影視┃爱看 ",
+    "key": "csp_壹影视",
+    "name": "🕌┃影視┃壹影",
     "type": 3,
-    "api": "csp_Ikanbot",
-    "indexs" : 0
+    "api": "csp_YiYs",
+    "indexs": 0
 },
 {
     "key": "布布",
@@ -316,24 +302,6 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/饭团.php"
 },
 {
-    "key": "xingcen",
-    "name": "🌟┃星辰┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/星辰.php"
-},
-{
-    "key":"csp_xBPQ_小鎮",
-    "name":"🌹┃玫瑰┃小鎮",
-    "type":3,
-    "api":"csp_XBPQ",
-    "ext": {"简介": "&&</div>",
-    "线路数组": "<a data-toggle=\"tab\"&&/a>",
-    "线路标题": ">&&<",
-    "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
-    "分类": "电影$1#电视剧$2#动漫$3#综艺$4"}
-},
-{
     "key": "柠檬视频",
     "name": "🍋┃柠檬┃视频",
     "type": 3,
@@ -457,28 +425,6 @@
     "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
     "线路数组": "hl-tabs-btnhl-slide-swiper&&</a >",
     "线路标题": "琉芸专属"}
-},
-{
-    "key": "大师兄影视",
-    "name": "🍀┃师兄┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {"简介": "&&",
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类url": "https://www.ruiding3bu.com/ruvodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-    "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#豆瓣电影Top250$42"}
-},
-{
-    "key": "奇游影视",
-    "name": "🍀┃奇游┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {"简介": "&&",
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类": "电影$1#电视剧$2#综艺$4#动漫$3#伦理$6",
-    "分类url": "http://23.224.2.172/list/{cateId}_{catePg}.html"}
 },
 {
     "key": "csp_xBPQ_app影视",
