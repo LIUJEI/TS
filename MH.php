@@ -15,7 +15,7 @@
 },
 {
     "key": "csp_Notice",
-    "name": "🎬┣公告┫09.13",
+    "name": "🎬┣公告┫09.21",
     "type": 3,
     "api": "csp_Notice",
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/liuli.php",
