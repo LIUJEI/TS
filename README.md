@@ -16,21 +16,21 @@
 
 * 肥猫线路："https://jk.catvod.site/"
 
-#    ⚙️GitHub加速站
+#    ⚙️GitHub代理加速服务
 
-*  https://raw.githubusercontent.com/LIUJEI/TB/master/YS.jpg
-
-*  https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/YS.jpg
-
-*  https://gcore.jsdelivr.net/gh/LIUJEI/TB@master/YS.jpg
-
-*  https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TB/master/YS.jpg
+*  韩国 https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/MH.php
   
-*  https://fastly.jsdelivr.net/gh/LIUJEI/TB@master/YS.jpg
+*  日本 https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TS/main/MH.php
 
-*  https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TB/master/YS.jpg
+*  香港 https://ghfast.top/https://raw.githubusercontent.com/LIUJEI/TS/main/MH.php
+  
+*  美国 https://raw.githubusercontent.com/LIUJEI/TS/main/MH.php
+  
+*  https://fastly.jsdelivr.net/gh/LIUJEI/TS@main/MH.php
 
-*  https://ghproxy.net/https://raw.githubusercontent.com/LIUJEI/TB/master/YS.jpg
+*  https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/MH.php
+
+*  https://gcore.jsdelivr.net/gh/LIUJEI/TS@main/MH.php  
 
 *  https://cf.ghproxy.cc/
 
@@ -41,6 +41,24 @@
 *  https://gitpr.xmcom.us.kg/
 
 *  https://ghproxy.cn/
+
+#    ⚙️开源仓库
+
+*  https://github.com/
+  
+*  https://gitee.com/
+   
+*  https://coding.net/
+   
+*  https://gitcode.net/
+  
+*  https://www.jihulab.com/
+    
+*  https://gitea.com/      
+
+*  https://codeberg.org/   
+
+*  https://agit.ai/    
 
 #  📡LIVE直播源
 
