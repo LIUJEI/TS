@@ -29,6 +29,13 @@
     "ext": "http://39.105.18.5:5565/api.php/app/"
 },
 {
+    "key": "csp_sp_龙门",
+    "name": "⛪┃影視┃龙门",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "http://movie.iqinu.com/api.php/v1.vod"
+},
+{
     "key": "csp_半岛",
     "name": "🌅┃影視┃半岛",
     "type": 3,
@@ -139,6 +146,18 @@
     "type": 3,
     "api": "csp_Ikanbot",
     "indexs": 0
+},
+{
+    "key": "秒看",
+    "name": "🕋┃秒看┃视频",
+    "type": 3,
+    "api": "https://gh-proxy.org/https://raw.githubusercontent.com/maoystv/6/main/JS/get.js",
+    "playerType": 2,
+    "ext": {
+    "host": "https://mk1080.top/",
+    "key": "c60d88b2eep53za8",
+    "Iv": "c60d88b2eep53za8",
+    "token": "0e4bdd6893d319dcd405b6b06890debfd94fc4676702613921b05682f488dd8c"}
 },
 {
     "key": "NB012绿豆",
