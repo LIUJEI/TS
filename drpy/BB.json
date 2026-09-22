@@ -1,11 +1,15 @@
 {
   "urls": [
     {
+        "url": "http://box.iqinu.com",
+        "name": "龙门线路"
+    },
+    {
         "url": "https://8815.kstore.vip/tvbox/wmz",
         "name": "🤓网络🤓"
     },
     {
-        "url": "https://16151.kstore.space",
+        "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
         "name": "🤓东篱🤓"
     },
     {
@@ -13,36 +17,8 @@
         "name": "🌱真心🌱"
     },
     {
-      "name": "🚸《自用》老刘",
-      "url": "https://raw.liucn.cc/box/m.json"
-    },
-    {
-      "name": "🚸《自用》小马",
-      "url": "http://szyyds.cn/tv/x.json"
-    },
-    {
-      "name": "🚸《自用》拾光",
-      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
-    },
-    {
-      "url": "http://ztha.top/TVBox/thdjk.json",
-      "name": "🚸《自用》挺好线路"
-    },
-    {
-      "name": "🚸《自用》肥猫接口",
-      "url": "http://肥猫.net"
-    },
-    {
       "name": "🚸《自用》玄珠接口",
       "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"
-    },
-    {
-      "name": "🚸《自用》凯弟接口",
-      "url": "https://jihulab.com/jyqhkd/kd/-/raw/main/kai.json"
-    },
-    {
-      "name": "🚸《自用》总有刁民想害朕",
-      "url": "https://wp.kayyw.com/f/MllRc6/总有刁民想害朕.json"
     },
     {
       "name": "🚸《自用》天天开心",
@@ -53,352 +29,28 @@
       "url": "https://盒子迷.top/禁止贩卖"
     },
     {
-      "name": "🚸《自用》潇洒",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json"
-    },
-    {
       "name": "🚸《自用》坤哥",
       "url": "https://jihulab.com/kgsp/tv/raw/box/666.json"
     },
     {
-      "name": "🚸《自用》叨观荐影",
-      "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json"
+      "name": "分享📚在线",
+      "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json"
     },
     {
-      "name": "🚸《蜗牛》接口",
-      "url": "https://tv.xn--11x555b.top/svip"
-    },
-    {
-      "name": "🚸《蜗牛》svip",
-      "url": "https://tv.蜗牛.top/svip"
-    },
-    {
-      "name": "🚸《蜗牛》tvbox",
-      "url": "https://tvbox.蜗牛.top/蜗牛影视"
-    },
-    {
-      "name": "🚸《蜗牛》4k",
-      "url": "https://4k.蜗牛.top/4k.json"
-    },
-    {
-      "name": "🚸《蜗牛》DS",
-      "url": "https://tv.蜗牛.top/DS"
-    },
-    {
-      "name": "🚸《蜗牛》JH",
-      "url": "https://tv.蜗牛.top/JH"
-    },
-    {
-      "name": "🚸《蜗牛》GG",
-      "url": "https://tv.蜗牛.top/GG"
-    },
-    {
-      "name": "🚸《蜗牛》DC",
-      "url": "https://tv.蜗牛.top/DC"
-    },
-    {
-      "name": "🚸《蜗牛》DC2",
-      "url": "https://tv.蜗牛.top/DC.txt"
-    },
-    {
-      "name": "🚸《自用》真六",
-      "url": "https://cccimg.com/down.php/公众号真六情人节专版.json"
-    },
-    {
-      "name": "🚸《自用》影视仓BOX",
-      "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json"
-    },
-    {
-      "name": "🚸《自用》la",
-      "url": "https://la.kstore.dev/download/2863/01.txt"
-    },
-    {
-      "name": "🚸《自用》聚玩盒",
-      "url": "http://xhztv.top/4k.json"
-    },
-    {
-      "name": "🚸《自用》kong88接口",
-      "url": "https://kong88.dpdns.org/4k.json"
-    },
-    {
-      "name": "🚸《自用》700sjro44343.vicp.fun/eggp2",
-      "url": "https://700sjro44343.vicp.fun/eggp/1015/tv.json"
-    },
-    {
-      "name": "🚸《自用》kv",
-      "url": "http://kv.netsite.cc/tv.json"
-    },
-    {
-      "name": "🚸《自用》gitlink",
-      "url": "https://www.gitlink.org.cn/api/YSBXS/BXSJK/raw/DC.json?ref=master"
-    },
-    {
-      "name": "🚸《自用》cdn",
-      "url": "https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json"
-    },
-    {
-      "name": "🚸《自用》老白接口",
-      "url": "https://raw.githubusercontent.com/zqs1qiwan/laobaitv/refs/heads/main/test/test/tvbox/laobaitvbox.json"
-    },
-    {
-      "name": "🚸《自用》拾光接口",
-      "url": "https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json"
-    },
-    {
-      "name": "🚸《自用》香雅情",
-      "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
-    },
-    {
-      "name": "🚸《自用》南风接口",
-      "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
-    },
-    {
-      "name": "🚸《自用》xongjiao83",
-      "url": "https://raw.githubusercontent.com/xiongjian83/TvBox/main/X.json"
-    },
-    {
-      "name": "🚸《自用》非凡小小",
-      "url": "https://raw.githubusercontent.com/jigedos/1024/master/jsm.json"
-    },
-    {
-      "name": "🚸《自用》荷城接口",
-      "url": "https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json"
-    },
-     {
-      "name": "🚸《自用》leezn[js]",
-      "url": "https://leezn.eu.org/TVBox/js.json"
-    },
-    {
-      "name": "🚸《自用》jsm",
-      "url": "https://qist.ugigc.dpdns.org/jsm.json"
-    },
-    {
-      "name": "🚸《自用》dxawi",
-      "url": "http://dxawi.github.io/0/0.json"
-    },
-    {
-      "name": "🚸《自用》js",
-      "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-    },
-    {
-      "name": "🚸《自用》700sjro44343.vicp.fun/eggp",
-      "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json"
-    },
-    {
-      "name": "🚸《自用》box.ufuzi.com/tv",
-      "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"
-    },
-    {
-      "name": "🚸《自用》redscarful/tbs",
-      "url": "https://raw.githubusercontent.com/redscarful/xpg/main/tbs.json"
-    },
-    {
-      "name": "🚸《自用》ggrrttyyiii/demo",
-      "url": "https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/main/json/demo.json"
-    },
-    {
-      "name": "🚸《自用》EasyXC/easytv",
-      "url": "https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"
-    },
-    {
-      "name": "🚸《自用》yoursmile66/XC",
-      "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
-    },
-    {
-      "name": "🚸《自用》liu673cn/m",
-      "url": "https://raw.githubusercontent.com/liu673cn/box/main/m.json"
-    },
-    {
-      "name": "🚸《自用》gaotianliuyun/js",
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
-    },
-    {
-      "name": "🚸《自用》xiaolinshao/1",
-      "url": "https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
-    },
-    {
-      "name": "🚸《自用》hanhan8127/hanXC",
-      "url": "https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json"
-    },
-    {
-      "name": "🚸《自用》Reflyer823/main",
-      "url": "https://raw.githubusercontent.com/Reflyer823/tvbox-config/master/main.json"
-    },
-    {
-      "name": "🚸《自用》523099929/tvbox",
-      "url": "https://raw.githubusercontent.com/523099929/tvbox/main/tvbox.json"
-    },
-    {
-      "name": "🚸《自用》hcwsky/home",
-      "url": "https://raw.githubusercontent.com/hcwsky/tvbox/main/home/home.json"
-    },
-    {
-      "name": "🚸《自用》xianyuyimu/一木cs",
-      "url": "https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木cs.json"
-    },
-    {
-      "name": "🚸《自用》13998394872/FM",
-      "url": "https://raw.githubusercontent.com/13998394872/TVBox/main/FM.json"
-    },
-    {
-      "name": "🚸《自用》byteshijinn/tvbox",
-      "url": "https://raw.githubusercontent.com/byteshijinn/tvbox/master/tvbox.txt"
-    },
-    {
-      "name": "🚸《自用》CandyMuj/candymuj",
-      "url": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json"
-    },
-    {
-      "name": "🚸《自用》CandyMuj/candymuj1",
-      "url": "https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj1.json"
-    },
-    {
-      "name": "🚸《自用》cyao2q/m",
-      "url": "https://raw.githubusercontent.com/cyao2q/files/master/m.json"
-    },
-    {
-      "name": "🚸《自用》dbmesgj/duanju",
-      "url": "https://raw.githubusercontent.com/dbmesgj/tvbox/main/duanju.json"
-    },
-    {
-      "name": "🚸《自用》Dong-learn9/tvbox2",
-      "url": "https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json"
-    },
-    {
-      "name": "🚸《自用》Grovin720/A",
-      "url": "https://raw.githubusercontent.com/Grovin720/My/main/A.json"
-    },
-    {
-      "name": "🚸《自用》Grovin720/G",
-      "url": "https://raw.githubusercontent.com/Grovin720/My/main/G.json"
-    },
-    {
-      "name": "🚸《自用》Grovin720/m",
-      "url": "https://raw.githubusercontent.com/Grovin720/My/main/m.json"
-    },
-    {
-      "name": "🚸《自用》Grovin720/T",
-      "url": "https://raw.githubusercontent.com/Grovin720/My/main/T.txt"
-    },
-    {
-      "name": "🚸《自用》gyfandzd/m",
-      "url": "https://raw.githubusercontent.com/gyfandzd/gyf/main/m.json"
-    },
-    {
-      "name": "🚸《自用》hhqqwwjj/XC",
-      "url": "https://raw.githubusercontent.com/hhqqwwjj/tvb1/main/XC.json"
-    },
-    {
-      "name": "🚸《自用》ifkid/tvbox",
-      "url": "https://raw.githubusercontent.com/ifkid/Free-TVUrl/main/out/tvbox.txt"
-    },
-    {
-      "name": "🚸《自用》kjrzxu/tvbox",
-      "url": "https://raw.githubusercontent.com/kjrzxu/TVBox/main/tvbox.json"
-    },
-    {
-      "name": "🚸《自用》niubihu1/1",
-      "url": "https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json"
-    },
-    {
-      "name": "🚸《自用》niubihu1/2",
-      "url": "https://raw.githubusercontent.com/niubihu1/tvbox-/main/2.json"
-    },
-    {
-      "name": "🚸《自用》niubihu1/3",
-      "url": "https://raw.githubusercontent.com/niubihu1/tvbox-/main/3.json"
-    },
-    {
-      "name": "🚸《自用》niuo0/tvbox",
-      "url": "https://raw.githubusercontent.com/niuo0/tvbox/main/tvbox.json"
-    },
-    {
-      "name": "🚸《自用》ride-start/tvb",
-      "url": "https://raw.githubusercontent.com/ride-start/ownimpl/main/tv/tvb.json"
-    },
-    {
-      "name": "🚸《自用》Tinker-TTW/GITH-TKJY",
-      "url": "https://raw.githubusercontent.com/Tinker-TTW/TVBOX/main/GITH-TKJY.json"
-    },
-    {
-      "name": "🚸《自用》wilsonXo/tvbox",
-      "url": "https://raw.githubusercontent.com/wilsonXo/tvbox-sub/master/tvbox.json"
-    },
-    {
-      "name": "🚸《自用》wilsonXo/xiaoya",
-      "url": "https://raw.githubusercontent.com/wilsonXo/tvbox-sub/master/xiaoya.json"
-    },
-    {
-      "name": "🚸《自用》wlcmc1972/t1",
-      "url": "https://raw.githubusercontent.com/wlcmc1972/tvbox/main/t1.json"
-    },
-    {
-      "name": "🚸《自用》wlcmc1972/t2",
-      "url": "https://raw.githubusercontent.com/wlcmc1972/tvbox/main/t2.json"
-    },
-    {
-      "name": "🚸《自用》Wuxiao139/api",
-      "url": "https://raw.githubusercontent.com/Wuxiao139/Tvbox/main/api.json"
-    },
-    {
-      "name": "🚸《自用》xiaolong69/1",
-      "url": "https://raw.githubusercontent.com/xiaolong69/tv/main/1.json"
-    },
-    {
-      "name": "🚸《自用》xuewuhen999/sj2",
-      "url": "https://raw.githubusercontent.com/xuewuhen999/mybox/main/sj2.json"
-    },
-    {
-      "name": "🚸《自用》yueer521/yueer",
-      "url": "https://raw.githubusercontent.com/yueer521/Tvbox/main/yueer.json"
-    },
-    {
-      "name": "🚸《自用》xmbjm/ck",
-      "url": "https://raw.githubusercontent.com/xmbjm/xmbjm.github.io/main/ck.json"
-    },
-    {
-      "name": "🚸《自用》gaotianliuyun/XYQ",
-      "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
-    },
-    {
-      "name": "🚸《自用》qist/jsm",
-      "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json"
-    },
-    {
-      "name": "🚸《自用》xzqcsa/fty",
-      "url": "https://raw.githubusercontent.com/xzqcsa/ysc/master/xzqzy/fty.json"
-    },
-    {
-      "name": "🚸《自用》maoystv/000",
-      "url": "https://raw.githubusercontent.com/maoystv/6/main/000.json"
+      "name": "🚸《自用》分享000",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/000.json"
     },
     {
       "name": "🚸《自用》vcloudc/api",
-      "url": "https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json"
     },
     {
-      "name": "🚸《自用》jiushizhe/index",
-      "url": "https://raw.githubusercontent.com/jiushizhe/daozhang/main/drpy_dzlive6.21/index.json"
-    },
-    {
-      "name": "🚸《自用》guot55/jsm",
-      "url": "https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json"
+      "name": "🚸《自用》宝盒",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json"
     },
     {
       "name": "🚸《自用》supermeguo/catcr",
-      "url": "https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"
-    },
-    {
-      "name": "🚸《自用》guot55/ysdc",
-      "url": "https://raw.githubusercontent.com/guot55/yg/main/ysdc.json"
-    },
-    {
-      "name": "🚸《自用》guot55/vip2",
-      "url": "https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json"
-    },
-    {
-      "name": "🚸《自用》wwb521/video",
-      "url": "https://raw.githubusercontent.com/wwb521/live/main/video.json"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json"
     },
     {
       "name": "🚸《多仓》dc2",
