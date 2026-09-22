@@ -21,57 +21,40 @@
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/liuli.php",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/公告.php"
 },
- {
-      "key": "搜剧AI",
-      "name": "🎈看剧AI丨秒播",
-      "api": "csp_SouJu",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "北斗",
-      "name": "🛸北斗丨蓝光秒播",
-      "api": "csp_Bdjmcc",
-      "type": 3,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
- {
-      "key": "韩圈",
-      "name": "🌼韩圈｜蓝光韩剧",
-      "type": 3,
-      "api": "csp_Hxq"
-    },
-    {
-      "key": "农民影视",
-      "name": "🌾农民｜蓝光秒播",
-      "type": 3,
-      "api": "csp_Wwys",
-      "ext": "https://vip.wwgz.cn:5200"
-    },
 {
-      "key": "天堂1",
-      "name": "🎬电影天堂丨蓝光",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://39.105.18.5:5565/api.php/app/"
-    },
+    "key": "csp_搜剧AI",
+    "name": "🎈┃影視┃看剧",
+    "type": 3,
+    "api": "csp_SouJu",
+    "indexs": 0
+},
 {
-      "key": "葫芦",
-      "name": "🌓王林丨蓝光影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
-      "ext": {
-        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
-        "key": "8R33VQSxzmCaHpEX",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
+    "key": "csp_北斗",
+    "name": "🛸┃影視┃北斗",
+    "type": 3,
+    "api": "csp_Bdjmcc",
+    "indexs": 0
+},
+{
+    "key": "csp_韩圈",
+    "name": "🌼┃影視┃韩圈",
+    "type": 3,
+    "api": "csp_Hxq"
+},
+{
+    "key": "csp_农民",
+    "name": "🌾┃影視┃农民",
+    "type": 3,
+    "api": "csp_Wwys",
+    "ext": "https://vip.wwgz.cn:5200"
+},
+{
+    "key": "csp_天堂",
+    "name": "🎬┃影視┃天堂",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "http://39.105.18.5:5565/api.php/app/"
+},
 {
     "key": "csp_爱看",
     "name": "💝┃影視┃爱看",
@@ -157,17 +140,17 @@
     "indexs": 0
 },
 {
-    "key": "布布",
-    "name": "🍘┃布布┃APP",
+    "key": "葫芦",
+    "name": "🌓┃葫芦┃APP",
     "type": 3,
-    "api": "csp_YunDuo",
+    "api": "csp_AppQi",
     "ext": {
-    "host": "https://323433ssdfd.top",
-    "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
-    "aid": "com.web.player",
-    "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
-    "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
-    "sign": "ddtvf65f3a83d6d9ad6f"}
+    "url": "http://v12-1-hulucms.nmgzxrl.com",
+    "dataKey": "8R33VQSxzmCaHpEX",
+    "dataIv": "8R33VQSxzmCaHpEX",
+    "init": "V122",
+    "api": 2,
+    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "蓝鸟",
@@ -175,7 +158,7 @@
     "type": 3,
     "api": "csp_AppQi",
     "ext": {
-    "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
+    "url": "http://103.217.190.91:7788",
     "dataKey": "oW5UxZ5kWVr1DI69",
     "dataIv": "oW5UxZ5kWVr1DI69",
     "init": "initV122",
@@ -192,6 +175,19 @@
     "dataIv": "hagYExMdMkeWfemK",
     "init": "initV122",
     "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "布布",
+    "name": "🍘┃布布┃APP",
+    "type": 3,
+    "api": "csp_YunDuo",
+    "ext": {
+    "host": "https://323433ssdfd.top",
+    "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+    "aid": "com.web.player",
+    "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+    "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+    "sign": "ddtvf65f3a83d6d9ad6f"}
 },
 {
     "key": "小鹿",
