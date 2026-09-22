@@ -865,11 +865,12 @@
     "site": ["http://38.76.197.172:16969"]}
 },
 {
-    "key": "移动",
-    "name": "💯┃移动┃4K",
+    "key": "花卷真彩",
+    "name": "💯┃花卷┃4K",
+    "api": "csp_HJZhenCai",
     "type": 3,
-    "api": "csp_Yidong4K",
-    "indexs": 0
+    "ext": {
+    "site": ["https://www.hjzhencai.top"]}
 },
 {
     "key": "dr_腾迅",
