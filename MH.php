@@ -21,6 +21,37 @@
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/liuli.php",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/公告.php"
 },
+ {
+      "key": "搜剧AI",
+      "name": "🎈看剧AI丨蓝光秒播",
+      "api": "csp_SouJu",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "北斗",
+      "name": "🛸北斗丨蓝光秒播",
+      "api": "csp_Bdjmcc",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+ {
+      "key": "韩圈",
+      "name": "🌼韩圈｜蓝光韩剧",
+      "type": 3,
+      "api": "csp_Hxq"
+    },
+    {
+      "key": "农民影视",
+      "name": "🌾农民｜蓝光秒播",
+      "type": 3,
+      "api": "csp_Wwys",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
 {
     "key": "csp_爱看",
     "name": "💝┃影視┃爱看",
