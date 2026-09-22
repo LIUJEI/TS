@@ -53,6 +53,26 @@
       "ext": "https://vip.wwgz.cn:5200"
     },
 {
+      "key": "天堂1",
+      "name": "🎬电影天堂丨蓝光",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "http://39.105.18.5:5565/api.php/app/"
+    },
+{
+      "key": "葫芦",
+      "name": "🌓王林丨蓝光影视",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/JS/AppGet.js",
+      "ext": {
+        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "key": "8R33VQSxzmCaHpEX",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+{
     "key": "csp_爱看",
     "name": "💝┃影視┃爱看",
     "type": 3,
