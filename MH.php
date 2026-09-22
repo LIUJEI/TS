@@ -22,15 +22,15 @@
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/公告.php"
 },
 {
-    "key": "csp_搜剧AI",
-    "name": "🎈┃影視┃看剧",
+    "key": "csp_天堂",
+    "name": "⛪┃影視┃天堂",
     "type": 3,
-    "api": "csp_SouJu",
-    "indexs": 0
+    "api": "csp_AppYsV2",
+    "ext": "http://39.105.18.5:5565/api.php/app/"
 },
 {
-    "key": "csp_北斗",
-    "name": "🛸┃影視┃北斗",
+    "key": "csp_半岛",
+    "name": "🌅┃影視┃半岛",
     "type": 3,
     "api": "csp_Bdjmcc",
     "indexs": 0
@@ -39,7 +39,22 @@
     "key": "csp_韩圈",
     "name": "🌼┃影視┃韩圈",
     "type": 3,
-    "api": "csp_Hxq"
+    "api": "csp_Hxq",
+    "indexs": 0
+},
+{
+    "key": "csp_搜剧AI",
+    "name": "📺┃影視┃搜剧",
+    "type": 3,
+    "api": "csp_SouJu",
+    "indexs": 0
+},
+{
+    "key": "csp_咕噜",
+    "name": "🍩┃影視┃咕噜",
+    "type": 3,
+    "api": "csp_Gulu",
+    "indexs": 0
 },
 {
     "key": "csp_农民",
@@ -49,25 +64,11 @@
     "ext": "https://vip.wwgz.cn:5200"
 },
 {
-    "key": "csp_天堂",
-    "name": "🎬┃影視┃天堂",
-    "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "http://39.105.18.5:5565/api.php/app/"
-},
-{
     "key": "csp_爱看",
     "name": "💝┃影視┃爱看",
     "type": 3,
     "api": "csp_AiKan",
     "ext": "http://43.248.117.123:4680"
-},
-{
-    "key": "csp_咕噜",
-    "name": "🍩┃影視┃咕噜",
-    "type": 3,
-    "api": "csp_Gulu",
-    "indexs": 0
 },
 {
     "key": "csp_热播",
@@ -120,7 +121,7 @@
 },
 {
     "key": "csp_Web1905",
-    "name": "🎞┃影視┃ 老片",
+    "name": "🎞┃影視┃老片",
     "type": 3,
     "api": "csp_Web1905",
     "indexs" : 0
@@ -133,24 +134,33 @@
     "indexs": 0
 },
 {
-    "key": "csp_壹影视",
-    "name": "🕌┃影視┃壹影",
+    "key": "爱看机器人",
+    "name": "🧿┃爱看┃机器",
     "type": 3,
-    "api": "csp_YiYs",
+    "api": "csp_Ikanbot",
     "indexs": 0
+},
+{
+    "key": "NB012绿豆",
+    "name": "🏝┃绿豆┃秒播",
+    "type": 3,
+    "api": "http://app.69mini.com/tvbox/AppYsV2.js",
+    "ext": {
+    "host": "http://ld.69mzf.cn/api.php/app/",
+    "*": [
+    "https://niubi.69mini.com/api/?key=de8570d02b2e5181978a6c47a8eb4d91&url="]}
 },
 {
     "key": "葫芦",
     "name": "🌓┃葫芦┃APP",
     "type": 3,
-    "api": "csp_AppQi",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/Qi.js",
     "ext": {
-    "url": "http://v12-1-hulucms.nmgzxrl.com",
-    "dataKey": "8R33VQSxzmCaHpEX",
-    "dataIv": "8R33VQSxzmCaHpEX",
+    "host": "http://v12-1-hulucms.nmgzxrl.com",
+    "key": "8R33VQSxzmCaHpEX",
+    "ua": "okhttp/3.10.0",
     "init": "V122",
-    "api": 2,
-    "ua": "okhttp/3.10.0"}
+    "api": 2}
 },
 {
     "key": "蓝鸟",
@@ -316,16 +326,6 @@
     "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB"}
 },
 {
-    "key": "NB012绿豆",
-    "name": "🏝┃绿豆┃APP",
-    "type": 3,
-    "api": "http://app.69mini.com/tvbox/AppYsV2.js",
-    "ext": {
-    "host": "http://ld.69mzf.cn/api.php/app/",
-    "*": [
-    "https://niubi.69mini.com/api/?key=de8570d02b2e5181978a6c47a8eb4d91&url="]}
-},
-{
     "key": "maitian",
     "name": "🌾┃麥田┃秒播",
     "type": 3,
@@ -404,18 +404,6 @@
     "分类": "全部$0#电影$1#电视剧$2#综艺$3#动漫$4#更新$new"}
 },
 {
-    "key": "xbpq_夕云",
-    "name": "🍀┃夕云┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {"简介": "&&</div>",
-    "站名": "夕云影视",
-    "主页url": "https://www.xyxy.live/",
-    "搜索Url": "https://www.xyxy.live/index.php/vod/search.html?wd={wd}",
-    "分类url": "https://www.xyxy.live/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类": "电影$20#电视剧$39#综艺$47#动漫$46"}
-},
-{
     "key": "熊猫影视",
     "name": "🍀┃熊猫┃影视",
     "type": 3,
@@ -423,16 +411,6 @@
     "ext": {"简介": "&&</div>",
     "分类url": "https://www.xiongmaoysa.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
     "分类": "电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman"}
-},
-{
-    "key": "剧集",
-    "name": "🍀┃剧集┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {"简介": "&&</div>",
-    "搜索url": "https://wap.ijujitv.cc/search/-------------.html?wd=**",
-    "分类url": "https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html",
-    "分类": "陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"}
 },
 {
     "key": "晨光电影",
@@ -663,8 +641,22 @@
     "type": 3,
     "api": "csp_Bili",
     "ext": {
-    "json": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@master/TS/音乐.json",
+    "json": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/音乐.json",
     "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}
+},
+{
+    "key": "csp_kwms",
+    "name": "🎷┃酷我┃音乐",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/kuwo.py",
+    "indexs" : 0
+},
+{
+    "key": "csp_tinghyy",
+    "name": "🎷┃听海┃音乐",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/tinghai.js",
+    "indexs" : 0
 },
 {
     "key": "csp_Djlh",
