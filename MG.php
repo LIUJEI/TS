@@ -1042,26 +1042,92 @@
     "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
     "logo": "https://epg.112114.eu.org/logo/{name},png"
 }],
-"parses": [
 {
-    "name": "王",
-    "type": 1,
-    "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
+    "name": "虾米",
+    "type": 0,
+    "url": "https://jx.xmflv.com/?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    }}
 },
 {
-    "name": "二",
-    "type": 1,
-    "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
+    "name": "云解",
+    "type": 0,
+    "url": "https://yparse.ik9.cc/index.php?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    }}
 },
 {
-    "name": "小",
-    "type": 1,
-    "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
+    "name": "咸鱼",
+    "type": 0,
+    "url": "https://jx.xymp4.cc/?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    }}
 },
 {
-    "name": "帅",
-    "type": 1,
-    "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+    "name": "淘片",
+    "type": 0,
+    "url": "https://jx.yparse.com/index.php?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    }}
+},
+{
+    "name": "冰豆",
+    "type": 0,
+    "url": "https://bd.jx.cn/?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    }}
+},
+{
+    "name": "七七",
+    "type": 0,
+    "url": "https://jx.77flv.cc/?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    }}
+},
+{
+    "name": "盘古",
+    "type": 0,
+    "url": "https://www.playm3u8.cn/jiexi.php?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    }}
+},
+{
+    "name": "夜幕",
+    "type": 0,
+    "url": "https://yemu.xyz/?url=",
+    "ext": {
+    "header": {
+    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+    }}
+},
+{
+    "name": "8090",
+    "type": 0,
+    "url": "https://www.8090g.cn/?url="
+},
+{
+    "name":"狗子",
+    "type":0,
+    "url":"http://www.ckplayer.vip/jiexi/?url="
+},
+{
+    "name": "AB",
+    "type": 0,
+    "url": "http://jx.abplayer.top/?url="
 }],
 "doh": [
 {
