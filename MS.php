@@ -43,6 +43,12 @@
     "indexs": 0
 },
 {
+    "key": "剧下饭",
+    "name": "🍚┃影視┃下饭",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/下饭.py"
+},
+{
     "key": "csp_半岛",
     "name": "🌅┃影視┃半岛",
     "type": 3,
