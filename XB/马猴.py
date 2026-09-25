@@ -429,7 +429,7 @@ class Spider(Spider):
             'vod_area': self._clean_text(area),
             'vod_actor': self._clean_text(detail.get('vod_actor') or ''),
             'vod_director': self._clean_text(detail.get('vod_director') or ''),
-            'vod_content': self._html2text(detail.get('vod_content') or ''),
+            'vod_content':'【琉🔹璃❤广告勿信👉剧情】📢'+ self._html2text(detail.get('vod_content') or ''),
             'vod_play_from': '$$$'.join([x[0] for x in sources]),
             'vod_play_url': '$$$'.join([x[1] for x in sources]),
         }
