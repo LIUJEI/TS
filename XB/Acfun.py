@@ -349,7 +349,7 @@ class Spider(Spider):
                 "vod_director": director or '',
                 "vod_actor": actor or '',
                 "vod_remarks": remarks or '',
-                "vod_content": content or '',
+                "vod_content":'【琉🔹璃❤广告勿信👉剧情】📢'+ content or '',
                 "vod_play_from": xianlu,
                 "vod_play_url": bofang
                          })
@@ -385,7 +385,7 @@ class Spider(Spider):
                 "vod_director": director or '',
                 "vod_actor": actor or '',
                 "vod_remarks": remarks or '',
-                "vod_content": content or '',
+                "vod_content":'【琉🔹璃❤广告勿信👉剧情】📢'+ content or '',
                 "vod_play_from": xianlu,
                 "vod_play_url": bofang
                           })
