@@ -32,20 +32,15 @@
     "key": "csp_py_大马猴",
     "name": "🦓┃影視┃马猴",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/马猴.py"
-},
-{
-    "key": "csp_py_4K影视",
-    "name": "🌃┃影視┃蓝光",
-    "type": 3,
-    "indexs": 0,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/4K.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/马猴.py",
+    "indexs": 0
 },
 {
     "key": "csp_py_厂长",
-    "name": "🚂┃厂长┃PPY",
+    "name": "🚂┃影視┃厂长",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/厂长.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/厂长.py",
+    "indexs": 0
 },
 {
     "key": "csp_半岛",
