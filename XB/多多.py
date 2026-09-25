@@ -384,7 +384,7 @@ class Spider(Spider):
                         "vod_actor": vod.get("vod_actor", ""),
                         "vod_year": str(vod.get("vod_year", "")),
                         "vod_area": vod.get("vod_area", ""),
-                        "vod_content": vod_content,
+                        "vod_content":'【琉🔹璃❤广告勿信👉剧情】📢'+ vod_content,
                         "vod_remarks": vod.get("vod_remarks", ""),
                         "vod_play_from": "$$$".join(play_from),
                         "vod_play_url": "$$$".join(play_url),
