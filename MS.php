@@ -29,11 +29,10 @@
     "ext": "http://39.105.18.5:5565/api.php/app/"
 },
 {
-    "key": "csp_CO4K",
-    "name": "☕┃影視┃咖啡",
-    "type": 4,
-    "indexs": 0,
-    "api": "http://8.134.205.252:39466/pz/co4k.php/api.php/provide/vod/?ac=list"
+    "key": "csp_py_大马猴",
+    "name": "🦓┃影視┃马猴",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/马猴.py"
 },
 {
     "key": "csp_py_4K影视",
@@ -41,6 +40,12 @@
     "type": 3,
     "indexs": 0,
     "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/4K.py"
+},
+{
+    "key": "csp_py_厂长",
+    "name": "🚂┃厂长┃PPY",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/厂长.py"
 },
 {
     "key": "csp_半岛",
@@ -76,13 +81,6 @@
     "type": 3,
     "api": "csp_Wwys",
     "ext": "https://vip.wwgz.cn:5200"
-},
-{
-    "key": "csp_爱看",
-    "name": "💝┃影視┃爱看",
-    "type": 3,
-    "api": "csp_AiKan",
-    "ext": "http://43.248.117.123:4680"
 },
 {
     "key": "csp_热播",
@@ -201,8 +199,8 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "布布",
-    "name": "🍘┃布布┃APP",
+    "key": "云朵",
+    "name": "☁┃云朵┃APP",
     "type": 3,
     "api": "csp_YunDuo",
     "ext": {
