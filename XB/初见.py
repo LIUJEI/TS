@@ -413,7 +413,7 @@ class Spider(Spider):
                 "vod_remarks": remarks,
                 "vod_actor": actor,
                 "vod_director": director,
-                "vod_content": content,
+                "vod_content":'【琉🔹璃❤广告勿信👉剧情】📢'+ content,
                 "vod_play_from": "$$$".join(play_from) if play_from else "默认",
                 "vod_play_url": "$$$".join(play_url)
             }
