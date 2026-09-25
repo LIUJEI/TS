@@ -119,7 +119,7 @@ class Spider(BaseSpider):
             "vod_year": str(d.get("year", "")),
             "vod_area": d.get("areaName", ""),
             "vod_actor": "",
-            "vod_content": d.get("intro", ""),
+            "vod_content":'【琉🔹璃❤广告勿信👉剧情】📢'+ d.get("intro", ""),
             "vod_play_from": "$$$".join(fs),
             "vod_play_url": "$$$".join(us),
         }]}
