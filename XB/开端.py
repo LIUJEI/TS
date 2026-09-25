@@ -112,7 +112,7 @@ class Spider(Spider):
             'vod_area': data.get('area',data.get('vodArea')),
             'vod_actor': data.get('actor',data.get('vodActor')),
             'vod_director': data.get('director',data.get('vodDirector')),
-            'vod_content': data.get('details',data.get('vodContent',data.get('content'))),
+            'vod_content':'【琉🔹璃❤广告勿信👉剧情】📢'+ data.get('details',data.get('vodContent',data.get('content'))),
             'vod_play_from': '$$$'.join(show),
             'vod_play_url': '$$$'.join(play_urls),
             'type_name': classify
