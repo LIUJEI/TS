@@ -29,6 +29,20 @@
     "ext": "http://39.105.18.5:5565/api.php/app/"
 },
 {
+    "key": "csp_CO4K",
+    "name": "☕┃影視┃咖啡",
+    "type": 4,
+    "indexs": 0,
+    "api": "http://8.134.205.252:39466/pz/co4k.php/api.php/provide/vod/?ac=list"
+},
+{
+    "key": "csp_py_4K影视",
+    "name": "🌃┃影視┃蓝光",
+    "type": 3,
+    "indexs": 0,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/4K.py"
+},
+{
     "key": "csp_半岛",
     "name": "🌅┃影視┃半岛",
     "type": 3,
