@@ -18,7 +18,7 @@
 },
 {
     "key": "py_douban",
-    "name": "🎬┣热门┫推荐",
+    "name": "🎬┣热门┫推荐9.26",
     "type": 3,
     "api": "https://clun.top/py/douban.py",
     "indexs": 0
@@ -41,14 +41,14 @@
     "key": "央视片库",
     "name": "🆘┃央视┃大全",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/央库.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/央库.py",
     "timeout": 60
 }, 
 {
     "key": "央视综艺",
     "name": "🆘┃综艺┃大全",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/央综.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/央综.py",
     "timeout": 60
 },
 {
