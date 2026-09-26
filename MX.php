@@ -10,17 +10,17 @@
 
 "sites": [
 {
-    "key": "Douban",
+    "key": "js_Douban",
     "name": "🎬┣魔盒┫首页",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/%E7%90%89%E7%92%83.js",
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/LiuLi.js",
     "indexs": 0
 },
 {
     "key": "py_douban",
     "name": "🎬┣热门┫推荐9.26",
     "type": 3,
-    "api": "https://clun.top/py/douban.py",
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/douban.py",
     "indexs": 0
 },
 {
@@ -63,7 +63,7 @@
     "https://www.cd-zj.com"]}
 },
 {
-    "key": "小苹果.py",
+    "key": "py_小苹果",
     "name": "🆘┃苹果┃PPY",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/苹果.py",
