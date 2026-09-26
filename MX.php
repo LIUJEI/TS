@@ -33,7 +33,34 @@
    "searchable": 0,
    "filterable": 0
   },
-
+{
+    "key": "央视片库",
+    "name": "🇨🇳┃央视┃大全",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/央库.py",
+    "timeout": 60
+}, 
+{
+    "key": "央视综艺",
+    "name": "🇨🇳┃综艺┃大全",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/央综.py",
+    "timeout": 60
+},
+{
+    "key":"spider_2097848346373787648",
+    "name":"┃热播┃影视",
+    "type":4,
+    "api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848346373787648?token=banye666",
+    "filterable":0
+},
+{
+    "key":"spider_2097848347502055424",
+    "name":"┃天堂┃影视","searchable":1,
+    "type":4,
+    "api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848347502055424?token=banye666",
+    "filterable":0
+},
 {
     "key": "py_maple",
     "name": "🆘┃枫叶┃PPY",
@@ -265,6 +292,14 @@
     "name": "🆘┃片库┃PPY",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/片库.py"
+},
+{
+    "key": "cupfox_in",
+    "name": "💝分享茶杯",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.js",
+    "ext": "https://gh-proxy.org/raw.githubusercontent.com/qist/tvbox/master/js/茶杯狐.js",
+    "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
     "key": "csp_xBPQ_饭团",
