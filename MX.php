@@ -324,13 +324,6 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/饭团.php"
 },
 {
-    "key": "csp_xBPQ_星辰影视",
-    "name": "💞┃星辰┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/星辰.php"
-},
-{
     "key": "csp_枫叶电影网",
     "name": "💞┃枫叶┃影院",
     "type": 3,
@@ -357,13 +350,6 @@
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/天狗.php"
-},
-{
-    "key": "csp_XBPQ_六八",
-    "name": "💞┃石榴┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/六八.php"
 },
 {
     "key": "csp_低端",
@@ -597,25 +583,11 @@
     "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/青蛙.php"
 },
 {
-    "key" : "csp_华视",
-    "name" : "💞┃影視┃华视",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/华视.php"
-}, 
-{
     "key" : "csp_豪格",
     "name" : "💞┃影視┃豪格",
     "type" : 3,
     "api" : "csp_XBPQ",
     "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/豪格.php"
-},
-{
-    "key" : "csp_人人",
-    "name" : "💞┃影視┃人人",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/人人.php"
 },
 {
     "key" : "csp_零零七",
@@ -625,20 +597,132 @@
     "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/零七.php"
 },
 {
-    "key": "csp_晓米",
-    "name": "💞┃影視┃晓米",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/晓米.php"
-},
-{
-    "key": "csp_枫叶4k",
-    "name": "💞┃影視┃枫叶",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/枫叶.php"
-},
-
+   "key": "飞快影视",
+   "name": "飞快影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/飞快.json"
+  },
+  {
+   "key": "人人影视",
+   "name": "人人影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/人人.json"
+  },
+  {
+   "key": "农民影视",
+   "name": "农民影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/农民.json"
+  },
+  {
+   "key": "熊猫影视",
+   "name": "熊猫影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/熊猫.json"
+  },
+  {
+   "key": "秀儿影院",
+   "name": "秀儿影院",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/秀儿.json"
+  },
+  {
+   "key": "毒舌影视",
+   "name": "毒舌影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/毒舌.json"
+  },
+  {
+   "key": "星辰影院",
+   "name": "星辰影院",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/星辰.json"
+  },
+  {
+   "key": "全网看",
+   "name": "全网看",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/全网看.json"
+  },
+  {
+   "key": "free影视",
+   "name": "free影视",
+   "type": 3,
+   "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/free.json"
+  },
+  {
+   "key": "喝茶影视",
+   "name": "喝茶影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/喝茶.json"
+  },
+  {
+   "key": "策弛影视",
+   "name": "策弛影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/策弛.json"
+  },
+  {
+   "key": "茶杯狐影视",
+   "name": "茶杯狐影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/茶杯狐.json"
+  },
+  {
+   "key": "瓜籽影院",
+   "name": "瓜籽影院",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/瓜籽.json"
+  },
+  {
+   "key": "来看点播",
+   "name": "来看点播",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/来看.json"
+  },
+  {
+   "key": "布卡影视",
+   "name": "布卡影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/布卡.json"
+  },
+  {
+   "key": "一帆影视",
+   "name": "一帆影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/一帆.json"
+  },
+  {
+   "key": "欧乐影视",
+   "name": "欧乐影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/欧乐.json"
+  },
+  {
+   "key": "奇迹",
+   "name": "奇迹影视",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "ext": "https://clun.top/js/s/奇迹.json"
+  },
 {
     "key": "耶网",
     "name": "📻┃嗨曲┃耶网",
