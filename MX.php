@@ -63,12 +63,6 @@
     "https://www.cd-zj.com"]}
 },
 {
-    "key": "py_小苹果",
-    "name": "🆘┃苹果┃PPY",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/苹果.py"
-},
-{
    "key": "csp_py_duoduo",
    "name": "🆘┃多多┃PPY",
    "type": 3,
@@ -93,12 +87,6 @@
     "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/马猴.py"
 },
 {
-    "key": "csp_py_开端",
-    "name": "🆘┃开端┃PPY",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/开端.py"
-},
-{
     "key": "csp_py壹起看",
     "name": "🆘┃壹起┃PPY",
     "type": 3,
@@ -111,22 +99,10 @@
     "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/厂长.py"
 },
 {
-    "key": "csp_py_初见",
-    "name": "🆘┃初见┃PPY",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/初见.py"
-},
-{
     "key": "csp_py_Acfun",
     "name": "🆘┃Acfu┃PPY",
     "type": 3,
     "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/Acfun.py"
-},
-{
-    "key": "橘汁",
-    "name": "🆘┃橘汁┃PPY",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/橘汁.py"
 },
 {
     "key": "csp_js_优夏",
@@ -159,12 +135,6 @@
     "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/下饭.py"
 },
 {
-    "key": "咕噜",
-    "name": "🆘┃咕噜┃PPY",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/咕噜.py"
-},
-{
     "key": "青麦",
     "name": "🆘┃青麦┃PPY",
     "type": 3,
@@ -183,24 +153,6 @@
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/豆花.py"
 },
 {
-    "key": "永乐",
-    "name": "🆘┃永乐┃PPY",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/永乐.js"
-},
-{
-    "key": "鬼片",
-    "name": "🆘┃鬼片┃PPY",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/鬼片.py"
-},
-{
-    "key": "py_dsystv",
-    "name": "🆘┃袋鼠┃PPY",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/袋鼠.py"
-},
-{
     "key": "py_juzong",
     "name": "🆘┃剧踪┃PPY",
     "type": 3,
@@ -216,7 +168,7 @@
     "key": "py_WUSENG",
     "name": "🆘┃悟圣┃短剧",
     "type": 3,
-    "api": "http://xn--oev29b.top/files/py/悟圣短剧.py"
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/悟圣.py"
 },
 {
     "key": "py_guazi",
@@ -249,12 +201,6 @@
     "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/荐片.js"
 },
 {
-    "key": "py_金牌影院",
-    "name": "🆘┃金牌┃PPY",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/金牌.py"
-},
-{
     "key": "py_文才",
     "name": "🆘┃文才┃PPY",
     "type": 3,
@@ -271,6 +217,60 @@
     "name": "🆘┃片库┃PPY",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/片库.py"
+},
+{
+    "key": "咕噜",
+    "name": "🆘┃咕噜┃PPY",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/咕噜.py"
+},
+{
+    "key": "csp_py_初见",
+    "name": "🆘┃初见┃PPY",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/初见.py"
+},
+{
+    "key": "csp_py_开端",
+    "name": "🆘┃开端┃PPY",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/开端.py"
+},
+{
+    "key": "py_金牌影院",
+    "name": "🆘┃金牌┃PPY",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/金牌.py"
+},
+{
+    "key": "py_dsystv",
+    "name": "🆘┃袋鼠┃PPY",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/袋鼠.py"
+},
+{
+    "key": "永乐",
+    "name": "🆘┃永乐┃PPY",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/永乐.js"
+},
+{
+    "key": "鬼片",
+    "name": "🆘┃鬼片┃PPY",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/鬼片.py"
+},
+{
+    "key": "橘汁",
+    "name": "🆘┃橘汁┃PPY",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/橘汁.py"
+},
+{
+    "key": "py_小苹果",
+    "name": "🆘┃苹果┃PPY",
+    "type": 3,
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/苹果.py"
 },
 {
     "key": "cupfox_in",
