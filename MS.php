@@ -960,9 +960,14 @@
     "url": "https://test1.12321app.com/daoliansiquanjia.php?url="
 },
 {
-    "name": "🏁琉芸★内部嗅探★",
-	"type": 0,
-    "url": "https://jx.xmflv.com/?url="
+    "name": "云解析",
+    "type": 0,
+    "url": "https://jx.yparse.com/index.php?url="
+},
+{
+    "name":"云解析",
+    "type":0,
+    "url":"https://yparse.ik9.cc/index.php?url="
 }],
 	
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","pptv","PPTV","mgtv","wasu","bilibili","m1905","seven","m78","mtv","sjs","dbs","yds","HNB","JL4K"],
