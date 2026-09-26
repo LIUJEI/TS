@@ -220,21 +220,21 @@
     "key": "py_dsystv",
     "name": "🆘┃袋鼠┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/袋鼠.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/袋鼠.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
     "key": "py_juzong",
     "name": "🆘┃剧踪┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/剧踪.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/剧踪.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
     "key": "py_hongguo",
     "name": "🆘┃红果┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/红果.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/红果.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
@@ -247,63 +247,63 @@
     "key": "py_guazi",
     "name": "🆘┃瓜子┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/瓜子.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/瓜子.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
     "key": "py_libvio",
     "name": "🆘┃LIBV┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/libvio.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/libvio.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
     "key": "py_qiyoudy",
     "name": "🆘┃奇优┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/奇优.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/奇优.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
     "key": "py_juok3",
     "name": "🆘┃剧慕┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/剧OK.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/剧OK.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
     "key": "荐片",
     "name": "🆘┃荐片┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/荐片.js",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/荐片.js",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
     "key": "py_金牌影院",
     "name": "🆘┃金牌┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/金牌.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/金牌.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
     "key": "py_文才",
     "name": "🆘┃文才┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/文才.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/文才.py",
     "ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com"}
 },
 {
     "key": "py_aigua",
     "name": "🆘┃爱瓜┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/爱瓜.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/爱瓜.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
     "key": "py_pianku4k",
     "name": "🆘┃片库┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/片库.py",
+    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/片库.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
@@ -311,7 +311,7 @@
     "name": "🆘┃茶杯┃PPY",
     "type": 3,
     "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.js",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/茶狐.js",
+    "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/茶狐.js",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 {
@@ -561,13 +561,6 @@
     "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/享乐.php"
 },
 {
-    "key" : "csp_小米",
-    "name" : "💞┃影視┃小米",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/小米.php"
-},
-{
     "key" : "csp_永乐",
     "name" : "💞┃影視┃永乐",
     "type" : 3,
@@ -580,13 +573,6 @@
     "type" : 3,
     "api" : "csp_XBPQ",
     "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/光棍.php"
-},
-{
-    "key" : "csp_青蛙",
-    "name" : "💞┃影視┃青蛙",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/青蛙.php"
 },
 {
     "key" : "csp_豪格",
