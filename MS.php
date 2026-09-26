@@ -945,6 +945,11 @@
 ],
 "parses": [	
 {
+    "name": "急速",
+    "type": 1,
+    "url": "https://test1.12321app.com/daoliansiquanjia.php?url="
+},
+{
     "name": "闪电",
     "type": 4,
     "url": "https://bfq.txnp.cn/excessive?url="
@@ -953,11 +958,6 @@
     "name": "云速",
     "type": 1,
     "url": "https://player.gimy.bot/u/parse.php?url="
-},
-{
-    "name": "急速",
-    "type": 1,
-    "url": "https://test1.12321app.com/daoliansiquanjia.php?url="
 },
 {
     "name": "云解析",
