@@ -25,10 +25,20 @@
     "jar" : "http://rihou.cc:88/jar/xbpq.jar"
 },
 {
+   "key": "py_douban",
+   "name": "豆瓣[py]",
+   "type": 3,
+   "api": "https://clun.top/py/douban.py",
+   "changeable": 0,
+   "searchable": 0,
+   "filterable": 0
+  },
+
+{
     "key": "py_maple",
     "name": "🆘┃枫叶┃PPY",
     "type": 3,
-    "api": "https://clun.top/py/maple.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/枫叶.py",
     "ext": {
     "sites": [
     "https://www.zzztool.com",
@@ -39,14 +49,14 @@
     "key": "小苹果.py",
     "name": "🍏┃苹果┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/苹果.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/苹果.py",
     "indexs": 0
 },
 {
    "key": "csp_py_duoduo",
    "name": "🧚🏻‍♀️┃多多┃PPY",
    "type": 3,
-   "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/多多.py"
+   "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/多多.py"
 },  
 {
    "key": "csp_py_kkys",
@@ -58,232 +68,203 @@
     "key": "csp_py_fk",
     "name": "🏍┃飞快┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/飞快.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/飞快.py"
 },
 {
     "key": "csp_py_大马猴",
     "name": "🦓┃马猴┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/马猴.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/马猴.py"
 },
 {
     "key": "csp_py_开端",
     "name": "🎉┃开端┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/开端.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/开端.py"
 },
 {
     "key": "csp_py壹起看",
     "name": "🚚┃壹起┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/壹起.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/壹起.py"
 },
 {
     "key": "csp_py_厂长",
     "name": "🚂┃厂长┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/厂长.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/厂长.py"
 },
 {
     "key": "csp_py_初见",
     "name": "🛸┃初见┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/初见.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/初见.py"
 },
 {
     "key": "csp_py_Acfun",
     "name": "💖┃Acfun┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/Acfun.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/Acfun.py"
 },
 {
     "key": "橘汁",
     "name": "🍋┃橘汁┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/橘汁.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/橘汁.py",
     "indexs": 0
 },
 {
     "key": "csp_js_优夏",
     "name": "🥨┃优夏┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/优夏.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/优夏.js",
     "indexs": 0
 },
 {
     "key": "csp_js_毒舌",
     "name": "🐍┃毒舌┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/毒舌.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/毒舌.js",
     "indexs": 0
 },
 {
     "key": "csp_js_星辰",
     "name": "💢┃星辰┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/星辰.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/星辰.js",
     "indexs": 0
 },
 {
     "key": "4K影视",
     "name": "🌃┃蓝光┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/4K.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/4K.py"
 },
 {
     "key": "剧下饭",
     "name": "🍚┃下饭┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/下饭.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/下饭.py"
 },
 {
     "key": "咕噜",
     "name": "🍩┃咕噜┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/咕噜.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/咕噜.py"
 },
 {
     "key": "青麦",
     "name": "🌿┃青麦┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/青麦.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/青麦.py"
 },
 {
     "key": "华数",
     "name": "🚩┃华数┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/华数.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/华数.py"
 },
 {
     "key": "豆花影视",
     "name": "🌷┃豆花┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/豆花.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/豆花.py",
     "indexs": 0
 },
 {
     "key": "永乐",
     "name": "🎀┃永乐┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/永乐.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/永乐.js"
 },
 {
     "key": "鬼片",
     "name": "👾┃鬼片┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/鬼片.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/鬼片.py"
 },
 {
     "key": "py_dsystv",
-    "name": "袋鼠影视[py]",
+    "name": "🆘┃袋鼠┃PPY",
     "type": 3,
-    "api": "https://clun.top/py/dsystv.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/袋鼠.py",
     "ext": {"host": "https://dsystv.com"}
 },
 {
     "key": "py_juzong",
-    "name": "剧踪[py]",
+    "name": "🆘┃剧踪┃PPY",
     "type": 3,
-    "api": "https://clun.top/py/juzong.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/剧踪.py",
     "ext": ""
 },
 {
     "key": "py_hongguo",
-    "name": "红果[py]",
+    "name": "🆘┃红果┃PPY",
     "type": 3,
-    "api": "https://clun.top/py/hongguo.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/红果.py",
     "ext": ""
 },
 {
     "key": "py_guazi",
-    "name": "瓜子[py]",
+    "name": "🆘┃瓜子┃PPY",
     "type": 3,
-    "api": "https://clun.top/py/guazi.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/瓜子.py",
     "ext": ""
 },
 {
     "key": "py_libvio",
-    "name": "LIBVIO[py]",
+    "name": "🆘┃LIBVIO┃PPY",
     "type": 3,
-    "api": "https://clun.top/py/libvio.py",
-    "ext": ""
-},
-{
-    "key": "py_kkys",
-    "name": "可可追剧[py]",
-    "type": 3,
-    "api": "https://clun.top/py/kkys.py",
-    "ext": ""
-},
-{
-    "key": "py_bubuzhuiju",
-    "name": "布布追剧[py]",
-    "type": 3,
-    "api": "https://clun.top/py/bubuzhuiju.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/libvio.py",
     "ext": ""
 },
 {
     "key": "py_qiyoudy",
-    "name": "奇优影视[py]",
+    "name": "🆘┃奇优┃PPY",
     "type": 3,
-    "api": "https://clun.top/py/qiyoudy.py",
-    "ext": ""
-},
-{
-    "key": "py_saohuo",
-    "name": "骚火影视[py]",
-    "type": 3,
-    "api": "https://clun.top/py/saohuo.py",
-    "ext": ""
-},
-{
-    "key": "py_yunduo",
-    "name": "云朵影视[py]",
-    "type": 3,
-    "api": "https://clun.top/py/yunduo.py",
-    "ext": ""
-},
-{
-    "key": "py_duoduo",
-    "name": "多多影视[py]",
-    "type": 3,
-    "api": "https://clun.top/py/duoduo.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/奇优.py",
     "ext": ""
 },
 {
     "key": "py_juok3",
-    "name": "剧OK[py]",
+    "name": "🆘┃剧慕┃PPY",
     "type": 3,
-    "api": "https://clun.top/py/juok3.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/剧OK.py",
     "ext": ""
 },
 {
     "key": "荐片",
-    "name": "荐片[js]",
+    "name": "🆘┃荐片┃PPY",
     "type": 3,
-    "api": "https://clun.top/js/荐片.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/荐片.js",
     "ext": ""
 },
 {
     "key": "py_金牌影院",
-    "name": "金牌影院[py]",
+    "name": "🆘┃金牌┃PPY",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/金牌.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/金牌.py",
     "ext": ""
 },
 {
     "key": "py_文才",
-    "name": "文才影视[py]",
+    "name": "🆘┃文才┃PPY",
     "type": 3,
-    "api": "https://clun.top/py/文才影视.py",
-    "ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"}
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/文才.py",
+    "ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com"}
 },
 {
     "key": "py_aigua",
-    "name": "爱瓜TV[py]",
+    "name": "🆘┃爱瓜┃PPY",
     "type": 3,
-    "api": "https://clun.top/py/aigua.py",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/爱瓜.py",
     "ext": ""
+},
+{
+    "key": "py_pianku4k",
+    "name": "🆘┃片库┃PPY",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/片库.py"
 },
 {
     "key": "csp_xBPQ_饭团",
