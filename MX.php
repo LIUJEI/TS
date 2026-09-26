@@ -243,11 +243,14 @@
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/金牌.py"
 },
 {
-    "key": "py_dsystv",
-    "name": "🆘💢┃袋鼠┃PPY",
-    "type": 3,
-    "api": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/袋鼠.py",
-    "ext" : { "host" : "https://dsystv.com" } 
+    "key" : "py_dsystv" ,
+    "name" : "🆘🖤┃袋鼠┃PPY" , 
+    "type" : 3 , 
+    "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/ 袋鼠.py" , 
+    "searchable" : 1 , 
+    "quickSearch" : 1 , 
+    "filterable" : 1 , 
+    "ext" : { "host" : "https://dsystv.com" }
 },
 {
     "key": "永乐",
