@@ -960,9 +960,19 @@
     "url": "https://player.gimy.bot/u/parse.php?url="
 },
 {
-    "name": "云解析",
+    "name": "咸鱼",
+    "type": 0,
+    "url": "https://jx.xymp4.cc/?url="
+},
+{
+    "name": "淘片",
     "type": 0,
     "url": "https://jx.yparse.com/index.php?url="
+},
+{
+    "name": "七七",
+    "type": 0,
+    "url": "https://jx.77flv.cc/?url="
 },
 {
     "name":"云解析",
