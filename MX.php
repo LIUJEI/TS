@@ -70,9 +70,9 @@
 },  
 {
    "key": "csp_py_kkys",
-   "name": "🆘┃可可┃PPY",
+   "name": "🆘怕✡┃可可┃PPY",
    "type": 3,
-   "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/可可.py"
+   "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/可可.js"
 },
 {
     "key": "csp_py_fk",
