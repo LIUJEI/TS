@@ -244,9 +244,10 @@
 },
 {
     "key": "py_dsystv",
-    "name": "🆘┃袋鼠┃PPY",
+    "name": "🆘怕💢┃袋鼠┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/袋鼠.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/袋鼠.py",
+    "ext" : { "host" : "https://dsystv.com" } 
 },
 {
     "key": "永乐",
