@@ -388,6 +388,385 @@
     "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"}
 },
 {
+   "key": "py_maple",
+   "name": "枫叶[py]",
+   "type": 3,
+   "api": "https://clun.top/py/maple.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "sites": [
+     "https://www.zzztool.com",
+     "https://maihaolian.com",
+     "https://www.cd-zj.com"
+    ],
+    "sitesIndex": 0
+   }
+  },
+  {
+   "key": "py_juzong",
+   "name": "剧踪[py]",
+   "type": 3,
+   "api": "https://clun.top/py/juzong.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_hongguo",
+   "name": "红果[py]",
+   "type": 3,
+   "api": "https://clun.top/py/hongguo.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_guazi",
+   "name": "瓜子[py]",
+   "type": 3,
+   "api": "https://clun.top/py/guazi.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {}
+  },
+  {
+   "key": "py_pianku4k",
+   "name": "片库[py]",
+   "type": 3,
+   "api": "https://clun.top/py/pianku4k.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_huavod",
+   "name": "华视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/huavod.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_libvio",
+   "name": "LIBVIO[py]",
+   "type": 3,
+   "api": "https://clun.top/py/libvio.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_kkys",
+   "name": "可可追剧[py]",
+   "type": 3,
+   "api": "https://clun.top/py/kkys.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_bubuzhuiju",
+   "name": "布布追剧[py]",
+   "type": 3,
+   "api": "https://clun.top/py/bubuzhuiju.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_dsystv",
+   "name": "袋鼠影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/dsystv.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "host": "https://dsystv.com"
+   }
+  },
+  {
+   "key": "py_ysttv",
+   "name": "影视天堂[py]",
+   "type": 3,
+   "api": "https://clun.top/py/ysttv.py",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": {
+    "host": "https://ysttv.com",
+    "pageFmt": "",
+    "searchFmt": ""
+   }
+  },
+  {
+   "key": "py_xlys",
+   "name": "雪落影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/xlys.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "host": "https://v.xl.in.ua",
+    "pageFmt": ""
+   }
+  },
+  {
+   "key": "py_shanzha",
+   "name": "山楂影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/shanzha.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {}
+  },
+  {
+   "key": "py_qiyoudy",
+   "name": "奇优影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/qiyoudy.py",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 1
+  },
+  {
+   "key": "py_蛋挞",
+   "name": "蛋挞影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/dantatv.py",
+   "searchable": 1,
+   "quickSearch": 0
+  },
+  {
+   "key": "py_yangguang",
+   "name": "阳光影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/yangguang.py",
+   "searchable": 0,
+   "quickSearch": 0
+  },
+  {
+   "key": "py_saohuo",
+   "name": "骚火影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/saohuo.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_yunduo",
+   "name": "云朵影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/yunduo.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "py_duoduo",
+   "name": "多多影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/duoduo.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+  {
+   "key": "py_juok3",
+   "name": "剧OK[py]",
+   "type": 3,
+   "api": "https://clun.top/py/juok3.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
+
+  {
+   "key": "荐片",
+   "name": "荐片[js]",
+   "type": 3,
+   "api": "https://clun.top/js/荐片.js"
+  },
+  {
+   "key": "金牌影院",
+   "name": "金牌[js]",
+   "type": 3,
+   "api": "https://clun.top/js/金牌影视.js"
+  },
+  {
+   "key": "apple",
+   "name": "apple[js]",
+   "type": 3,
+   "api": "https://clun.top/js/apple.js"
+  },
+  {
+   "key": "聚合短剧",
+   "name": "聚合短剧[js]",
+   "type": 3,
+   "api": "https://clun.top/js/聚合短剧.js",
+   "style": {
+    "type": "rect",
+    "ratio": 1.33
+   },
+   "changeable": 1
+  },
+  {
+   "key": "py_fqdm",
+   "name": "番茄动漫[py]",
+   "type": 3,
+   "api": "https://clun.top/py/fqdm.py",
+   "playerType": 2
+  },
+  {
+   "key": "3",
+   "name": "--- 3 ---"
+  },
+  {
+   "key": "py_高清电影",
+   "name": "高清电影[py]",
+   "type": 3,
+   "api": "https://clun.top/py/高清电影.py"
+  },
+  {
+   "key": "py_金牌影院",
+   "name": "金牌影院[py]",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "https://clun.top/py/金牌.py",
+   "order_num": 5,
+   "ext": ""
+  },
+  {
+   "key": "py_奇优动漫",
+   "name": "奇优动漫[py]",
+   "type": 3,
+   "api": "https://clun.top/py/奇优动漫.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 5,
+   "ext": ""
+  },
+  {
+   "key": "py_粤漫动漫",
+   "name": "粤漫动漫[py]",
+   "type": 3,
+   "api": "https://clun.top/py/粤漫.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 5,
+   "ext": ""
+  },
+  {
+   "key": "py_jieyingshi",
+   "name": "界影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/py_jieyingshi.py",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0,
+   "changeable": 0
+  },
+  {
+   "key": "py_aigua",
+   "name": "爱瓜TV[py]",
+   "type": 3,
+   "api": "https://clun.top/py/aigua.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "order_num": 5,
+   "ext": ""
+  },
+  {
+   "key": "py_国外",
+   "name": "国外剧情[py]",
+   "type": 3,
+   "api": "https://clun.top/py/py_guowaiju.py",
+   "quickSearch": 1,
+   "searchable": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_偷乐",
+   "name": "偷乐短剧[py]",
+   "type": 3,
+   "api": "https://clun.top/py/偷乐短剧.py",
+   "searchable": 1,
+   "changeable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "playerType": 2
+  },
+  {
+   "key": "py_嗨皮",
+   "name": "嗨皮影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/嗨皮影视.py",
+   "quickSearch": 1,
+   "filterable": 1,
+   "playerType": 2
+  },
+  {
+   "key": "py_云端",
+   "name": "云端影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/云端影视.py",
+   "quickSearch": 1,
+   "filterable": 1,
+   "playerType": 2
+  },
+  {
+   "key": "py_云速",
+   "name": "云速影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/云速影视.py",
+   "quickSearch": 1,
+   "filterable": 1,
+   "playerType": 2
+  },
+  {
+   "key": "py_农牧",
+   "name": "农牧影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/农民影视.py",
+   "quickSearch": 1,
+   "filterable": 1,
+   "playerType": 2
+  },
+  {
+   "key": "py_文才",
+   "name": "文才影视[py]",
+   "type": 3,
+   "api": "https://clun.top/py/文才影视.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+   }
+  },
+  {
+   "key": "py_4KAV",
+   "name": "4KAV[py]",
+   "type": 3,
+   "api": "https://clun.top/py/4KAV.py",
+   "quickSearch": 1,
+   "searchable": 1,
+   "filterable": 1
+  },
+{
     "key": "ConfigCenter",
     "name": "🇨🇳┣☪公✿告┫信息",
     "type": 3,
