@@ -127,7 +127,7 @@
 },
 {
     "key": "csp_py_Acfun",
-    "name": "🆘┃Acfun┃PPY",
+    "name": "🆘┃Acfu┃PPY",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/Acfun.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
@@ -246,7 +246,7 @@
 },
 {
     "key": "py_libvio",
-    "name": "🆘┃LIBVIO┃PPY",
+    "name": "🆘┃LIBV┃PPY",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/libvio.py",
     "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
