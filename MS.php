@@ -950,90 +950,35 @@
     "url": "https://bfq.txnp.cn/excessive?url="
 },
 {
-    "name": "冰豆",
-    "type": 0,
-    "url": "https://bd.jx.cn/?url="
+    "name": "解析1",
+    "type": 1,
+    "url": "http://8.134.205.252:39466/ceshi/cs.php?key=udk&url="
 },
 {
-    "name":"咸鱼",
-    "type" : 0,
-    "url" : "https://jx.xymp4.cc/?url="
+    "name": "解析2",
+    "type": 1,
+    "url": "https://test1.12321app.com/daoliansiquanjia.php?url="
 },
 {
-    "name": "菠萝",
-    "type": 0,
-    "url": "https://www.playm3u8.cn/jiexi.php?url="
+    "name": "解析3",
+    "type": 1,
+    "url": "http://nsys.hundong.xyz/api/?key=EdG87gW0IDYarx9ry5&url="
 },
 {
-    "name":"狗子",
-    "type":0,
-    "url":"http://www.ckplayer.vip/jiexi/?url="
+    "name": "解析4",
+    "type": 1,
+    "url": "https://json.xophp.com/api/?key=5492ef7d5a1646338426e2f45b8c8e0d&url="
+},         
+{
+    "name": "解析5",
+    "type": 1,
+    "url": "https://player.gimy.bot/u/parse.php?url="
 },
 {
-    "name": "淘片",
-    "type": 0,
-    "url": "https://jx.yparse.com/index.php?url="
+    "name": "解析6",
+    "type": 1,
+    "url": "http://global.apirun.xn--vsqw5hh18a8vw.com:2025/api/?key=63c856aac8b205a5cb972ae8950cfd78&url="
 },
-{
-    "name":"云海",
-    "type":0,
-    "url": "https://yparse.ik9.cc/index.php?url="
-},
-{
-    "name": "8090",
-    "type": 0,
-    "url": "https://www.8090g.cn/?url="
-},
-{
-    "name": "七七",
-    "type": 0,
-    "url": "https://jx.77flv.cc/?url="
-},
-{
-    "name": "推荐",
-    "type": 0,
-    "url": "https://pl.a6club.com/player/analysis.php?v="
-},
-{
-      "name": "💝分享者解析❶",
-      "type": 1,
-      "url": "http://1.94.244.214:8889/geturl?url="
-    },
-    {
-      "name": "💝分享者解析❷",
-      "type": 0,
-      "url": "http://jx.abplayer.top/?u{}rl="
-    },
-{
-      "name": "💝分享者解析⊗",
-      "type": 1,
-      "url": "http://8.134.205.252:39466/ceshi/cs.php?key=udk&url="
-    },
-{
-            "name": "💝分享者解析①",
-            "type": 1,
-            "url": "https://test1.12321app.com/daoliansiquanjia.php?url="
-        },
-{
-            "name": "💝分享者解析②",
-            "type": 1,
-            "url": "http://nsys.hundong.xyz/api/?key=EdG87gW0IDYarx9ry5&url="
-        },
-        {
-            "name": "💝分享者解析③",
-            "type": 1,
-            "url": "https://json.xophp.com/api/?key=5492ef7d5a1646338426e2f45b8c8e0d&url="
-        },
-            
-             {
-            "name": "💝分享者解析④",
-            "type": 1,
-            "url": "https://player.gimy.bot/u/parse.php?url="},
-        {
-            "name": "💝分享者解析⑤",
-            "type": 1,
-            "url": "http://global.apirun.xn--vsqw5hh18a8vw.com:2025/api/?key=63c856aac8b205a5cb972ae8950cfd78&url="
-        },
  {
             "name": "💝分享者解析✾",
             "type": 1,
