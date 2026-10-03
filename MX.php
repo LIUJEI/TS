@@ -66,43 +66,37 @@
    "key": "csp_py_duoduo",
    "name": "🆘┃多多┃PPY",
    "type": 3,
-   "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/多多.py"
+   "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/多多.js"
 },  
 {
    "key": "csp_py_kkys",
-   "name": "🆘怕✡┃可可┃PPY",
+   "name": "🆘┃可可┃PPY",
    "type": 3,
    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/可可.js"
-},
-{
-    "key": "csp_py_fk",
-    "name": "🆘┃飞快┃PPY",
-    "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/飞快.py"
 },
 {
     "key": "csp_py_大马猴",
     "name": "🆘┃马猴┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/马猴.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/马猴.js"
 },
 {
     "key": "csp_py壹起看",
     "name": "🆘┃壹起┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/壹起.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/壹起.js"
 },
 {
     "key": "csp_py_厂长",
     "name": "🆘┃厂长┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/厂长.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/厂长.js"
 },
 {
-    "key": "csp_py_Acfun",
-    "name": "🆘┃Acfu┃PPY",
+    "key": "豆花影视",
+    "name": "🆘┃豆花┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/Acfun.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/豆花.js"
 },
 {
     "key": "csp_js_优夏",
@@ -121,6 +115,12 @@
     "name": "🆘┃星辰┃PPY",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/星辰.js"
+},
+{
+    "key": "永乐",
+    "name": "🆘┃永乐┃PPY",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/永乐.js"
 },
 {
     "key": "4K影视",
@@ -147,10 +147,16 @@
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/华数.py"
 },
 {
-    "key": "豆花影视",
-    "name": "🆘┃豆花┃PPY",
+    "key": "csp_py_fk",
+    "name": "🆘┃飞快┃PPY",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/豆花.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/飞快.py"
+},
+{
+    "key": "csp_py_Acfun",
+    "name": "🆘┃Acfu┃PPY",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/Acfun.py"
 },
 {
     "key": "py_juzong",
@@ -219,12 +225,6 @@
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/片库.py"
 },
 {
-    "key": "咕噜",
-    "name": "🆘┃咕噜┃PPY",
-    "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/咕噜.py"
-},
-{
     "key": "csp_py_初见",
     "name": "🆘┃初见┃PPY",
     "type": 3,
@@ -243,19 +243,16 @@
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/金牌.py"
 },
 {
-    "key" : "py_dsystv" , "name" : "🆘🖤┃袋鼠┃PPY" , "type" : 3 , "api" : "`https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/XB/ 袋鼠.py`" , "searchable" : 1 , "quickSearch" : 1 , "filterable" : 1 , "ext" : { "host" : "`https://dsystv.com`" }
-},
-{
-    "key": "永乐",
-    "name": "🆘┃永乐┃PPY",
-    "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/永乐.js"
-},
-{
     "key": "鬼片",
     "name": "🆘┃鬼片┃PPY",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/鬼片.py"
+},
+{
+    "key": "咕噜",
+    "name": "🆘┃咕噜┃PPY",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/咕噜.py"
 },
 {
     "key": "橘汁",
