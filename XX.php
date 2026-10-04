@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MX.jar",
+  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MX.jar;md5;ED4E4501BB2475CECAF207904EFB6E63",
   "wallpaper": "proxy://do=wallpaper",
   "sites": [
     {
