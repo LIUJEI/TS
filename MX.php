@@ -20,7 +20,7 @@
     "key": "py_douban",
     "name": "🎬┣热门┫推荐09.26",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/douban.py",
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/douban.js",
     "indexs": 0
 },
 {
