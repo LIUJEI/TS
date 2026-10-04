@@ -15,38 +15,25 @@
 },
 {
     "key": "csp_Notice",
-    "name": "🎬┣公告┫09.24",
+    "name": "🎬┣公告┫10.04",
     "type": 3,
     "api": "csp_Notice",
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/liuli.php",
     "ext": "https://gitee.com/lyun_1_0/tb/raw/master/公告.php"
 },
 {
-    "key": "csp_天堂",
-    "name": "⛪┃影視┃天堂",
+    "key": "csp_热播",
+    "name": "🎊┃影視┃热播",
     "type": 3,
-    "api": "csp_AppYsV2",
-    "ext": "http://39.105.18.5:5565/api.php/app/"
+    "api": "csp_AppRJ",
+    "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-    "key": "csp_py_大马猴",
-    "name": "🦓┃影視┃马猴",
+    "key": "csp_农民",
+    "name": "🌾┃影視┃农民",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/马猴.py",
-    "indexs": 0
-},
-{
-    "key": "csp_py_厂长",
-    "name": "🚂┃影視┃厂长",
-    "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/厂长.py",
-    "indexs": 0
-},
-{
-    "key": "剧下饭",
-    "name": "🍚┃影視┃下饭",
-    "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/下饭.py"
+    "api": "csp_Wwys",
+    "ext": "https://vip.wwgz.cn:5200"
 },
 {
     "key": "csp_半岛",
@@ -75,20 +62,6 @@
     "type": 3,
     "api": "csp_Gulu",
     "indexs": 0
-},
-{
-    "key": "csp_农民",
-    "name": "🌾┃影視┃农民",
-    "type": 3,
-    "api": "csp_Wwys",
-    "ext": "https://vip.wwgz.cn:5200"
-},
-{
-    "key": "csp_热播",
-    "name": "🎊┃影視┃热播",
-    "type": 3,
-    "api": "csp_AppRJ",
-    "ext": {"url": "http://v.rbotv.cn"}
 },
 {
     "key": "csp_一起看",
@@ -152,6 +125,38 @@
     "type": 3,
     "api": "csp_Ikanbot",
     "indexs": 0
+},
+{
+    "key": "csp_天堂",
+    "name": "⛪┃影視┃天堂",
+    "type": 3,
+    "api": "csp_AppYsV2",
+    "ext": "http://39.105.18.5:5565/api.php/app/"
+},
+{
+    "key": "csp_js_多多",
+    "name": "🦓┃影視┃多多",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/多多.js",
+    "indexs": 0
+},
+{
+    "key": "csp_js_厂长",
+    "name": "🚂┃影視┃厂长",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/厂长.js",
+    "indexs": 0
+},
+{
+    "key": "py_maple",
+    "name": "🆘┃影視┃枫叶",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/枫叶.py",
+    "ext": {
+    "sites": [
+    "https://www.zzztool.com",
+    "https://maihaolian.com",
+    "https://www.cd-zj.com"]}
 },
 {
     "key": "NB012绿豆",
