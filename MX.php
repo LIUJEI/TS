@@ -548,6 +548,22 @@
     "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/零七.php"
 },
 {
+    "key": "nangua",
+    "name": "🎃┃南瓜┃秒播",
+    "type": 3,
+    "api": "csp_NanGua",
+    "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+    "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
+},
+{
+    "key": "蝴蝶",
+    "name": "🦋┃蝴蝶┃秒播",
+    "type": 3,
+    "api": "csp_Xdai",
+    "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+    "ext": "7lj763gg0939791h1l239kj0g853i291lik7jk45j8i66j6l46590lkli918523h02826lh29i74948i3116h18kkgii17kki579606ik1h6kjlh2k8l36ll62h11k10g8"
+},
+{
     "key": "耶网",
     "name": "📻┃嗨曲┃耶网",
     "type": 3,
