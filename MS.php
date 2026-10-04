@@ -835,28 +835,28 @@
     "name": "🆚┃騰訊┃ TV",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/QQtv.js"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@mainTS/QQtv.js"
 },
 {
     "key": "dr_芒果",
     "name": "🆚┃芒果┃ TV",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/MGtv.js"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@mainTS/MGtv.js"
 },
 {
     "key": "dr_奇异",
     "name": "🆚┃奇藝┃ TV",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/AQItv.js"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@mainTS/AQItv.js"
 },
 {
     "key": "dr_优酷",
     "name": "🆚┃優酷┃ TV",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/yKtv.js"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@mainTS/yKtv.js"
 },
 {
     "key": "dr_哔哩视频",
@@ -870,7 +870,7 @@
     "name": "🆚┃搜狗┃ TV",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/SGtv.js"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@mainTS/SGtv.js"
 },
 {
     "key": "liuliys",
