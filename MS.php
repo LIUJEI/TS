@@ -856,7 +856,7 @@
     "name": "🆚┃優酷┃ TV",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@mainTS/yKtv.js"
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/yKtv.js"
 },
 {
     "key": "dr_哔哩视频",
