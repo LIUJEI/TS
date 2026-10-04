@@ -15,7 +15,7 @@
 },
 {
     "key": "csp_Notice",
-    "name": "🎬┣公告┫10.06",
+    "name": "🎬┣公告┫10.04",
     "type": 3,
     "api": "csp_Notice",
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/liuli.php",
@@ -34,28 +34,6 @@
     "type": 3,
     "api": "csp_Wwys",
     "ext": "https://vip.wwgz.cn:5200"
-},
-{
-    "key": "YunZhenXiang",
-    "name": "🍩┃影視┃帧享",
-    "type": 3,
-    "api": "csp_YunZhenXiang",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-    "index_url": "https://ss.trgfd.cn/cache/index/com.huohuavideo.app.json",
-    "key_api": "https://www.tangsan.fun/zx.php"
-    }
-},
-{
-    "key": "壹影视",
-    "name": "🪀┃影視┃壹影",
-    "type": 3,
-    "api": "csp_YiYs",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
 },
 {
     "key": "csp_半岛",
