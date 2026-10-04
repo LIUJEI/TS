@@ -876,49 +876,49 @@
     "key": "dr_腾迅",
     "name": "🆚┃騰訊┃ TV",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/QQtv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/QQtv.js"
 },
 {
     "key": "dr_芒果",
     "name": "🆚┃芒果┃ TV",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/MGtv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/MGtv.js"
 },
 {
     "key": "dr_奇异",
     "name": "🆚┃奇藝┃ TV",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/AQItv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/AQItv.js"
 },
 {
     "key": "dr_优酷",
     "name": "🆚┃優酷┃ TV",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/yKtv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/yKtv.js"
 },
 {
     "key": "dr_哔哩视频",
     "name": "🆚┃嗶哩┃ TV",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/bili.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/bili.js"
  },
  {
     "key": "dr_搜狗",
     "name": "🆚┃搜狗┃ TV",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.js",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/TS/SGtv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/SGtv.js"
 },
 {
     "key": "liuliys",
     "name": "🇨🇳┣☪琉✿璃┫专用",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/琉璃.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/琉璃.js",
     "indexs": 0
 },
 {
