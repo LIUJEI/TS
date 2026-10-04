@@ -177,6 +177,19 @@
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/悟圣.py"
 },
 {
+    "key": "xcm",
+    "name": "🐻┃熊大┃秒播",
+    "type": 4,
+    "api": "http://sy.xuntuyun.cn:20394/ctyx.php/api.php/provide/vod/?ac=list",
+    "indexs": 0
+},
+{
+    "key": "牛牛",
+    "name": "🦏┃牛牛┃秒播",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/XB/牛牛.js"
+},
+{
     "key": "py_guazi",
     "name": "🆘┃瓜子┃PPY",
     "type": 3,
