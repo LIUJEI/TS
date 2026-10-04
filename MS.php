@@ -15,7 +15,7 @@
 },
 {
     "key": "csp_Notice",
-    "name": "🎬┣公告┫10.04",
+    "name": "🎬┣公告┫10.05",
     "type": 3,
     "api": "csp_Notice",
     "jar": "https://gitee.com/lyun_1_0/tb/raw/master/liuli.php",
@@ -834,42 +834,42 @@
     "key": "dr_腾迅",
     "name": "🆚┃騰訊┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/QQtv.js"
 },
 {
     "key": "dr_芒果",
     "name": "🆚┃芒果┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/MGtv.js"
 },
 {
     "key": "dr_奇异",
     "name": "🆚┃奇藝┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/AQItv.js"
 },
 {
     "key": "dr_优酷",
     "name": "🆚┃優酷┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/yKtv.js"
 },
 {
     "key": "dr_哔哩视频",
     "name": "🆚┃嗶哩┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/bili.js"
  },
  {
     "key": "dr_搜狗",
     "name": "🆚┃搜狗┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/SGtv.js"
 },
 {
