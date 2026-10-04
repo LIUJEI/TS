@@ -1329,7 +1329,7 @@ var rule = {
                 type_name: json.typ.join(","),
                 vod_actor: json.nam.join(","),
                 vod_year: json.c.year,
-                vod_content: json.c.description,
+                vod_content:'【琉🔹璃❤广告勿信👉剧情】📢'+ json.c.description,
                 vod_remarks: json.rec,
                 vod_pic: vodPic
             }
