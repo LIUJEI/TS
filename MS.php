@@ -134,29 +134,11 @@
     "ext": "http://39.105.18.5:5565/api.php/app/"
 },
 {
-    "key": "csp_js_多多",
-    "name": "🦓┃影視┃多多",
-    "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/多多.js",
-    "indexs": 0
-},
-{
     "key": "csp_js_厂长",
     "name": "🚂┃影視┃厂长",
     "type": 3,
     "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/厂长.js",
     "indexs": 0
-},
-{
-    "key": "py_maple",
-    "name": "🆘┃影視┃枫叶",
-    "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/枫叶.py",
-    "ext": {
-    "sites": [
-    "https://www.zzztool.com",
-    "https://maihaolian.com",
-    "https://www.cd-zj.com"]}
 },
 {
     "key": "NB012绿豆",
