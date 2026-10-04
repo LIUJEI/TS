@@ -141,14 +141,11 @@
     "indexs": 0
 },
 {
-    "key": "NB012绿豆",
-    "name": "🏝┃绿豆┃秒播",
+    "key": "csp_py_初见",
+    "name": "🏝┃影視┃初见",
     "type": 3,
-    "api": "http://app.69mini.com/tvbox/AppYsV2.js",
-    "ext": {
-    "host": "http://ld.69mzf.cn/api.php/app/",
-    "*": [
-    "https://niubi.69mini.com/api/?key=de8570d02b2e5181978a6c47a8eb4d91&url="]}
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/初见.py",
+    "indexs": 0
 },
 {
     "key": "葫芦",
@@ -543,51 +540,6 @@
     "分类":"全部$0#短剧$25#电视剧$2#电影$1#动漫$4#综艺$3#伦理$26"}
 },
 {
-    "key": "秒映短剧",
-    "name": "♨️┃短劇┃秒映",
-    "type": 3,
-    "api": "csp_XBPQ",
-	"jar": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MX.jar",
-    "ext": {
-    "作者": "冰水",
-    "站名": "秒映短剧260529",
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "主页url": "https://halebot.com/",
-    "首页": "120",
-    "起始页": "1",
-    "分类url": "https://www.halebot.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area=&year={year}&letter=&yuyan=&state=&money=&ver=&jq=;;mrc",
-    "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
-    "二次截取": "",
-    "数组": "p:.fed-lazy",
-    "标题": "p:-\u003Etitle",
-    "副标题": "p:.fed-text-center-\u003Etext",
-    "图片": "p:-\u003Edata-original",
-    "链接": "p:-\u003Ehref",
-    "影片年代": "年份：&&\u003C/p",
-    "影片地区": "地区：&&\u003C/p",
-    "影片类型": "类型：&&\u003C/p",
-    "状态": "状态：&&\u003C/p",
-    "导演": "👨‍🎤+导演：&&\u003C/p",
-    "主演": "👩🏻‍🎤+主演：&&\u003C/p",
-    "简介": "简介：&&\u003C/p",
-    "线路二次截取": "",
-    "线路数组": "p:.nav-tabs.active li",
-    "线路标题": "p:-\u003Etext",
-    "播放数组": "p:.myui-content__list",
-    "播放列表": "p:a",
-    "播放标题": "p:-\u003Etext",
-    "播放链接": "p:-\u003Ehref",
-    "嗅探词": ".mp4#.m3u8",
-    "倒序": "0",
-    "跳转播放链接": "var now=\"&&\"",
-    "搜索请求头": "User-Agent$MOBILE_UA",
-    "搜索url": "https://halebot.com/search.php?page={pg}&searchword={wd}&searchtype=",
-    "排序": "最新上映&超高人气&全网热播&高分好评",
-    "排序值": "time&hit&commend&score",
-    "筛选": "1"}
-}, 
-{
     "key": "河马短剧",
     "name": "♨️┃短劇┃河马",
     "type": 3,
@@ -598,6 +550,12 @@
     "编码": "UTF-8",
     "分类": "青春$1170#女帝$1165#民国$839#萌宝$1175#超能$442#甜宠$462#豪门恩缘$585#反派$1166#求生$1162#寻亲$1162#读心术$1144-1172#律证$1427#动漫$1649#职厂商战$943#古装仙侠$1102#权谋$840-1101#青媒竹马$1185",
     "分类url": "https://www.kuaikaw.cn/browse/{cateId}/{catePg}"}
+},
+{
+    "key": "py_hongguo",
+    "name": "♨️┃短劇┃红果",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/红果.py"
 },
 {
     "key": "ShortHaokan",
@@ -876,42 +834,42 @@
     "key": "dr_腾迅",
     "name": "🆚┃騰訊┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/QQtv.js"
 },
 {
     "key": "dr_芒果",
     "name": "🆚┃芒果┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/MGtv.js"
 },
 {
     "key": "dr_奇异",
     "name": "🆚┃奇藝┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/AQItv.js"
 },
 {
     "key": "dr_优酷",
     "name": "🆚┃優酷┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/yKtv.js"
 },
 {
     "key": "dr_哔哩视频",
     "name": "🆚┃嗶哩┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/bili.js"
  },
  {
     "key": "dr_搜狗",
     "name": "🆚┃搜狗┃ TV",
     "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.min.js",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/SGtv.js"
 },
 {
