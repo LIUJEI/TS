@@ -337,32 +337,11 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/低端.php"
 },
 {
-    "key": "csp_初见",
-    "name": "💞┃初见┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/初见.php"
-},
-{
-    "key": "csp_兄师",
-    "name": "💞┃兄师┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/兄师.php"
-},
-{
     "key": "csp_橘猫",
     "name": "💞┃橘猫┃影视",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/橘猫.php"
-},
-{
-    "key": "csp_壹帆",
-    "name": "💞┃壹帆┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/壹帆.php"
 },
 {
     "key": "csp_皮皮",
@@ -372,46 +351,11 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/皮皮.php"
 },
 {
-    "key": "csp_扁豆",
-    "name": "💞┃影視┃扁豆",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/扁豆.php"
-},
-{
-    "key" : "csp_优兔",
-    "name" : "💞┃影視┃优兔",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/优兔.php"
-},
-{
     "key" : "csp_菲特",
     "name" : "💞┃影視┃菲特",
     "type" : 3,
     "api" : "csp_XBPQ",
     "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/菲特.php"
-},
-{
-    "key" : "csp_独播库",
-    "name" : "💞┃影視┃独播",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/独播.php"
-},
-{
-    "key" : "csp_青禾",
-    "name" : "💞┃影視┃青禾",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/青禾.php"
-}, 
-{
-    "key": "csp_菜菜",
-    "name": "💞┃影視┃菜菜",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/菜菜.php"
 },
 {
     "key": "csp_金鹰",
@@ -428,13 +372,6 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/蜂鸟.php"
 },
 {
-    "key": "csp_123",
-    "name": "💞┃影視┃数字",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/123.php"
-},
-{
     "key" : "csp_侠客",
     "name" : "💞┃影視┃侠客",
     "type" : 3,
@@ -449,39 +386,11 @@
     "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/观影.php"
 },
 {
-    "key" : "csp_西岐",
-    "name" : "💞┃影視┃西岐",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/西岐.php"
-},
-{
-    "key" : "csp_飞鱼",
-    "name" : "💞┃影視┃飞鱼",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/飞鱼.php"
-},
-{
-    "key" : "csp_初战",
-    "name" : "💞┃影視┃初战",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/初战.php"
-},
-{
     "key": "csp_水牛",
     "name": "💞┃影視┃水牛",
     "type": 3,
     "api": "csp_XBPQ",
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/水牛.php"
-},
-{
-    "key" : "csp_电影港",
-    "name" : "💞┃影視┃港影",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/港影.php"
 },
 {
     "key" : "csp_云播",
@@ -519,25 +428,11 @@
     "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/极光.php"
 },
 {
-    "key" : "csp_东篱",
-    "name" : "💞┃影視┃东篱",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/东篱.php"
-},
-{
     "key" : "csp_享乐",
     "name" : "💞┃影視┃享乐",
     "type" : 3,
     "api" : "csp_XBPQ",
     "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/享乐.php"
-},
-{
-    "key" : "csp_永乐",
-    "name" : "💞┃影視┃永乐",
-    "type" : 3,
-    "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/乐永.php"
 },
 {
     "key" : "csp_光棍",
