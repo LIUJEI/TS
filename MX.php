@@ -291,7 +291,7 @@
     "name": "💞┃农牧┃影院",
     "type": 3,
     "api" : "csp_XBPQ",
-    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/wang.json",
+    "ext" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/旺旺.php",
     "jar" : "http://rihou.cc:88/jar/xbpq.jar"
 },
 {
@@ -299,35 +299,35 @@
     "name": "💞┃饭团┃影院",
     "type":3,
     "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/饭团.php"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/饭团.php"
 },
 {
     "key": "csp_枫叶电影网",
     "name": "💞┃枫叶┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/枫叶.php"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/枫叶.php"
 }, 
 {
     "key": "csp_xBPQ_MTYY",
     "name": "💞┃麥田┃影院",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/麥田.php"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/麥田.php"
 },
 {
     "key": "csp_咕咚电影网",
     "name": "💞┃咕咚┃电影",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/咕咚.php"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/咕咚.php"
 }, 
 {
     "key": "csp_xBPQ_天狗追剧",
     "name": "💞┃天狗┃追剧",
     "type": 3,
     "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/XYQ/天狗.php"
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/天狗.php"
 },
 {
     "key": "csp_低端",
