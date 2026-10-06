@@ -1,5 +1,5 @@
 {
-  "spider": "http://rihou.cc:88/jar/xbpq.jar",
+  "spider": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/XBPQse.jar",
   "wallpaper": "proxy://do=wallpaper",
   "sites": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "key": "色播",
-      "name": "📛TH┃直播",
+      "name": "📛TH┃直播11",
       "type": 3,
       "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/色播.php",
       "searchable": 1,
