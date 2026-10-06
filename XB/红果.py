@@ -1,4 +1,7 @@
-# -*- coding: utf-8 -*-
+
+   
+   
+     # -*- coding: utf-8 -*-
 from __future__ import annotations
 import base64
 import binascii
@@ -3647,7 +3650,7 @@ def _item(x):
         "vod_name": name,
         "vod_pic": pic,
         "vod_remarks": ("全%s集" % count) if count else "",
-        "vod_content": intro,
+        "vod_content":'【琉🔹璃❤广告勿信👉剧情】📢'+ intro,
     }
 
 def _cat_item(x):
@@ -4162,4 +4165,3 @@ class Spider(_BaseSpider):
         except Exception as exc:
             msg = "hg localProxy failed: %s\n%s" % (exc, traceback.format_exc())
             return [500, "text/plain; charset=utf-8", msg.encode("utf-8")]
-
