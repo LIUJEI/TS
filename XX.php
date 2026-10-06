@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MX.jar;md5;ED4E4501BB2475CECAF207904EFB6E63",
+  "spider": "http://rihou.cc:88/jar/xbpq.jar",
   "wallpaper": "proxy://do=wallpaper",
   "sites": [
     {
@@ -15,20 +15,6 @@
       "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/色播.php",
       "searchable": 1,
       "changeable": 0
-    },
-    {
-      "key": "pornhub.llc",
-      "name": "撸铁🥥直播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/続行直播.php"
-    },
-    {
-      "key": "直播平台二级",
-      "name": "撸铁🥥直播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/卡哇依直播.php"
     },
     {
       "key": "😍V-HUB",
