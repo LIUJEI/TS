@@ -24,6 +24,16 @@
     "indexs": 0
 },
 {
+            "key": "New6v",
+            "name": "♨️影探｜4K",
+            "type": 3,
+            "api": "csp_New6v",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.xb6v.com"
+        },
+{
     "key":"spider_2097848346373787648",
     "name":"🆘┃热播┃影视",
     "type":4,
