@@ -12,18 +12,11 @@
     },
     {
       "key": "色播",
-      "name": "📛TH┃直播11",
+      "name": "📛TH┃直播",
       "type": 3,
       "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/色播.php",
       "searchable": 1,
       "changeable": 0
-    },
-    {
-      "key": "😍V-HUB",
-      "name": "撸铁🥥三藏",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/中东地区.php"
     },
     {
       "key": "猪八戒p",
@@ -33,39 +26,11 @@
       "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/猪八戒.php"
     },
     {
-      "key": "窜天猴",
-      "name": "撸铁🥥悟空",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/窜天猴.php"
-    },
-    {
       "key": "色花堂",
       "name": "撸铁🥥色堂",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/色花堂.php"
-    },
-    {
-      "key": "七色谷",
-      "name": "撸铁🥥色谷",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/七色谷.php"
-    },
-    {
-      "key": "激动网",
-      "name": "撸铁🥥激动",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/激动网.php"
-    },
-    {
-      "key": "桃花浪",
-      "name": "撸铁🥥花浪",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/桃花浪.php"
     },
     {
       "key": "野鸡🐔TV",
@@ -75,95 +40,11 @@
       "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/野鸡TV.php"
     },
     {
-      "key": "成鸡思汉",
-      "name": "撸铁🥥思汉",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/成鸡思汉.php"
-    },
-    {
-      "key": "自排偷拍",
-      "name": "撸铁🥥偷拍",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/自排偷拍.php"
-    },
-    {
-      "key": "桃花",
-      "name": "撸铁🥥桃花",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/桃花.php"
-    },
-    {
-      "key": "樱樱女子",
-      "name": "撸铁🥥女子",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/樱樱女子.php"
-    },
-    {
-      "key": "美人吹箫",
-      "name": "撸铁🥥吹箫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/美人吹箫.php"
-    },
-    {
-      "key": "公子别走",
-      "name": "公子🥥别走",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/公子别走.php"
-    },
-    {
-      "key": "撸铁汉",
-      "name": "金陵🥥撸铁",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/金陵撸铁汉.php"
-    },
-    {
-      "key": "超级精品",
-      "name": "超级🥥精品",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/超级精品.php"
-    },
-    {
       "key": "Free",
       "name": "撸铁🥥Free",
       "type": 3,
       "api": "csp_XBPQ",
       "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/Free.php"
-    },
-    {
-      "key": "一个纯粹的x站",
-      "name": "撸铁🥥xx站",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/xx网站.php"
-    },
-    {
-      "key": "csp_XYQHiker_日日撸",
-      "name": "撸铁🥥日撸",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/日日撸.php"
-    },
-    {
-      "key": "csp_XYQHiker_黄色仓库la",
-      "name": "撸铁🥥黄仓",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/黄色仓库.php"
-    },
-    {
-      "key": "榨汁",
-      "name": "撸铁🥥榨汁",
-      "type": 3,
-      "api": "csp_XBPQ",
-     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/榨汁姐.php"
     },
     {
       "key": "魔法少女2",
@@ -173,60 +54,71 @@
       "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/探花.php"
     },
     {
-      "key": "csp_香蕉视频",
-      "name": "撸铁🥥香蕉",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/KHYY.php"
+        "key": "熊猫",
+        "name": "🔞丨熊猫",
+        "type": 3,
+        "api": "csp_XMVideo",
+        "searchable": 1,
+        "filterable": 1,
+        "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/熊猫.jar"
     },
     {
-      "key": "sehuatang",
-      "name": "撸铁🥥华堂",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/色华堂.php"
+        "key": "dadiapi.com",
+        "name": "🔞丨大地",
+        "type": 0,
+        "api": "http://dadiapi.com/api.php",
+        "searchable": 1,
+        "recordable": 0,
+        "style": {"type": "rect","ratio": 1.33},
+        "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+        }
+    },
+{
+            "key": "bhziyuan",
+            "name": "🔞丨百花",
+            "type": 1,
+            "api": "https://bhziyuan.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "heiliaozyapi",
+            "name": "🔞丨黑料",
+            "type": 1,
+            "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+    {
+        "key": "黄色仓库资源",
+        "name": "🔞丨黄色",
+        "type": 1,
+        "api": "https://hsckzy888.com/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+    },
+   {
+        "key": "vnzyz",
+        "name": "🔞丨越南",
+        "type": 1,
+        "api": "https://vnzyz.com/api.php/provide/vod",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
     },
     {
-      "key": "csp_黑料福利社",
-      "name": "撸铁🥥黑料",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/閨密.php"
-    },
-    {
-      "key": "csp_乱伦群视频",
-      "name": "撸铁🥥乱伦 ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/乱伦群.php"
-    },
-    {
-      "key": "55视频",
-      "name": "撸铁🥥55视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/55视频.php"
-    },
-    {
-      "key": "83视频",
-      "name": "撸铁🥥83视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/83视频.php"
-    },
-    {
-      "key": "GDD视频",
-      "name": "撸铁🥥GD视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/GD视频.php"
-    },
-    {
-      "key": "18XXX",
-      "name": "撸铁🥥18视频",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@master/BPQ/18XX.php"
+        "key": "*91麻豆2🔞",
+        "name": "🔞丨麻豆",
+        "type": 1,
+        "api": "http://www.9191md.me/api.php/provide/vod/",
+        "searchable": 1,
+        "quickSearch": 1
     },
     {
       "key": "采集G(辣椒)",
@@ -240,7 +132,7 @@
       "key": "采集G(杏吧资源)",
       "name": "箐箐🍀杏吧",
       "type": 0,
-      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
+      "api": "https://xingba111.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 0
     },
@@ -273,7 +165,7 @@
       "key": "采集G(滴滴)",
       "name": "箐箐🍀滴滴",
       "type": 1,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
+      "api": "https://api.ddapi.cc/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1
     },
