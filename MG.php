@@ -1,60 +1,60 @@
 {
-  "spider": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png;md5;14751afef3ef30b1afffa398f1e9d961",
+  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MG.jar;md5;71BEB2726B6E3329814C3F43D9A562CD",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
 {
     "key": "csp_Douban",
-    "name": "🔥豆瓣┃推荐",
+    "name": "🎬┣豆瓣┫首页",
     "type": 3,
     "api": "csp_DoubanAmns",
     "ext": "Douban"
 },
 {
     "key": "csp_Y360",
-    "name": "更新日期:【侏罗纪】",
+    "name": "🎬┣热门┫10.05",
     "type": 3,
     "api": "csp_Y360Amns",
     "ext": "Y360"
 },
 {
-    "key": "csp_NewGrV2",
-    "name": "🚀秋天┃秒播",
+    "key": "WexAiYueYue",
+    "name": "🚀┃悦月┃秒播",
     "type": 3,
     "api": "csp_NewGrV2Amns",
     "ext": "NewGrV2"
 },
 {
-    "key": "csp_Rbys",
+    "key": "WexAiReBo",
     "name": "⭐热播┃快速",
     "type": 3,
     "api": "csp_RbysAmns",
     "ext": "Rbys"
 },
 {
-    "key": "csp_Dubk",
-    "name": "⭐杜北┃秒播",
+    "key": "WexAiDuBoKu",
+    "name": "⭐独播┃秒播",
     "type": 3,
     "api": "csp_DubkAmns",
     "ext": "Dubk"
 },
 {
-    "key": "csp_Hxq",
+    "key": "WexHanXiaoQuan",
     "name": "🚀韩剧┃秒播",
     "type": 3,
     "api": "csp_HxqAmns",
     "changeable": 1
 },
 {
-    "key": "csp_Guazi",
+    "key": "WexAiGuaZi",
     "name": "🚀瓜子┃秒播",
     "type": 3,
     "api": "csp_GuaziAmns",
     "ext": "Guazi"
 },
 {
-    "key": "csp_JinPai",
+    "key": "WexAiWenCai",
     "name": "🚀金牌┃秒播",
     "type": 3,
     "api": "csp_JinPaiAmns",
@@ -145,7 +145,7 @@
     "ext": "JPian"
 },
 {
-    "key": "csp_AiBot",
+    "key": "WexAiIkanBot",
     "name": "⭐爱看┃采集",
     "type": 3,
     "api": "csp_AiBotAmns",
@@ -157,6 +157,27 @@
     "type": 3,
     "api": "csp_AiGuaAmns",
     "changeable": 1
+},
+{
+    "key": "WexAiYiYs",
+    "name": "💥伊影┃秒播💥",
+    "type": 3,
+    "api": "csp_WexAiYiYsGuard",
+    "changeable": 0
+},
+{
+    "key": "WexAiBoBo",
+    "name": "🎇伯伯┃秒播🎇",
+    "type": 3,
+    "api": "csp_WexAiBoBoGuard",
+    "changeable": 0
+},
+{
+    "key": "WexFengYe4K",
+    "name": "💥小枫┃秒播💥",
+    "type": 3,
+    "api": "csp_WexFengYe4KGuard",
+    "changeable": 0
 },
 {
     "key": "Woshinidie",
