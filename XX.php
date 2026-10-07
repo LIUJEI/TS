@@ -54,11 +54,11 @@
     "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/色花堂.php"
 },
 {
-      "key": "野鸡🐔TV",
-      "name": "撸铁🥥野鸡",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/野鸡TV.php"
+    "key": "野鸡🐔TV",
+    "name": "撸铁🥥野鸡",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/野鸡TV.php"
 },
 {
     "key": "Free",
@@ -76,7 +76,7 @@
 },
 {
     "key": "熊猫",
-    "name": "🔞丨熊猫",
+    "name": "箐箐🍀熊猫",
     "type": 3,
     "api": "csp_XMVideo",
     "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/熊猫.jar"
