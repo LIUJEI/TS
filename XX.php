@@ -26,6 +26,13 @@
     "order_num": 5
 },
 {
+    "key": "九合一版",
+    "name": "瑟瑟🥥聚合",
+    "type": 3,
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TB@main/XB/聚合.py",
+    "order_num": 5
+},
+{
     "key": "妲己[密]",
     "name": "撸铁🥥妲己",
     "type": 3,
