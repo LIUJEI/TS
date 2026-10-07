@@ -1,20 +1,17 @@
 #    🍓GitHub 大佬接口 
 
-* 摸鱼线路："http://我不是.摸鱼儿.com"
+* 摸鱼线路："http://www.y456y.com"
 
 * 潇洒线路："https://qist.ugigc.dpdns.org/xiaosa/api.json"
 
-* 小米线路："https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json"
-
 * 嗷呜线路："https://9763.kstore.space/aowu.json"
 
-* 多多线路："https://yydsys.netlify.app/config.json"
+* 王二线路："https://9280.kstore.vip/aiwex.json"
 
-* 刘公子线："https://gzy.lzo.publicvm.com"
+* 萝卜线路："https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/svip.json"
 
-* 巧技线路："http://cdn.qiaoji8.com/tvbox.json"
+* 小米线路："https://cnb.cool/xiaomi666888/devcontainer/-/git/raw/main/gege.json"
 
-* 肥猫线路："https://jk.catvod.site/"
 
 #    ⚙️GitHub代理加速服务
 
