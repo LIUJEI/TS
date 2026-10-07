@@ -82,16 +82,6 @@
     "jar": "https://cnb.cool/luotao-dev/tvbo/-/git/raw/main/jar/熊猫.jar"
 },
 {
-    "key": "dadiapi.com",
-    "name": "🔞丨大地",
-    "type": 0,
-    "api": "http://dadiapi.com/api.php",
-    "style": {"type": "rect","ratio": 1.33},
-    "header": {
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-    "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}
-},
-{
     "key": "采集G(滴滴)",
     "name": "箐箐🍀滴滴",
     "type": 1,
@@ -101,7 +91,7 @@
 },
 {
     "key": "bhziyuan",
-    "name": "🔞丨百花",
+    "name": "箐箐🍀百花",
     "type": 1,
     "api": "https://bhziyuan.com/api.php/provide/vod/",
     "searchable": 1,
@@ -109,26 +99,8 @@
     "filterable": 1
 },
 {
-    "key": "heiliaozyapi",
-    "name": "🔞丨黑料",
-    "type": 1,
-    "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
-    "key": "黄色仓库资源",
-    "name": "🔞丨黄色",
-    "type": 1,
-    "api": "https://hsckzy888.com/api.php/provide/vod/",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-},
-{
     "key": "vnzyz",
-    "name": "🔞丨越南",
+    "name": "箐箐🍀越南",
     "type": 1,
     "api": "https://vnzyz.com/api.php/provide/vod",
     "searchable": 1,
@@ -137,19 +109,11 @@
 },
 {
     "key": "*91麻豆2🔞",
-    "name": "🔞丨麻豆",
+    "name": "箐箐🍀麻豆",
     "type": 1,
     "api": "http://www.9191md.me/api.php/provide/vod/",
     "searchable": 1,
     "quickSearch": 1
-},
-{
-    "key": "采集G(辣椒)",
-    "name": "箐箐🍀辣椒",
-    "type": 0,
-    "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
-    "searchable": 1,
-    "recordable": 0
 },
 {
     "key": "采集G(杏吧资源)",
@@ -169,22 +133,6 @@
     "filterable": 0
 },
 {
-    "key": "采集G(喇叭)",
-    "name": "箐箐🍀喇叭",
-    "type": 0,
-    "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
-    "searchable": 1,
-    "changeable": 1
-},
-{
-    "key": "采集G(红桃)",
-    "name": "箐箐🍀红桃",
-    "type": 1,
-    "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
-    "searchable": 1,
-    "changeable": 1
-},
-{
     "key": "jkunzy.com",
     "name": "箐箐🍀窘困",
     "type": 1,
@@ -201,14 +149,6 @@
     "changeable": 1
 },
 {
-    "key": "laosebizy.com",
-    "name": "箐箐🍀色逼",
-    "type": 1,
-    "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
-    "searchable": 1,
-    "filterable": 1
-},
-{
     "key": "xjzyapi.xyz",
     "name": "箐箐🍀小鸡",
     "type": 1,
@@ -216,184 +156,88 @@
     "searchable": 1,
     "changeable": 1
 },
-    {
-      "key": "hsckzy.cc/help",
-      "name": "箐箐🍀黄色",
-      "type": 1,
-      "api": "https://hsckzy.vip/api.php/provide/vod/from/hsckm3u8/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "heiliaozy.com",
-      "name": "箐箐🍀黑料",
-      "type": 1,
-      "api": "https://heiliaozyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "laosebizy.com",
-      "name": "箐箐🍀色逼",
-      "type": 1,
-      "api": "https://apilsbzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "xxibaozyw.com",
-      "name": "箐箐🍀细胞",
-      "type": 1,
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "danaizi.com",
-      "name": "箐箐🍀奶子",
-      "type": 1,
-      "api": "https://apidanaizi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "采集B(玉兔)资源",
-      "name": "箐箐🍀玉兔",
-      "type": 1,
-      "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "采集C(番外)资源",
-      "name": "箐箐🍀橘猫",
-      "type": 1,
-      "api": "http://fhapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "采集A(小地)资源",
-      "name": "箐箐🍀草瘤",
-      "type": 0,
-      "api": "https://dadiapi.com/api.php",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "采集G(香蕉资源)",
-      "name": "箐箐🍀香蕉1",
-      "type": 0,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
-      "key": "xiangjiaozyw.com",
-      "name": "箐箐🍀香蕉2",
-      "type": 1,
-      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "采集G(森林)",
-      "name": "箐箐🍀森林1",
-      "type": 1,
-      "api": "https://beiyong.slapibf.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "森林专场",
-      "name": "箐箐🍀森林2",
-      "type": 1,
-      "api": "https://slapibf.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "大地资源2",
-      "name": "箐箐🍀大地2",
-      "type": 0,
-      "api": "https:dadiapi.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "大地资源3",
-      "name": "箐箐🍀大地3",
-      "type": 0,
-      "api": "https:dadiapi.com/apple_m3u8.php",
-      "playUrl": "https:play.dadiapi.com/watch?url=",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "番号资源1",
-      "name": "箐箐🍀番号1",
-      "type": 1,
-      "api": "http:fhapi9.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "番号资源2",
-      "name": "箐箐🍀番号2",
-      "type": 0,
-      "api": "http:fhapi9.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "番号资源3",
-      "name": "箐箐🍀番号3",
-      "type": 1,
-      "api": "http:fhapi9.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "番号资源4",
-      "name": "箐箐🍀番号4",
-      "type": 1,
-      "api": "http:fhapi9.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "乐播资源1",
-      "name": "箐箐🍀乐播1",
-      "type": 1,
-      "api": "http://lbapiby.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "乐播资源2",
-      "name": "箐箐🍀乐播2",
-      "type": 1,
-      "api": "http://lbapiby.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "采集G(乐播)",
-      "name": "箐箐🍀乐播3",
-      "type": 0,
-      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "乐播资源4",
-      "name": "箐箐🍀乐播4",
-      "type": 1,
-      "api": "https:lbapi9.com/api.php/provide/vod/at/json/",
-      "searchable": 1,
-      "changeable": 1
-    },
+{
+    "key": "采集G(红桃)",
+    "name": "箐箐🍀红桃",
+    "type": 1,
+    "api": "https://apidanaizi.com/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "黄色仓库资源",
+    "name": "箐箐🍀黄仓",
+    "type": 1,
+    "api": "https://hsckzy888.com/api.php/provide/vod/",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "hsckzy.cc/help",
+    "name": "箐箐🍀黄色",
+    "type": 1,
+    "api": "https://hsckzy.vip/api.php/provide/vod/from/hsckm3u8/",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "heiliaozyapi",
+    "name": "撸铁🥥黑料",
+    "type": 1,
+    "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+},
+{
+    "key": "heiliaozy.com",
+    "name": "箐箐🍀黑料",
+    "type": 1,
+    "api": "https://heiliaozyapi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "laosebizy.com",
+    "name": "箐箐🍀色逼",
+    "type": 1,
+    "api": "https://apilsbzy.com/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "danaizi.com",
+    "name": "箐箐🍀奶子",
+    "type": 1,
+    "api": "https://apidanaizi.com/api.php/provide/vod/",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "采集B(玉兔)资源",
+    "name": "箐箐🍀玉兔",
+    "type": 1,
+    "api": "https://apiyutu.com/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "采集C(番外)资源",
+    "name": "箐箐🍀橘猫",
+    "type": 1,
+    "api": "http://fhapi9.com/api.php/provide/vod/",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "乐播资源",
+    "name": "箐箐🍀乐播",
+    "type": 1,
+    "api": "https:lbapi9.com/api.php/provide/vod/at/json/",
+    "searchable": 1,
+    "changeable": 1
+},
 {
     "key": "doudouzy.com",
     "name": "箐箐🍀豆豆",
@@ -402,26 +246,36 @@
     "searchable": 1,
     "filterable": 1
 },
-    {
-      "key": "10",
-      "name": "📛精选自用且免费📛",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
-    },
-    {
-      "key": "11",
-      "name": "📛请勿付费使用📛",
-      "api": "1",
-      "type": 3,
-      "filterable": 0,
-      "quickSearch": 0,
-      "searchable": 0
-    }
-  ],
-  "parses": [
+{
+    "key": "dadiapi.com",
+    "name": "箐箐🍀大地",
+    "type": 0,
+    "api": "http://dadiapi.com/api.php",
+    "style": {"type": "rect","ratio": 1.33},
+    "header": {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+    "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}
+},
+{
+    "key": "10",
+    "name": "📛精选自用且免费📛",
+    "api": "1",
+    "type": 3,
+    "filterable": 0,
+    "quickSearch": 0,
+    "searchable": 0
+},
+{
+    "key": "11",
+    "name": "📛请勿付费使用📛",
+    "api": "1",
+    "type": 3,
+    "filterable": 0,
+    "quickSearch": 0,
+    "searchable": 0
+}
+],
+"parses": [
     {
       "name": "Json聚合",
       "type": 3,
