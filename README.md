@@ -64,14 +64,3 @@
 
              源名	                         链接
              
-         🌏Global直播源        https://live.fanmingming.cn/tv/m3u/global.m3u
-
-         📺IPTV(IPV6)          https://live.fanmingming.cn/tv/m3u/ipv6.m3u
-
-         📻Radio电台源         https://live.fanmingming.cn/radio/m3u/index.m3u
-
-
-
-🦜🦜🦜🦜🦜🦜
-
-![pexels-pixabay-210186](https://github.com/alantang1977/X/assets/107459091/a3948131-dc5f-4089-805a-272248a98b82)
