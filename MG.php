@@ -5,14 +5,14 @@
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
 {
-    "key": "csp_Douban",
+    "key": "WexAiDouban",
     "name": "🎬┣豆瓣┫首页",
     "type": 3,
     "api": "csp_DoubanAmns",
     "ext": "Douban"
 },
 {
-    "key": "csp_Y360",
+    "key": "WexAiY360",
     "name": "🎬┣热门┫10.05",
     "type": 3,
     "api": "csp_Y360Amns",
@@ -131,14 +131,14 @@
     "ext": "AppV7Dsx"
 },
 {
-    "key": "csp_Czzy",
+    "key": "WexAiCzzy",
     "name": "🛸厂长┃2K",
     "type": 3,
     "api": "csp_CzzyAmns",
     "ext": "Czzy"
 },
 {
-    "key": "csp_JPian",
+    "key": "WexAiJPian",
     "name": "⭐荐片┃快速",
     "type": 3,
     "api": "csp_JPianAmns",
@@ -152,7 +152,7 @@
     "changeable": 1
 },
 {
-    "key": "csp_AiGua",
+    "key": "WexAiGua",
     "name": "🌍爱瓜┃墙外",
     "type": 3,
     "api": "csp_AiGuaAmns",
@@ -188,49 +188,49 @@
     "changeable": 1
 },
 {
-    "key": "csp_HHkk",
+    "key": "WexAiHHkk",
     "name": "📽️豪堪┃短剧",
     "type": 3,
     "api": "csp_HHkkAmns",
     "genre": "shortdrama"
 },
 {
-    "key": "csp_Bddj",
+    "key": "WexAiBddj",
     "name": "📽️拜拜┃短剧",
     "type": 3,
     "api": "csp_BddjAmns",
     "genre": "shortdrama"
 },
 {
-    "key": "csp_Wgdj",
+    "key": "WexAiWgdj",
     "name": "📽️围观┃短剧",
     "type": 3,
     "api": "csp_WgdjAmns",
     "genre": "shortdrama"
 },
 {
-    "key": "csp_Qmdj",
+    "key": "WexAiQmdj",
     "name": "📽️喵喵┃短剧",
     "type": 3,
     "api": "csp_QmdjAmns",
     "genre": "shortdrama"
 },
 {
-    "key": "csp_Xydj",
+    "key": "WexAiXydj",
     "name": "📽️星星┃短剧",
     "type": 3,
     "api": "csp_XydjAmns",
     "genre": "shortdrama"
 },
 {
-    "key": "csp_Hema",
+    "key": "WexAiHema",
     "name": "📽️盒马┃短剧",
     "type": 3,
     "api": "csp_HemaAmns",
     "genre": "shortdrama"
 },
 {
-    "key": "csp_Hgdh",
+    "key": "WexAiHgdh",
     "name": "🔥短剧┃推荐",
     "type": 3,
     "api": "csp_HgdhAmns",
@@ -238,7 +238,7 @@
     "ext": "Hgdh"
 },
 {
-    "key": "csp_DjHggg",
+    "key": "WexAiDjHggg",
     "name": "📽️嗷嗚┃短剧",
     "type": 3,
     "api": "csp_HgggAmns",
