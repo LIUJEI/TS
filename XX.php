@@ -183,7 +183,7 @@
 },
 {
     "key": "heiliaozyapi",
-    "name": "撸铁🥥黑料",
+    "name": "撸铁🍀黑料",
     "type": 1,
     "api": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
     "searchable": 1,
