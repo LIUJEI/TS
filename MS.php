@@ -919,10 +919,15 @@
 	
 "lives": [
 {
-    "name": "📺芸芸直播",
+    "name": "📺芸芸💓直播",
+    "type":0,
+    "url":"https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/lib/芸直播.txt",
+    "changeable": 0
+},
+{
+    "name": "📺咪咕💓直播",
     "type": 0,
-    "url": "https://gitee.com/lyun_1_0/tb/raw/master/芸直播.txt",
-    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-    "logo": "https://epg.112114.eu.org/logo/{name},png"
+    "url": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/lib/migu.txt",
+    "changeable": 0
 }],
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
