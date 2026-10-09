@@ -408,7 +408,7 @@
     "name": "🆚┃騰訊┃ TV",
     "type": 3,
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/libs/drpy2.js",
-    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/TS/TS/QQtv.js"
+    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/TS/QQtv.js"
 },
 {
     "key": "dr_芒果",
