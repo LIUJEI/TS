@@ -1,6 +1,8 @@
 {
   "warningText":"💕永久完全免费，切勿付费购买💕",  
   "spider": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MX.jar;md5;ED4E4501BB2475CECAF207904EFB6E63",
+  "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
 {
   "key": "🈲",
