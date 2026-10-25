@@ -1,10 +1,10 @@
 {"storeHouse": [
 {
     "sourceName": "①🍱稳定仓🍭长期有效🍭",
-    "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/drpy/AB.php"
+    "sourceUrl": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/drpy/AB.php"
 },
 {
     "sourceName": "③🎎网友仓🍭短期有效🍭",
-    "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/LIUJEI/TS/main/drpy/CC.php"
+    "sourceUrl": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/drpy/CC.php"
 }
 ]}
