@@ -1,5 +1,5 @@
 {
-  "spider": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MG.jar;md5;71BEB2726B6E3329814C3F43D9A562CD",
+  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MG.jar;md5;71BEB2726B6E3329814C3F43D9A562CD",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
@@ -13,7 +13,7 @@
 },
 {
     "key": "WexAiY360",
-    "name": "🎬┣热门┫10.06",
+    "name": "🎬┣热门┫10.25",
     "type": 3,
     "api": "csp_Y360Amns",
     "ext": "Y360"
@@ -157,26 +157,6 @@
     "type": 3,
     "api": "csp_AppV7Amns",
     "ext": "AppV7Xyz"
-},
-{
-    "key": "葫芦",
-    "name": "🧱┃葫芦┃秒播",
-    "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/Qi.js",
-    "ext": {
-    "host": "http://v12-1-hulucms.nmgzxrl.com",
-    "key": "8R33VQSxzmCaHpEX",
-    "ua": "okhttp/3.10.0",
-    "init": "V122",
-    "api": 2}
-},
-{
-    "key": "Woshinidie",
-    "name": "🧱┃橘汁┃秒播",
-    "type": 3,
-    "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
-    "api": "csp_Woshinidie",
-    "changeable": 1
 },
 {
     "key": "WexAiHHkk",
@@ -334,118 +314,6 @@
     "genre": "music"
 },
 {
-    "key": "csp_MyConfig",
-    "name": "💼┃配置┃中心",
-    "type": 3,
-    "api": "csp_AAConfigAmns",
-    "indexs": 0
-},
-{
-    "key": "csp_MyAll",
-    "name": "💼┃资源┃中心",
-    "type": 3,
-    "api": "csp_MyAllAmns",
-    "indexs": 0
-},
-{
-    "key": "csp_woWogg",
-    "name": "💯┃玩偶┃4K",
-    "type": 3,
-    "api": "csp_WoggAmns",
-    "ext": "woWogg"
-},
-{
-    "key": "csp_moWobg",
-    "name": "💯┃木偶┃4K",
-    "type": 3,
-    "api": "csp_WobgAmns",
-    "ext": "moWobg"
-},
-{
-    "key": "csp_PanHj",
-    "name": "💯┃花卷┃4K",
-    "type": 3,
-    "api": "csp_PanHjAmns",
-    "ext": "PanHj"
-},
-{
-    "key": "csp_ddWobg",
-    "name": "💯┃多多┃4K",
-    "type": 3,
-    "api": "csp_WobgAmns",
-    "ext": "ddWobg"
-},
-{
-    "key": "csp_hbWobg",
-    "name": "💯┃虎斑┃4K",
-    "type": 3,
-    "api": "csp_WobgAmns",
-    "ext": "hbWobg"
-},
-{
-    "key": "csp_SheQuyd",
-    "name": "💯┃逸动┃4K",
-    "type": 3,
-    "api": "csp_SheQuydAmns",
-    "changeable": 1
-},
-{
-    "key": "csp_Qiwei",
-    "name": "💯┃七味┃4K",
-    "type": 3,
-    "api": "csp_QiweiAmns",
-    "ext": "Qiwei"
-},
-{
-    "key": "csp_SheQuwon",
-    "name": "💯┃蜗牛┃4K",
-    "type": 3,
-    "api": "csp_SheQuwonAmns",
-    "changeable": 1
-},
-{
-    "key": "dr_腾迅",
-    "name": "🆚┃騰訊┃ TV",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/libs/drpy2.js",
-    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/TS/QQtv.js"
-},
-{
-    "key": "dr_芒果",
-    "name": "🆚┃芒果┃ TV",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/libs/drpy2.js",
-    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/TS/MGtv.js"
-},
-{
-    "key": "dr_奇异",
-    "name": "🆚┃奇藝┃ TV",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/libs/drpy2.js",
-    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/TS/AQItv.js"
-},
-{
-    "key": "dr_优酷",
-    "name": "🆚┃優酷┃ TV",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/libs/drpy2.js",
-    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/TS/yKtv.js"
-},
-{
-    "key": "dr_哔哩视频",
-    "name": "🆚┃嗶哩┃ TV",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/libs/drpy2.js",
-    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/TS/bili.js"
- },
- {
-    "key": "dr_搜狗",
-    "name": "🆚┃搜狗┃ TV",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/libs/drpy2.js",
-    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/TS/SGtv.js"
-},
-{
     "key": "liuliys",
     "name": "🇨🇳┣☪琉✿璃┫专用",
     "type": 3,
@@ -454,12 +322,11 @@
 },
 {
     "key": "csp_Market",
-    "name": "🇨🇳┣☪版✿本┫信息",
+    "name": "🇨🇳┣☪琉✿璃┫公告",
     "type": 3,
-    "api": "csp_Market",
-    "indexs": 0,
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/single.png",
-    "jar" : "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MS.jar"
+    "api": "csp_Notice",
+    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/liuli.php",
+    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/公告.php"
 }
 ],
 "parses": [	
@@ -496,12 +363,6 @@
     "name": "📺芸芸💓直播",
     "type":0,
     "url":"https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/lib/芸直播.txt",
-    "changeable": 0
-},
-{
-    "name": "📺咪咕💓直播",
-    "type": 0,
-    "url": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/lib/migu.txt",
     "changeable": 0
 }],
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
