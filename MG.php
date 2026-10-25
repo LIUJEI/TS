@@ -201,21 +201,6 @@
     "genre": "shortdrama"
 },
 {
-    "key": "WexAiHgdh",
-    "name": "🔥┃短剧┃推荐",
-    "type": 3,
-    "api": "csp_HgdhAmns",
-    "genre": "shortdrama",
-    "ext": "Hgdh"
-},
-{
-    "key": "WexAiDjHggg",
-    "name": "📽️┃嗷嗚┃短剧",
-    "type": 3,
-    "api": "csp_HgggAmns",
-    "genre": "shortdrama"
-},
-{
     "name": "🐿┃番薯┃动漫",
     "key": "DMfans",
     "type": 3,
