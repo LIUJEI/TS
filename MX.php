@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
   "warningText":"💕永久完全免费，切勿付费购买💕",  
-  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar;md5;ED4E4501BB2475CECAF207904EFB6E63",
+  "spider": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MS.jar;md5;98736d1596db04ff58b0a2905116c8ae",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
 
@@ -17,141 +17,114 @@
     "indexs": 0
 },
 {
-    "key": "js_mohe",
-    "name": "🎬┣魔盒┫公告",
+    "key": "ConfigCenter",
+    "name": "🎬┣公告┫信息",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/魔盒.js"
-},
-{
-    "key":"spider_2097848346373787648",
-    "name":"🈚┃热播┃C4T",
-    "type":4,
-    "api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848346373787648?token=banye666",
-    "filterable":0
-},
-{
-    "key":"spider_2097848347502055424",
-    "name":"🈚┃天堂┃C4T",
-    "type":4,
-    "api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848347502055424?token=banye666",
-    "filterable":0
-},
-{
-    "key":"csp_影探",
-    "name":"🈚┃影探┃C4K",
-    "type":4,
-    "api":"http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list",
-    "indexs": 0
-},
-{
-    "key":"csp_未来",
-    "name":"🈚┃未来┃C4K",
-    "type":1,
-    "api":"http://110.42.66.100:12678/api.php",
-    "playUrl":"json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
-    "indexs": 0
-},
-{
-    "key": "dr_txvm",
-    "name": "🆚┃腾讯┃RTV",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/QQtv.js"
-},
-{
-    "key": "dr_iqiyi",
-    "name": "🆚┃奇艺┃RTV",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/AQItv.js"
-},
-{
-    "key": "dr_MGtv",
-    "name": "🆚┃芒果┃RTV",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/MGtv.js"
-},
-{
-    "key": "dr_SGtv",
-    "name": "🆚┃搜狗┃RTV",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/SGtv.js"
-},
-{
-    "key": "dr_YK",
-    "name": "🆚┃优酷┃RTV",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/yKtv.py"
-},
-{
-    "key": "dr_360",
-    "name": "🆚┃叁陆┃RTV",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/360.js"
-},
-{
-    "key": "dr_bili",
-    "name": "🆚┃嗶哩┃视频",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/bili.js"
-},
-{
-    "key": "dr_huashu",
-    "name": "🆚┃华数┃视频",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/华数.js"
-},
-{
-    "key": "dr_xigua",
-    "name": "🆚┃西瓜┃视频",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/西瓜.js"
+    "api": "csp_Notice",
+    "jar": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/lib/liuli.php",
+    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/lib/公告.php"
 },
 {
     "key": "js_腾讯视频",
-    "name": "🆚┃企鹅┃视频",
+    "name": "🆘┃企鹅┃C4K",
     "type": 3,
     "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/qq4K.js"
 },
 {
-    "key": "dr_1234影视",
-    "name": "🆚┃四季┃影視",
+    "key": "dr_小山影视",
+    "name": "🆘┃山楂┃C4K",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/四季.js"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/小山.js"
 },
 {
-    "key": "dr_奇优影视",
-    "name": "🆚┃奇优┃影視",
+    "key": "dr_影探",
+    "name": "🆘┃影探┃C4K",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/奇优.js"
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/影探.py"
+},
+{
+    "key": "dr_咕噜",
+    "name": "🆘┃咕噜┃C4K",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/咕噜.py"
+},
+{
+    "key": "js_mohe",
+    "name": "🈴┃魔盒┃首页",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/魔盒.js"
+},
+{
+    "key": "js_mohezb",
+    "name": "🈴┃魔盒┃直播",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/lib/MHzb.js"
 },
 {
     "key": "dr_MTYY",
-    "name": "🆚┃麥田┃影視",
+    "name": "🆚┃麥田┃秒播",
     "type": 3,
     "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/麥田.js"
 },
 {
    "key": "dr_饭团",
-   "name": "🆚┃饭团┃影視",
+   "name": "🆚┃饭团┃秒播",
    "type": 3,
    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/饭团.js"
 },
 {
-    "key": "dr_极速",
-    "name": "🆚┃极速┃影視 ",
+    "key": "dr_小苹果",
+    "name": "🆚┃苹果┃秒播",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/极速.js"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/苹果.js"
 },
 {
-    "key": "dr_茶杯狐",
-    "name": "🆚┃茶杯┃影視",
+    "key": "dr_人人视频",
+    "name": "🆚┃人人┃秒播",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/茶杯.js"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/人人.js"
 },
 {
-    "key": "dr_maple",
-    "name": "🆚┃枫叶┃影視",
+    "key": "dr_剧下饭",
+    "name": "🆚┃下饭┃秒播",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/枫叶.js"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/下饭.js"
+},
+{
+    "key": "dr_追剧影视",
+    "name": "🆚┃追剧┃秒播",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/追剧.js"
+},
+{
+    "key": "hanxiaoquan",
+    "name": "🆚┃韩圈┃秒播 ",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/韩圈.js"
+},
+{
+    "key": "dr_1234影视",
+    "name": "🆚┃四季┃秒播",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/四季.js"
+},
+{
+    "key": "dr_奇优影视",
+    "name": "🆚┃奇优┃秒播",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/奇优.js"
+},
+{
+    "key": "dr_王子TV",
+    "name": "🆚┃王子┃秒播",
+    "type": 3,
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/YS/王子.js"
+},
+{
+    "key": "dr_小鸡",
+    "name": "🆚┃小鸡┃影視",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/小鸡.py"
 },
 {
    "key": "dr_duoduo",
@@ -178,16 +151,22 @@
     "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/厂长.js"
 },
 {
-    "key": "bajieyingshi",
-    "name": "🆚┃八戒┃影視 ",
+    "key": "dr_极速",
+    "name": "🆚┃极速┃影視 ",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/八戒.js"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/极速.js"
 },
 {
-    "key": "hanxiaoquan",
-    "name": "🆚┃韩圈┃影視 ",
+    "key": "dr_茶杯狐",
+    "name": "🆚┃茶杯┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/韩圈.js"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/茶杯.js"
+},
+{
+    "key": "dr_maple",
+    "name": "🆚┃枫叶┃影視",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/枫叶.js"
 },
 {
     "key": "dr_硬核影视",
@@ -212,12 +191,6 @@
     "name": "🆚┃农民┃影視",
     "type": 3,
     "api":"https://gitee.com/lyun_1_0/tb/raw/master/YS/农民.js"
-},
-{
-    "key": "dr_王子TV",
-    "name": "🆚┃王子┃影視",
-    "type": 3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/YS/王子.js"
 },
 {
     "key": "dr_优夏",
@@ -256,47 +229,16 @@
     "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/飞快.js"
 },
 {
-    "key": "dr_人人视频",
-    "name": "🆚┃人人┃影視",
+    "key": "dr_白嫖鸭",
+    "name": "🆚┃嫖鸭┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/人人.js"
-},
-{
-    "key": "dr_橘汁",
-    "name": "🆚┃橘汁┃影視",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/橘汁.js"
-},
-{
-    "key": "dr_剧下饭",
-    "name": "🆚┃下饭┃影視",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/下饭.js"
-},
-{
-    "key": "dr_小苹果",
-    "name": "🆚┃苹果┃影視",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/苹果.js"
-},
-{
-    "key": "dr_蝴蝶影视",
-    "name": "🆚┃蝴蝶┃影視",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/蝴蝶.js"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/嫖鸭.js"
 },
 {
     "key": "dr_猎手影视",
     "name": "🆚┃猎手┃影視",
     "type": 3,
     "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/猎手.js"
-},
-{
-    "key": "dr_追剧影视",
-    "name": "🆚┃追剧┃影視",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/追剧.js",
-    "ext": ""
 },
 {
     "key": "dr_加菲猫",
@@ -311,227 +253,245 @@
     "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/云播.js"
 },
 {
-    "key": "dr_初见",
-    "name": "🆘┃初见┃RPY",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/TY/初见.py"
-},
-{
     "key": "dr_开端",
-    "name": "🆘┃开端┃RPY",
+    "name": "🆚┃开端┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/TY/开端.py"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/开端.js"
 },
 {
     "key":"dr_看戏影视",
-    "name":"🆘┃看戏┃RPY",
+    "name":"🆚┃看戏┃影視",
     "type": 3,
-    "api":"https://gitee.com/lyun_1_0/TS/raw/main/TY/看戏.py"
+    "api":"https://gitee.com/lyun_1_0/tb/raw/master/YS/看戏.js"
 },
 {
     "key": "dr_达达兔",
-    "name": "🆘┃达兔┃RPY",
+    "name": "🆚┃达兔┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/TY/达兔.py"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/达兔.js"
 },
 {
     "key": "dr_鬼片",
-    "name": "🆘┃鬼片┃RPY",
+    "name": "🆚┃鬼片┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/TY/鬼片.py"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/鬼片.js"
 },
 {
-    "key": "dr_咕噜",
-    "name": "🆘┃咕噜┃RPY",
+    "key": "青麦影视",
+    "name": "🆚┃青麦┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/TY/咕噜.py"
-},
-{
-    "key": "dr_影探",
-    "name": "🆘┃影探┃Rpy",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/TY/影探.py"
-},
-{
-    "key": "青鸟影视",
-    "name": "🆘┃青鸟┃RPY",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/TY/青鸟.py"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/青麦.js"
 },
 {
     "key": "开心影视",
-    "name": "🆘┃开心┃RPY",
+    "name": "🆚┃开心┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/TY/开心.py"
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/开心.js"
+},
+{
+    "key": "dr_txvm",
+    "name": "🆚┃腾讯┃RTV",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/QQtv.js"
+},
+{
+    "key": "dr_iqiyi",
+    "name": "🆚┃奇艺┃RTV",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/AQItv.js"
+},
+{
+    "key": "dr_MGtv",
+    "name": "🆚┃芒果┃RTV",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/MGtv.js"
+},
+{
+    "key": "dr_YK",
+    "name": "🆚┃优酷┃RTV",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/yKtv.py"
+},
+{
+    "key": "dr_360",
+    "name": "🆚┃叁陆┃视频",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/360.js"
+},
+{
+    "key": "dr_bili",
+    "name": "🆚┃嗶哩┃视频",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/bili.js"
+},
+{
+    "key": "dr_huashu",
+    "name": "🆚┃华数┃视频",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/华数.js"
+},
+{
+    "key": "dr_xigua",
+    "name": "🆚┃西瓜┃视频",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YS/西瓜.js"
 },
 {
     "key": "dr_星芽[短]",
     "name": "🈺┃星芽┃短剧",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/DJ/星芽.js"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/du/星芽.js"
 },
 {
-    "key": "py_好看[短]",
+    "key": "dr_好看[短]",
     "name": "🈺┃看好┃短剧",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/DJ/好看.js"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/du/好看.js"
 },
 {
     "key" : "dr_小酷[短]", 
     "name" : "🈺┃小酷┃短剧", 
     "type" : 3, 
-    "api" : "https://gitee.com/lyun_1_0/tb/raw/master/DJ/小酷.js"
+    "api" : "https://gitee.com/lyun_1_0/TS/raw/main/du/小酷.js"
 },
 {
     "key" : "dr_花生[短]", 
     "name" : "🈺┃花生┃短剧", 
     "type" : 3, 
-    "api" : "https://gitee.com/lyun_1_0/tb/raw/master/DJ/花生.js"
+    "api" : "https://gitee.com/lyun_1_0/TS/raw/main/du/花生.js"
 },
 {
     "key": "dr_hongguo[短]",
     "name": "🈺┃红果┃短剧",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/DJ/红果.py"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/du/红果.py"
 },
 {
     "key": "dr_WUSENG[短]",
     "name": "🈺┃悟圣┃短剧",
     "type": 3,
-    "api" : "https://gitee.com/lyun_1_0/tb/raw/master/DJ/悟圣.js"
+    "api" : "https://gitee.com/lyun_1_0/TS/raw/main/du/悟圣.js"
 },
 {
     "key": "dr_喜福[短]",
     "name": "🈺┃喜福┃短剧",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/DJ/喜福.js"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/du/喜福.js"
 },
 {
     "key": "dr_牛牛[短]",
     "name": "🈺┃牛牛┃短剧",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/DJ/牛牛.js"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/du/牛牛.js"
 },
 {
     "key": "dr_duodu[短]",
     "name": "🈺┃嘟嘟┃短剧",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/DJ/嘟嘟.js"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/du/嘟嘟.js"
 },
 {
     "key": "dr_七猫[短]",
     "name": "🈺┃七猫┃短剧",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/DJ/七猫.js"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/du/七猫.js"
 },
 {
     "key": "dr_西饭[短]",
     "name": "🈺┃西饭┃短剧",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/DJ/西饭.js"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/du/西饭.js"
 },
 {
-    "key": "dr_妞妞[短]",
-    "name": "🈺┃妞妞┃短剧",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/DJ/妞妞.py"
-},
-{
-    "key":"zhuiju",
+    "key":"dr_zhuiju",
     "name":"🈺┃追剧┃短剧",
     "type":3,
-    "api":"csp_XBPQ",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/DJ/追剧.json"
+    "api":"https://gitee.com/lyun_1_0/TS/raw/main/du/追剧.js",
+    "ext":""
 },
 {
-    "key":"hhhdj",
+    "key":"dr_hhhdj",
     "name":"🈺┃护航☆短剧",
     "type":3,
-    "api":"csp_XBPQ",
-    "ext":"https://gitee.com/lyun_1_0/tb/raw/master/DJ/护航.json"
+    "api":"https://gitee.com/lyun_1_0/TS/raw/main/du/护航.js",
+    "ext":""
 },
 {
-    "key": "短剧大全",
-    "name": "🈺┃大全☆短剧",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/DJ/大全.json"
-},
-{
-    "key": "巴士[短]",
+    "key": "dr_巴士[短]",
     "name": "🈺┃巴适☆短剧",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/DJ/巴士.py"
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/du/巴士.js"
 },
 {
     "key":"dr_酷狗",
     "name":"🈸┃酷狗┃音乐",
     "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/YY/酷狗.js",
+    "api":"https://gitee.com/lyun_1_0/TS/raw/main/YY/酷狗.js",
     "changeable":0
 },
 {
     "key":"dr_酷我音乐",
     "name":"🈸┃酷我┃音乐",
     "type":3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/YY/酷我.js",
+    "api":"https://gitee.com/lyun_1_0/TS/raw/main/YY/酷我.js",
     "changeable":0
 },
 {
     "key": "dr_tinghyy",
     "name": "🈸┃听海┃音乐",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/tb/raw/master/YY/听海.js",
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YY/听海.js",
     "indexs" : 0
 },
 {
     "key":"dr_聚合音乐",
     "name":"🈸┃聚合┃音乐",
     "type": 3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/YY/聚合.js",
+    "api":"https://gitee.com/lyun_1_0/TS/raw/main/YY/聚合.js",
     "changeable":0
 },
 {
     "key":"dr_千千音乐",
     "name":"🈸┃千千┃音乐",
     "type": 3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/YY/千千.py",
+    "api":"https://gitee.com/lyun_1_0/TS/raw/main/YY/千千.js",
     "changeable":0
 },
 {
     "key":"dr_轻音乐",
     "name":"🈸┃箐箐┃音乐",
     "type": 3,
-    "api":"https://gitee.com/lyun_1_0/tb/raw/master/YY/轻音乐.py",
+    "api":"https://gitee.com/lyun_1_0/TS/raw/main/YY/轻音乐.js",
     "changeable":0
 },
 {
-    "key": "csp_枫叶电影网",
-    "name": "💞┃枫叶┃影院",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/XYQ/枫叶.php"
-}, 
-{
-    "key": "csp_咕咚电影网",
-    "name": "💞┃咕咚┃电影",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/XYQ/咕咚.php"
-}, 
-{
-    "key": "csp_xBPQ_天狗追剧",
-    "name": "💞┃天狗┃追剧",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/XYQ/天狗.php"
+    "key":"spider_2097848346373787648",
+    "name":"🈚┃热播┃C4T",
+    "type":4,
+    "api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848346373787648?token=banye666",
+    "filterable":0
 },
 {
-    "key": "csp_低端",
-    "name": "💞┃低端┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/XYQ/低端.php"
+    "key":"spider_2097848347502055424",
+    "name":"🈚┃天堂┃C4T",
+    "type":4,
+    "api":"https://banyeomni.780420.xyz:17777/api/tvbox/source/2097848347502055424?token=banye666",
+    "filterable":0
+},
+{
+    "key":"csp_影探",
+    "name":"🈚┃影探┃C4K",
+    "type":4,
+    "api":"http://8.134.205.252:39466/pz/sx4k.php/api.php/provide/vod/?ac=list",
+    "indexs": 0
+},
+{
+    "key":"csp_未来",
+    "name":"🈚┃未来┃C4K",
+    "type":1,
+    "api":"http://110.42.66.100:12678/api.php",
+    "playUrl":"json:http://110.42.66.100:5666/api/?key=c31bfd818ac47875ab4922f03834afcc&url=",
+    "indexs": 0
 },
 {
     "key": "葫芦",
@@ -673,11 +633,11 @@
   }
 },
 {
-    "key": "ConfigCenter",
-    "name": "🇨🇳┣☪公✿告┫信息",
+    "key": "csp_PanShare",
+    "name": "🇨🇳┣☪网✿盘┫资源",
     "type": 3,
-    "api": "csp_Notice",
-    "ext": ""
+    "api": "csp_PanShare",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/wp.json"
 },
 {
     "key": "csp_Market",
@@ -729,9 +689,9 @@
 	
 "lives": [
 {
-    "name": "📺芸芸💓直播",
+    "name": "📺魔盒💓直播",
     "type":0,
-    "url":"https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/lib/芸直播.txt",
+    "url":"https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/lib/yyzb.php",
     "changeable": 0
 }],
 "ads": ["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com"]}
