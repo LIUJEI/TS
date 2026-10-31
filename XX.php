@@ -1,78 +1,37 @@
 {
   "warningText":"💕永久完全免费，切勿付费购买💕",  
-  "spider": "https://gitee.com/lyun_1_0/tb/raw/master/JAR/MX.jar;md5;bd915ff5064ed30584858d192ed662f7",
+  "spider": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MS.jar;md5;98736d1596db04ff58b0a2905116c8ae",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
 {
   "key": "🈲",
   "name": "📛TH┃少儿不宜",
-  "type": 1,
-  "api": "csp"
-},
-{
-  "key": "色播",
-  "name": "📛TH┃直播",
   "type": 3,
-  "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/色播.php",
+  "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/色播.js",
   "searchable": 1,
   "changeable": 0
 },
 {
-  "key": "瑟瑟直播[密]",
-  "name": "瑟瑟🥥直播",
+  "key": "瑟瑟直播",
+  "name": "📛TH┃瑟瑟直播",
   "type": 3,
-  "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/瑟直播.py",
+  "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/瑟直播.py",
   "order_num": 5
-},
-{
-  "key": "九合一版",
-  "name": "瑟瑟🥥聚合",
-  "type": 3,
-  "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/聚合.py",
-  "order_num": 5
-},
-{
-  "key": "妲己[密]",
-  "name": "撸铁🥥妲己",
-  "type": 3,
-  "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XB/妲己.py",
-  "order_num": 5
-},
-{
-  "key": "猪八戒p",
-  "name": "撸铁🥥八戒",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/猪八戒.php"
-},
-{
-  "key": "色花堂",
-  "name": "撸铁🥥色堂",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/色花堂.php"
 },
 {
   "key": "野鸡🐔TV",
   "name": "撸铁🥥野鸡",
   "type": 3,
   "api": "csp_XBPQ",
-  "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/野鸡TV.php"
+  "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/野鸡.php"
 },
 {
-  "key": "Free",
-  "name": "撸铁🥥Free",
+  "key": "九合一版",
+  "name": "瑟瑟🥥聚合",
   "type": 3,
-  "api": "csp_XBPQ",
-  "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/Free.php"
-},
-{
-  "key": "魔法少女2",
-  "name": "撸铁🥥少女",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/探花.php"
+  "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/聚合.py",
+  "order_num": 5
 },
 {
   "key": "熊猫",
