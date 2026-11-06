@@ -15,7 +15,7 @@
 },
 {
     "key": "csp_YGP",
-    "name": "🎬┣预告┫10.30",
+    "name": "🎬┣新片┫预告",
     "type": 3,
     "api": "csp_YGP",
     "indexs": 0
