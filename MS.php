@@ -133,6 +133,12 @@
     "indexs": 0
 },
 {
+    "key": "葫芦",
+    "name": "🌗┃葫芦┃APP",
+    "type": 3,
+    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YS/葫芦.js"
+},
+{
     "key": "蓝鸟",
     "name": "🐦┃蓝鸟┃APP",
     "type": 3,
@@ -157,18 +163,6 @@
     "ua": "okhttp/3.10.0"}
 },
 {
-    "key": "葫芦",
-    "name": "🌗┃葫芦┃APP",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/模块/cat.js",
-    "ext": {
-    "host": "http://v12-1-hulucms.nmgzxrl.com",
-    "key": "8R33VQSxzmCaHpEX",
-    "ua": "okhttp/3.10.0",
-    "init": "V122",
-    "api": 2}
-},
-{
     "key": "魔方",
     "name": "👾┃魔方┃APP",
     "type": 3,
@@ -177,40 +171,6 @@
     "url": "https://www.douy32mf.top",
     "dataKey": "1234567887654321",
     "dataIv": "1234567887654321"}
-},
-{
-    "key": "dr_看客TV",
-    "name": "💋┃看客┃秒播",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/模块/kanke.py",
-    "ext": {
-    "host": "https://kanke.kankelm.cn:2024",
-    "key": "ygcnbcvybqqckwqy",
-    "iv": "1583560747143708"}
-},
-{
-    "key": "dr_好好看",
-    "name": "🎒┃好看┃秒播",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/模块/ack.js",
-    "ext": {
-    "appid": "hkan",
-    "channelid": "c300000",
-    "versionName": "3.3.9",
-    "host": "https://vcache.shkjbd.com",
-    "package": "com.hkanC300000V250930.T120445",
-    "sort": "dujia1,dujia",
-    "lineCount": 1}
-},
-{
-    "key": "dr_欣欣影视",
-    "name": "✨┃欣欣┃秒播",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/模块/XinJie.py",
-    "ext": {
-    "host": "usv46c9uRCE/PugcvJY1Pc/BM6KQv8vKYzpgVFmTPv8wdb18jQRMx9ElUPtnlHCd",
-    "key": "505cab36b1111416",
-    "iv": "0e832063ac451b27"}
 },
 {
     "key": "csp_云朵",
@@ -299,29 +259,6 @@
     "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
     "version": "1.0.0.3",
     "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB"}
-},
-{
-    "key": "dr_南瓜APP",
-    "name": "🎃┃南瓜┃APP",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/模块/min.js",
-    "ext": {
-    "appId": "10003",
-    "verCode": 58,
-    "verName": "1.0.0",
-    "pkg": "com.dongyu.movies",
-    "appKey": "00823f50736454de37cfef8b260c9e35",
-    "appSecret": "aca767d257733a3d97fe125bb9150feb",
-    "soMd5": "28922fee11cea66d7e9f2b5c02151b44",
-    "apkMd5": "415705b07be237654f9a760306f01c9f",
-    "pkgMd5": "725e9c0fda0e0925e234d8256dc08b07",
-    "signMd5": "d97197f84e41b05941688809857e0685",
-    "host": ["https://nanguasp.oss-cn-hangzhou.aliyuncs.com/nannan07124.json"],
-    "newHost": "http://134.175.188.60:4491",
-    "bizHost": "http://134.175.188.60:2025",
-    "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsfgFYt5LTHeDslGbyQb836pa/f9FaJa20ZvU3rq2TaT4QxbhzMz0QlXhxyJA78VEooiFzNsOKJDFZAvAYGHid1BvTkqEmwaUD38WN/gOXWPevX20X13kbKlKctbTzqB6CsKLdxYyjB4awtF6o66cVFwLAjPmeePSxiSIoMKaO8jZakhHlPMhIgztAgd09eX+bSM6pve35k9CV5X2GSey7Dtth4DQz/NZVc8HGb79uhyrwH1h6IV3BKgOoqcpsHUcggoV1bJ3IIT0+WUMM8S9Yo2dh9T2EXc+gmIH0UAIxwKxmO1jTNzTDR7BvOCMnJQs5DIUx409BPdLdg4zg0SbmQIDAQAB",
-    "privateKey": "MIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCN9LrnN2+FFW9oTw5ySIQxClbNZyPQyXyueQmsJw9PELWamIvyrVDhsi2862Da83nXRwjzcBsuT3fSq4BETKfRpsOrI3xprN6HyB+aALoYJbdMt5p3liUeyaw9WNxGZ2VhJ+st6ThGNikKRinFgPkOKaocZgefK7MuKI/EJKrj/FFB1WUE1I1/TT5bkIFMmjc8dszKyqxNdDaRgNTNP1Xou0s/tRCgKpmc503wf2h46F94YK6tpbHvYKouCCKps5ieUu+eWsXZmLRfiM0iZQcD0K5wcbrMvWcS/KmElkWPsCOwErpd/EDgeIbVKtsoHPewG8fOta75iCcb8/J56VbZAgMBAAECggEBAI2+8WIvWIvq+3OMfUBgaJ8PU92GP50blAQjmCTuW7r3VF8qM5P+u+ShpkoePnhi5iawJ5/tMTbs4xjZZxrL8EbH3lnk9TYQB6RNkECWuTujbYSNURBYPHihp/sZ39ntJK3+zjbpyedR7Wj05oDwZ8BcmiABQVsOp7xPhD623m0G3wSYtv1bIeCc+vP8pc1kauCPXl5ZyNCUN6XZKH1mvRkGd+VP9hCYr5LOsPVvn3JM8yF5HUJbxltzZVU/m9WcN9D3lcJ9pqpKBd99G1l5zsN+U23+4VvwX8Qhj4ZkNlMCaNndj+6PvhPGMp4+cCpt94I3xh/OqjdrUAd6jnZpioECgYEA709jQ+yFCobRPKzT/PT6KsqVIJJn0FTMXVc1VP5Sn3t5NTQ+iLzOxQRcO1aTNFVgNKhIgsVnVlGh+1Oa2Zor3vXr1eQBjHCZ2zOH+2QdZbRk4GXoOsZ0d203H189SBCTVj20Zd8mL5csBvihIsMjKZ6R62k/mEyOLD+IVuh+axMCgYEAl9sxrVbU1bvGYgHkGWV7BkqYsezOXR65F3eRq8jbNV0YdYN7rnFCStllIJsMCzJBSs2rBD3lcY6/Tk2ThlFIVHVEhgjjRAUIrLHQBJrFKCSusDMGX39Ekk5DZa+5JNak5J7Ikon6klYtDa1G8PFQTJDKTDfQLm/NgryVFS4Np+MCgYEAljLAfcg8NEAroSZkIvbq8OKXOItLRxGB9u+eVIsO9nP7vi3dNdsy96rl7IRI/ea77DDW2eTmF+JChUiS/xJpiJXXADcL1cZyeobcSScr4EKZsdGkMQeP38kXeMRA5TMqFk3CJNIq2GHMS0/Pas8JCb0xnow/UupxrUnu24UumysCgYBKjYuLDVk6gZC45zLEISVQBmmG2LrLztySH9q9msO8JDNw5hdfoi0osChM5LH6ATc68VQnpfeyU6GqYL2vsNIw3M3CfDSPXWVP25BD4nQu7CtzR+m2ErZomdHO54GfC14y+51/DAyfsX02/L4aZm7E2ETpPHGRisQ7jjgnCNAdfwKBgQDSVzfLvsDi2UqbTjyEIeVYPfgm3Owo0fh79rKvinAainQHabVkAezx+RwiJdWeor/08WiyDjFZC86hJOH8gSMLZ2yJw6EVgHqLTvJ+nkYbk0LzvS2gS2h9lDnqOkkKGZBc5l8k/ScCytcDz3WUFEC2TV2CXDj89H14699s1SjpSw=="
-  }
 },
 {
     "key": "ShortHaokan",
@@ -502,37 +439,43 @@
     "key": "dr_腾迅",
     "name": "🆚┃騰訊┃ TV",
     "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/QQtv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/QQtv.js"
 },
 {
     "key": "dr_芒果",
     "name": "🆚┃芒果┃ TV",
     "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/MGtv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/MGtv.js"
 },
 {
     "key": "dr_奇异",
     "name": "🆚┃奇藝┃ TV",
     "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/AQItv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/AQItv.js"
 },
 {
     "key": "dr_优酷",
     "name": "🆚┃優酷┃ TV",
     "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/yKtv.py"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/yKtv.py"
 },
 {
     "key": "dr_哔哩视频",
     "name": "🆚┃嗶哩┃ TV",
     "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/bili.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/bili.js"
  },
  {
     "key": "dr_搜狗",
     "name": "🆚┃搜狗┃ TV",
     "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/SGtv.js"
+    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/libs/drpy2.js",
+    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/SGtv.js"
 },
 {
     "key": "liuliys",
@@ -546,8 +489,8 @@
     "name": "🇨🇳┣☪公✿告┫信息",
     "type": 3,
     "api": "csp_Notice",
-    "jar": "https://gitee.com/lyun_1_0/tb/raw/master/lib/liuli.php",
-    "ext": "https://gitee.com/lyun_1_0/tb/raw/master/lib/公告.php"
+    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/lib/liuli.php",
+    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/lib/公告.php"
 }
 ],
 "parses": [	
