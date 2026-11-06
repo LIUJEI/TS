@@ -1,6 +1,6 @@
 {
   "warningText":"💕永久完全免费，切勿付费购买💕",  
-  "spider": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MS.jar;md5;98736d1596db04ff58b0a2905116c8ae",
+  "spider": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MX.jar;md5;838FBE72364335C3380C810C4BEEF2C7",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
@@ -8,7 +8,7 @@
   "key": "🈲",
   "name": "📛TH┃少儿不宜",
   "type": 3,
-  "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/色播.js",
+  "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/色播.php",
   "searchable": 1,
   "changeable": 0
 },
@@ -20,18 +20,18 @@
   "order_num": 5
 },
 {
+  "key": "九合一版",
+  "name": "瑟瑟🥥聚合",
+  "type": 3,
+  "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/九合.py",
+  "order_num": 5
+},
+{
   "key": "野鸡🐔TV",
   "name": "撸铁🥥野鸡",
   "type": 3,
   "api": "csp_XBPQ",
-  "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/野鸡.php"
-},
-{
-  "key": "九合一版",
-  "name": "瑟瑟🥥聚合",
-  "type": 3,
-  "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/聚合.py",
-  "order_num": 5
+  "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/XYQ/野鸡.php"
 },
 {
   "key": "熊猫",
