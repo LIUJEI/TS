@@ -5,6 +5,10 @@
       "type_id": "MV"
     },
     {
+      "type_name": "【🎵无损音乐】",
+      "type_id": "无损音乐"
+    },
+    {
       "type_name": "【🎵酷狗音乐】",
       "type_id": "酷狗音乐MV"
     },
@@ -17,22 +21,6 @@
       "type_id": "QQ音乐MV"
     },
     {
-      "type_name": "【🎵无损音乐】",
-      "type_id": "无损音乐"
-    },
-    {
-      "type_name": "【🎵抖音音乐】",
-      "type_id": "抖音音乐MV"
-    },
-    {
-      "type_name": "【🎵快手音乐】",
-      "type_id": "快手音乐MV"
-    },
-    {
-      "type_name": "【🎵网易云音乐】",
-      "type_id": "网易云经典歌曲"
-    },
-    {
       "type_name": "【🎵听海音乐】",
       "type_id": "听海音乐MV"
     },
@@ -43,6 +31,10 @@
     {
       "type_name": "【🎵千千音乐】",
       "type_id": "千千音乐MV"
+    },
+    {
+      "type_name": "【🎵网易云音乐】",
+      "type_id": "网易云经典歌曲"
     },
     {
       "type_name": "【🎵好听轻音乐】",
