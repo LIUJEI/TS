@@ -21,18 +21,6 @@
       "type_id": "QQ音乐MV"
     },
     {
-      "type_name": "【🎵听海音乐】",
-      "type_id": "听海音乐MV"
-    },
-    {
-      "type_name": "【🎵米兔音乐】",
-      "type_id": "米兔音乐MV"
-    },
-    {
-      "type_name": "【🎵千千音乐】",
-      "type_id": "千千音乐MV"
-    },
-    {
       "type_name": "【🎵网易云音乐】",
       "type_id": "网易云经典歌曲"
     },
