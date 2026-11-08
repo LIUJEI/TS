@@ -67,24 +67,6 @@
    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/饭团.js"
 },
 {
-    "key": "dr_小苹果",
-    "name": "🆚┃苹果┃秒播",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/苹果.js"
-},
-{
-    "key": "dr_橘汁",
-    "name": "🆚┃橘汁┃秒播",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/橘汁.js"
-},
-{
-    "key": "dr_华谊",
-    "name": "🆚┃华谊┃秒播",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/华谊.js"
-},
-{
     "key": "dr_半日",
     "name": "🆚┃半日┃秒播",
     "type": 3,
@@ -127,12 +109,6 @@
     "api":"https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/王子.js"
 },
 {
-    "key": "dr_人人视频",
-    "name": "🆚┃人人┃影視",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/人人.js"
-},
-{
    "key": "dr_duoduo",
    "name": "🆚┃多多┃影視",
    "type": 3,
@@ -157,28 +133,10 @@
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/厂长.js"
 },
 {
-    "key": "dr_极速",
-    "name": "🆚┃极速┃影視 ",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/极速.js"
-},
-{
-    "key": "dr_快映",
-    "name": "🆚┃快映┃影視",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/快映.js"
-},
-{
     "key": "dr_茶杯狐",
     "name": "🆚┃茶杯┃影視",
     "type": 3,
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/茶杯.js"
-},
-{
-    "key": "dr_小鸡看看",
-    "name": "🆚┃看看┃影視",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/小鸡.py"
 },
 {
     "key": "dr_剧圈",
@@ -193,16 +151,16 @@
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/枫叶.js"
 },
 {
+    "key": "dr_爱电影",
+    "name": "🆚┃爱影┃影視",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/爱影.js"
+},
+{
     "key": "dr_硬核影视",
     "name": "🆚┃硬核┃影視",
     "type": 3,
     "api":"https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/硬核.js"
-},
-{
-    "key": "dr_努努影院",
-    "name": "🆚┃努努┃影視",
-    "type": 3,
-    "api":"https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/努努.js"
 },
 {
     "key": "dr_蚂蚁影视",
@@ -217,6 +175,18 @@
     "api":"https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/农民.js"
 },
 {
+    "key": "dr_极速",
+    "name": "🆚┃极速┃影視 ",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/极速.js"
+},
+{
+    "key": "dr_快映",
+    "name": "🆚┃快映┃影視",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/快映.js"
+},
+{
     "key": "dr_优夏",
     "name": "🆚┃优夏┃影視",
     "type": 3,
@@ -227,12 +197,6 @@
     "name": "🆚┃毒舌┃影視",
     "type": 3,
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/毒舌.js"
-},
-{
-    "key": "dr_星辰",
-    "name": "🆚┃星辰┃影視",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/星辰.js"
 },
 {
     "key": "dr_葫芦",
@@ -269,12 +233,6 @@
     "name": "🆚┃豆花┃影視",
     "type": 3,
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/豆花.js"
-},
-{
-    "key": "dr_爱电影",
-    "name": "🆚┃爱影┃影視",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/爱影.js"
 },
 {
     "key": "dr_fk",
@@ -323,6 +281,36 @@
     "name": "🆚┃开心┃影視",
     "type": 3,
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/开心.js"
+},
+{
+    "key": "dr_小苹果",
+    "name": "🆚┃苹果┃高版",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/苹果.js"
+},
+{
+    "key": "dr_橘汁",
+    "name": "🆚┃橘汁┃高版",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/橘汁.js"
+},
+{
+    "key": "dr_华谊",
+    "name": "🆚┃华谊┃高版",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/华谊.js"
+},
+{
+    "key": "dr_人人视频",
+    "name": "🆚┃人人┃高版",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/人人.js"
+},
+{
+    "key": "dr_小鸡看看",
+    "name": "🆚┃看看┃影視",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/小鸡.py"
 },
 {
     "key": "dr_南瓜",
@@ -397,10 +385,11 @@
     "api" : "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/du/花生.js"
 },
 {
-    "key": "dr_hongguo[短]",
-    "name": "🈺┃红果┃短剧",
+    "key": "dr_大全[短]",
+    "name": "🈺┃大全┃短剧",
     "type": 3,
-    "api": "https://oss-v1.wangmeipo.cn/236/红果短剧.py"
+    "api": "csp_XBPQ",
+    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/du/大全.json"
 },
 {
     "key": "dr_WUSENG[短]",
