@@ -35,11 +35,11 @@
     "ext": "https://www.gs4x7nq4.com"
 },
 {
-    "key" : "csp_葫芦", 
-    "name" : "🍐┃影視┃葫芦", 
-    "type" : 3 , 
-    "api" : "csp_Hulu",
-    "indexs": 0
+    "key": "csp_ixcyy",
+    "name": "🌟┃影視┃星晨",
+    "type": 3,
+    "api": "csp_XingChen",
+    "ext": "https://www.ixcyy.tv"
 },
 {
     "key": "csp_1234影视",
@@ -132,7 +132,19 @@
     "indexs": 0
 },
 {
-    "key": "蓝鸟",
+    "key": "csp_葫芦",
+    "name": "🍐┃葫芦┃APP",
+    "type": 3,
+    "api": "csp_AppQi",
+    "ext": {
+    "url": "http://v12-1-hulucms.nmgzxrl.com",
+    "dataKey": "8R33VQSxzmCaHpEX",
+    "dataIv": "8R33VQSxzmCaHpEX",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "csp_蓝鸟",
     "name": "🐦┃蓝鸟┃APP",
     "type": 3,
     "api": "csp_AppQi",
@@ -152,6 +164,30 @@
     "url": "http://103.217.190.91:5566",
     "dataKey": "hagYExMdMkeWfemK",
     "dataIv": "hagYExMdMkeWfemK",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "王子",
+    "name": "🤵🏻┃王子┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://app.95112475.xyz",
+    "dataKey": "5a9w6x58dsq6z3a6",
+    "dataIv": "5a9w6x58dsq6z3a6",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"}
+},
+{
+    "key": "csp_魔方",
+    "name": "💠┃魔方┃APP",
+    "type": 3,
+    "api": "csp_AppGet",
+    "ext": {
+    "url": "https://www.douy32mf.top",
+    "dataKey": "1234567887654321",
+    "dataIv": "1234567887654321",
     "init": "initV122",
     "ua": "okhttp/3.10.0"}
 },
@@ -184,23 +220,7 @@
     "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB"}
 },
 {
-    "key": "橘汁",
-    "name": "🍋┃橘汁┃APP",
-    "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "橘汁",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-    "dataKey": "ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.asjdhjhd.mgd.p3",
-    "host": "",
-    "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-    "version": "3.0.7.0",
-    "decrypt": "1"}
-},
-{
-    "key": "华谊",
+    "key": "csp_华谊",
     "name": "🇨🇳┃华谊┃APP",
     "type": 3,
     "api": "csp_AppDrama",
@@ -231,7 +251,7 @@
 },
 {
     "key": "剧圈99",
-    "name": "💞┃剧圈┃APP",
+    "name": "🌗┃剧圈┃APP",
     "type": 3,
     "api": "csp_App99",
     "ext": {
