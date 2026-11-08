@@ -283,6 +283,12 @@
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/开心.js"
 },
 {
+    "key": "dr_小鸡看看",
+    "name": "🆚┃看看┃影視",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/小鸡.py"
+},
+{
     "key": "dr_小苹果",
     "name": "🆚┃苹果┃高版",
     "type": 3,
@@ -305,12 +311,6 @@
     "name": "🆚┃人人┃高版",
     "type": 3,
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/人人.js"
-},
-{
-    "key": "dr_小鸡看看",
-    "name": "🆚┃看看┃影視",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/小鸡.py"
 },
 {
     "key": "dr_南瓜",
