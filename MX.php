@@ -2,7 +2,7 @@
 /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
 
   "warningText":"💕永久完全免费，切勿付费购买💕",  
-  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/MX.jar;md5;838FBE72364335C3380C810C4BEEF2C7",
+  "spider": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MX.jar;md5;838FBE72364335C3380C810C4BEEF2C7",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
 
@@ -49,28 +49,10 @@
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/qq4K.js"
 },
 {
-    "key": "dr_快映",
-    "name": "🆚┃快映┃秒播",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YS/快映.js"
-},
-{
     "key": "dr_咕噜",
     "name": "🆚┃咕噜┃秒播",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YS/咕噜.js"
-},
-{
-    "key": "dr_半日",
-    "name": "🆚┃半日┃秒播",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YS/半日.js"
-},
-{
-    "key": "dr_剧圈",
-    "name": "🆚┃剧圈┃秒播",
-    "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YS/剧圈.js"
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/咕噜.js"
 },
 {
     "key": "dr_MTYY",
@@ -101,6 +83,12 @@
     "name": "🆚┃华谊┃秒播",
     "type": 3,
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/华谊.js"
+},
+{
+    "key": "dr_半日",
+    "name": "🆚┃半日┃秒播",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/半日.js"
 },
 {
     "key": "dr_剧下饭",
@@ -134,21 +122,15 @@
 },
 {
     "key": "dr_王子TV",
-    "name": "🆚┃王子┃秒播",
+    "name": "🆚┃王子┃影視",
     "type": 3,
     "api":"https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/王子.js"
 },
 {
     "key": "dr_人人视频",
-    "name": "🆚┃人人┃秒播",
+    "name": "🆚┃人人┃影視",
     "type": 3,
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/人人.js"
-},
-{
-    "key": "dr_小鸡",
-    "name": "🆚┃小鸡┃影視",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/小鸡.py"
 },
 {
    "key": "dr_duoduo",
@@ -181,10 +163,28 @@
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/极速.js"
 },
 {
+    "key": "dr_快映",
+    "name": "🆚┃快映┃影視",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/快映.js"
+},
+{
     "key": "dr_茶杯狐",
     "name": "🆚┃茶杯┃影視",
     "type": 3,
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/茶杯.js"
+},
+{
+    "key": "dr_小鸡看看",
+    "name": "🆚┃看看┃影視",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/PY/小鸡.py"
+},
+{
+    "key": "dr_剧圈",
+    "name": "🆚┃剧圈┃影視",
+    "type": 3,
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/剧圈.js"
 },
 {
     "key": "dr_maple",
@@ -236,33 +236,33 @@
 },
 {
     "key": "dr_葫芦",
-    "name": "🆚┃葫芦┃秒播",
+    "name": "🆚┃葫芦┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YS/葫芦.js"
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/葫芦.js"
 },
 {
     "key": "dr_蓝鸟",
-    "name": "🆚┃蓝鸟┃秒播",
+    "name": "🆚┃蓝鸟┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YS/蓝鸟.js"
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/蓝鸟.js"
 },
 {
     "key": "dr_蓝鹰",
-    "name": "🆚┃蓝鹰┃秒播",
+    "name": "🆚┃蓝鹰┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YS/蓝鹰.js"
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/蓝鹰.js"
 },
 {
     "key": "dr_好看",
-    "name": "🆚┃好看┃秒播",
+    "name": "🆚┃好看┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YS/好看.js"
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/好看.js"
 },
 {
     "key": "dr_欣欣",
-    "name": "🆚┃欣欣┃秒播",
+    "name": "🆚┃欣欣┃影視",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YS/欣欣.js"
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/欣欣.js"
 },
 {
     "key": "dr_豆花",
@@ -271,10 +271,10 @@
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/豆花.js"
 },
 {
-    "key": "dr_66大片网",
-    "name": "🆚┃大片┃影視",
+    "key": "dr_爱电影",
+    "name": "🆚┃爱影┃影視",
     "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/大片.js"
+    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/爱影.js"
 },
 {
     "key": "dr_fk",
@@ -284,7 +284,7 @@
 },
 {
     "key": "dr_白嫖鸭",
-    "name": "🆚┃嫖鸭┃影視",
+    "name": "🆚┃白嫖┃影視",
     "type": 3,
     "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/嫖鸭.js"
 },
@@ -545,13 +545,6 @@
     "ext": "https://api.wujinapi.me/api.php/provide/vod/"
 },
 {
-    "key": "csp_金鹰资源",
-    "name": "🆑┃金鹰┃影院",
-    "type": 3,
-    "api": "csp_CAiys",
-    "ext": "https://jyzyapi.com/provide/vod/"
-},
-{
     "key": "csp_360资源",
     "name": "🆑┃三六┃影院",
     "type": 3,
@@ -566,10 +559,18 @@
     "ext": "https://subocaiji.com/api.php/provide/vod/"
 },
 {
-    "key": "dr_皮虾",
-    "name": "🆑┃皮虾┃秒播",
+    "key": "csp_爱奇艺",
+    "name": "🆑┃爱奇┃艺采",
     "type": 3,
-    "api": "https://gitee.com/lyun_1_0/TS/raw/main/YS/皮虾.js"
+    "api": "csp_CAiys",
+    "ext": "https://www.iqiyizyapi.com/api.php/provide/vod/"
+},
+{
+    "key": "csp_创享影院",
+    "name": "🆑┃创享┃影院",
+    "type": 3,
+    "api": "csp_CAiys",
+    "ext": "https://ys.cxkjg.cn/api/provide/vod/"
 },
 {
     "key":"spider_2097848346373787648",
