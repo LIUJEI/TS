@@ -1,6 +1,6 @@
 {
   /*-----------------------JAR包接口&壁纸接口(可替换)-----------------------*/
-  "spider": "https://gitee.com/lyun_1_0/TS/raw/main/JAR/spider.jar",
+  "spider": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/JAR/MS.jar;md5;98736d1596db04ff58b0a2905116c8ae",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
@@ -28,25 +28,25 @@
     "ext": {"url": "http://v.rbotv.cn"}
 },
 {
-    "key": "csp_下饭",
-    "name": "🍘┃影視┃下饭",
-    "type": 3,
-    "api": "csp_JuXiaFan",
-    "indexs": 0
-},
-{
-    "key": "csp_ixcyy",
-    "name": "🌟┃影視┃星晨",
-    "type": 3,
-    "api": "csp_XingChen",
-    "ext": "https://www.ixcyy.tv"
-},
-{
     "key": "csp_快映fox",
     "name": "🎞┃影視┃快映",
     "type": 3,
     "api": "csp_AppFox",
     "ext": "https://www.pjb777.top/ky4kbgq7b273.json"
+},
+{
+    "key": "搜剧AI",
+    "name": "🎈┃影視┃搜剧",
+    "type": 3,
+    "api": "csp_SouJu",
+    "indexs": 0
+},
+{
+    "key": "秋蝉",
+    "name": "🛸┃影視┃秋蝉",
+    "type": 3,
+    "api": "csp_Bdjmcc",
+    "indexs": 0
 },
 {
     "key": "csp_农民",
@@ -67,42 +67,7 @@
     "name" : "💋┃影視┃爱影" , 
     "type": 3,
     "api": "csp_Jpys",
-    "ext": "https://www.gs4x7nq4.com,https://y2s52n7.com"
-},
-{
-    "key": "csp_1234影视",
-    "name": "🥨┃影視┃四季",
-    "type": 3,
-    "api": "csp_Bdjmcc",
-    "indexs": 0
-},
-{
-    "key": "csp_搜剧AI",
-    "name": "🎆┃影視┃搜剧",
-    "type": 3,
-    "api": "csp_SouJu",
-    "indexs": 0
-},
-{
-    "key": "csp_米诺",
-    "name": "🍚┃影視┃米诺",
-    "type": 3,
-    "api": "csp_AppMN",
-    "indexs": 0
-},
-{
-    "key": "csp_懂片帝",
-    "name": "🍭┃影視┃懂片",
-    "type": 3,
-    "api": "csp_DongPian",
-    "indexs": 0
-},
-{
-    "key": "csp_杜北",
-    "name": "🍸┃影視┃杜北",
-    "type": 3,
-    "api": "csp_Dubk",
-    "indexs": 0
+    "ext": "https://www.gs4x7nq4.com,https://www.sunnafh.com"
 },
 {
     "key": "csp_韩圈",
@@ -133,31 +98,10 @@
     "indexs": 0
 },
 {
-    "key": "csp_飞娱",
-    "name": "🍬┃影視┃飞娱",
-    "type": 3,
-    "api": "csp_Feiyu",
-    "indexs": 0
-},
-{
     "key": "csp_瓜子",
     "name": "🥑┃影視┃瓜子",
     "type": 3,
     "api": "csp_Gz360",
-    "indexs": 0
-},
-{
-    "key": "csp_骚火影视",
-    "name": "♨️┃影視┃骚火",
-    "type": 3,
-    "api": "csp_SaoHuo",
-    "ext": "https://shdy5.us"
-},
-{
-    "key": "csp_1905",
-    "name": "📽┃影視┃老片",
-    "type": 3,
-    "api": "csp_Web1905",
     "indexs": 0
 },
 {
@@ -172,38 +116,6 @@
     "name": "🦓┃影視┃马猴",
     "type" : 3 , 
     "api" : "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/mahou.js"
-},
-{
-    "key": "js_腾讯视频",
-    "name": "🐧┃影視┃企鹅4K",
-    "type": 3,
-    "api": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/YS/qq4K.js"
-},
-{
-    "key": "dr_小山影视",
-    "name": "🌰┃影視┃山楂4K",
-    "type": 3,
-    "api": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/xiaosan.js"
-},
-{
-    "key": "fengyei",
-    "name": "🍁┃影視┃枫叶",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://testingcf.jsdelivr.net/gh/LIUJEI/TS@main/TS/fengyei.php",
-    "indexs": 0
-},
-{
-    "key": "csp_葫芦",
-    "name": "🍐┃葫芦┃APP",
-    "type": 3,
-    "api": "csp_AppQi",
-    "ext": {
-    "url": "http://v12-1-hulucms.nmgzxrl.com",
-    "dataKey": "8R33VQSxzmCaHpEX",
-    "dataIv": "8R33VQSxzmCaHpEX",
-    "init": "initV122",
-    "ua": "okhttp/3.10.0"}
 },
 {
     "key": "csp_蓝鸟",
@@ -226,18 +138,6 @@
     "url": "http://103.217.190.91:5566",
     "dataKey": "hagYExMdMkeWfemK",
     "dataIv": "hagYExMdMkeWfemK",
-    "init": "initV122",
-    "ua": "okhttp/3.10.0"}
-},
-{
-    "key": "王子",
-    "name": "🤵🏻┃王子┃APP",
-    "type": 3,
-    "api": "csp_AppGet",
-    "ext": {
-    "url": "https://app.95112475.xyz",
-    "dataKey": "5a9w6x58dsq6z3a6",
-    "dataIv": "5a9w6x58dsq6z3a6",
     "init": "initV122",
     "ua": "okhttp/3.10.0"}
 },
@@ -281,6 +181,7 @@
     "version": "1.0.0.3",
     "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB"}
 },
+
 {
     "key": "csp_华谊",
     "name": "🇨🇳┃华谊┃APP",
@@ -296,22 +197,6 @@
     "site": "https://1851089669.cdn.123clouddisk.com/1851089669/44107727",
     "version": "6.0.0.1",
     "decrypt": "0"}
-},
-{
-    "key": "橘汁",
-    "name": "🍋┃橘汁┃APP",
-    "type": 3,
-    "api": "csp_AppDrama",
-    "ext": {
-    "appName": "橘汁",
-    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-    "dataKey": "ZU1DSFFWNENKMDYXVUQRN0ZJDUC4PQ==",
-    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-    "pkg": "com.asjdhjhd.mgd.p3",
-    "host": "",
-    "site": "https://1848463092.cdn.123clouddisk.com/1848463092/cct/az.txt",
-    "version": "3.0.7.0",
-    "decrypt": "1"}
 },
 {
     "key": "csp_banriys",
@@ -486,59 +371,6 @@
     "indexs" : 0
 },
 {
-    "key": "番社动漫",
-    "name": "💢┃番社┃动漫",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "主页url": "https://dora.xiaoxinbk.com/",
-    "数组": "class=\"card-img-bili\"&&</a>",
-    "标题": "alt=\"&&\"",
-    "图片": "data-url=\"&&\"",
-    "链接": "href=\"&&\"",
-    "线路标题": "mt-0\">&&</h3>",
-    "播放数组": "class=\"card-body button-list\"&&</div>",
-    "播放列表": "<a&&a>",
-    "播放链接": "href=\"&&\"",
-    "播放标题": ">&&</",
-    "分类url": "https://www.dora-video.cn/search/sy/?niandai={year}&cat={class}&tag={cateId}&gaojijiansuo=1&zhuangtai={by}",
-    "分类": "全部$0#动画$20#剧场版$21#MV$22#预告片$23#直播$27#同人$25#民间$26#目录$28#中篇$30",
-    "剧情": "哆啦A梦新番$1#新哆啦A梦 台湾配音$2#哆啦A梦剧场版$3#最新预告片$6#剧场版集合$7#哆啦A梦MV$4#哆啦A梦七小子集合$11#生日特别篇$19#哆啦A梦生日特别篇$12#哆啦美生日特别篇$14#大雄生日特别篇$13#静香生日特别篇$15#胖虎生日特别篇$16#小夫生日特别篇$17#24小时直播$24#哆啦A梦中篇附映$29#哆啦A梦大山版 - 哆啦a梦1979版国语旧版 - 旧版$31#哆啦A梦大山修复&补档区$32#藤子·F·不二雄【其它动画】$33",
-    "排序": "全部$0#完结$2#连载$1#待定$-1"}
-},
-{
-    "key": "赏月",
-    "name": "💢┃赏月┃动漫",
-    "type": 3,
-    "api": "csp_AnimeTsukimi"
-},
-{
-    "key": "稀饭",
-    "name": "💢┃稀饭┃动漫",
-    "type": 3,
-    "api": "csp_AnimeXifan"
-},
-{
-    "key": "巴士动漫",
-    "name": "💢┃巴士┃动漫",
-    "type": 3,
-    "api": "csp_AnimeBashi"
-},
-{
-    "key": "吉里动漫",
-    "name": "💢┃吉里┃动漫",
-    "type": 3,
-    "api": "csp_AnimeGiri"
-},
-{
-    "key": "花子动漫",
-    "name": "💢┃花子┃动漫",
-    "type": 3,
-    "api": "csp_AnimeHuazi"
-},
-{
     "key": "dr_txvm",
     "name": "🆚┃腾讯┃RTV",
     "type": 3,
@@ -574,8 +406,8 @@
     "name": "🇨🇳┣☪公✿告┫信息",
     "type": 3,
     "api": "csp_Notice",
-    "jar": "https://gitee.com/lyun_1_0/TS/raw/main/lib/liuli.php",
-    "ext": "https://gitee.com/lyun_1_0/TS/raw/main/lib/公告.php"
+    "jar": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/lib/liuli.php",
+    "ext": "https://cnb.cool/my-liuyun/TVbox/-/git/raw/main/lib/公告.php"
 }
 ],
 "parses": [	
